@@ -37,8 +37,8 @@ For AI-based analysis and questions, use the [UAP Gerb Research Assistant](https
 
 ---
 ## 🖥️ Script Usage
-The `UAPGerb_Repo_Manager.py` script automates the following tasks:
-1. **Generates a comprehensive Word document** (`obsidian_notes_compilation.docx`) with all `.md` files.
+The `UAPGerb_Repo_Manager.py` script automates the corpus generation AI files with the following tasks:
+1. **Generates a comprehensive Word document** (`Full UAP Gerb Video Obsidian Corpus.docx`) with all `.md` files.
 2. **Splits the `07 Gerbs UAP Video Analyses` folder** into five separate Word documents.
 3. **Builds a folder tree view** (`folder_tree.txt`).
 
@@ -46,6 +46,7 @@ The `UAPGerb_Repo_Manager.py` script automates the following tasks:
 ```bash
 python UAPGerb_Repo_Manager.py
 ```
+Upload these documents into your AI of choice's memory and ask it questions, or use this custom GPT generated for you: [UAP Gerb Research Assistant](https://chatgpt.com/g/g-67baa97585e08191bb015cca779fd47a-uap-gerb-research-assistant)
 ---
 
 ## 🗺️ Roadmap
