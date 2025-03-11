@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "3dc4b42f1492f5a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "957c5d50ff1b5351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c16790b6b32822d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Gerbs UAP Video Analyses/14 UFOs in the Private Sector - Battelle Memorial Institute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 UFOs in the Private Sector - Battelle Memorial Institute"
+            }
+          },
+          {
+            "id": "6c3792039ca33b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75a4b2f21472108f",
+    "type": "split",
+    "children": [
+      {
+        "id": "27425311011ef94f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8305e3c9237bb2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2e43ee54ceb7893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tags",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "515b3b6cb7d27436",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fe4545e7e6516fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "37d2dddcd96469d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38565c3aed6650cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07 Gerbs UAP Video Analyses/07 The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 07 The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"
+            }
+          },
+          {
+            "id": "870c3207faf14bed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07 Gerbs UAP Video Analyses/13 Karl Nell & the SOL Foundation — A Key Figure in UAP Disclosure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 13 Karl Nell & the SOL Foundation — A Key Figure in UAP Disclosure"
+            }
+          },
+          {
+            "id": "ddff5c7760b0ef09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d635ff0d1396e32f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c3792039ca33b63",
+  "lastOpenFiles": [
+    "UAP Gerb Research Project Overview.md",
+    "04 Important Figures/Whistleblowers/Christopher Mellon.md",
+    "11 Terms & Definitions",
+    "04 Important Figures/Whistleblowers/David Fravor.md",
+    "04 Important Figures/Whistleblowers/Boyd Bushman.md",
+    "04 Important Figures/Whistleblowers/Bob Lazar.md",
+    "04 Important Figures/Whistleblowers/Bill Uhouse.md",
+    "04 Important Figures/Edward J. Ruppelt.md",
+    "04 Important Figures/Researchers & Scientists/Nikolai Kardishev.md",
+    "07 Gerbs UAP Video Analyses/14 UFOs in the Private Sector - Battelle Memorial Institute.md",
+    "07 Gerbs UAP Video Analyses/13 Karl Nell & the SOL Foundation — A Key Figure in UAP Disclosure.md",
+    "07 Gerbs UAP Video Analyses/13 images/Taxonomy of UAP Origin.png",
+    "07 Gerbs UAP Video Analyses/13 images/Backup Nell Slide 1.png",
+    "04 Important Figures/Researchers & Scientists/Matthew Pines.md",
+    "07 Gerbs UAP Video Analyses/13 images/Way Forward Nell Slide.png",
+    "07 Gerbs UAP Video Analyses/13 images/Pro Con Disclosure Slide.png",
+    "11 Terms & Definitions/Technology of Unknown Origins.md",
+    "07 Gerbs UAP Video Analyses/13 images",
+    "07 Gerbs UAP Video Analyses/13 images/TNO Screengrab.png",
+    "07 Gerbs UAP Video Analyses/13 images/6 Observables.png",
+    "08 Documents & External References/2024 NDAA.md",
+    "FLIR.md",
+    "04 Important Figures/Researchers & Scientists/UAP Gerb.md",
+    "07 Gerbs UAP Video Analyses/12 Incredible UFO Footage - METAPOD.md",
+    "07 Gerbs UAP Video Analyses/12 images",
+    "07 Gerbs UAP Video Analyses/12 images/Metapod Screengrab.png",
+    "10 Evidence/1950 McMinnville UFO photographs.md",
+    "u/nvmbky.md",
+    "u",
+    "10 Evidence/Flyby UFO footage.md",
+    "10 Evidence/Metapod.md",
+    "09 Organizations & Facilites/Condon Committee.md",
+    "07 Gerbs UAP Video Analyses/10 Incredible UFO Footage – FLYBY.md",
+    "07 Gerbs UAP Video Analyses/11 The Origin of the UFO Stigma.md",
+    "02 Government Secrecy Cover-Ups/Trick Memo.md",
+    "04 Important Figures/James E. McDonald.md",
+    "04 Important Figures/Skeptics/Edward Condon.md",
+    "Kingman UFO Drawing.png",
+    "07 Gerbs UAP Video Analyses/10 images/4-Chan Leaked Flyby Doc Screengrab.png",
+    "07 Gerbs UAP Video Analyses/10 images",
+    "07 Gerbs UAP Video Analyses/10 images/NASA Chase F-18a Interior.png",
+    "04 Important Figures/Representatives",
+    "04 Important Figures/Experiencers",
+    "04 Important Figures/Authors",
+    "10 Evidence",
+    "04 Important Figures/Researchers & Scientists"
+  ]
+}

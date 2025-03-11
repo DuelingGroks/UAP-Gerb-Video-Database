@@ -1,0 +1,7 @@
+---
+aliases:
+  - Eshed
+---
+
+
+[[Galactic Federation]]

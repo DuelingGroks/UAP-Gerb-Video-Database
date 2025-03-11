@@ -1,0 +1,4 @@
+---
+aliases:
+  - Dr. Hal Puthoff
+---

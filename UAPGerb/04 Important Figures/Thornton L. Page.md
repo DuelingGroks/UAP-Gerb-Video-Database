@@ -1,0 +1,5 @@
+---
+aliases:
+  - Thornton Page
+  - Page
+---
