@@ -1,6 +1,14 @@
 ---
-aliases: ["Video 13: Karl Nell - SOL Foundation", "Karl Nell UAP Disclosure", "Controlled Disclosure Schumer Amendment"]
-tags: ["#UAPVideos", "#SOLFoundation", "#Disclosure", "#Whistleblower", "#NHI"]
+aliases:
+  - "Video 13: Karl Nell - SOL Foundation"
+  - Karl Nell UAP Disclosure
+  - Controlled Disclosure Schumer Amendment
+tags:
+  - "#UAPVideos"
+  - "#SOLFoundation"
+  - "#Disclosure"
+  - "#Whistleblower"
+  - "#NHI"
 ---
 ![[13-SOL Foundation Karl Nell - A Key Figure in UAP Disclosure-thumbnail.jpg]]
 **Video Published:** February 14, 2024  
@@ -94,7 +102,7 @@ Finally, **Leslie Kean** has noted Nell was likely among the 40+ firsthand witne
 
 ---
 
-**References & Links**  
+## References & Links  
 - **Nell Full Video**: [SOL Foundation Presentation](https://www.youtube.com/watch?v=-1QCFtod6i8&t=577s)  
 - **The Debrief Article** (Kean & Blumenthal): [Intelligence Officials Reveal Non-Human Craft Retrievals](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
 - **Twitter Whistleblower Thread**: [HighPeaks77 – Karl Nell Discussion](https://twitter.com/HighPeaks77/status/1757194168604955075)  

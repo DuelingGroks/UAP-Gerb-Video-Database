@@ -12,7 +12,7 @@ tags: ["#UAPVideos", "#Battelle", "#ReverseEngineering", "#PrivateSector"]
 
 ## 📌 Overview
 
-In this video, Gerb conducts the **first deep dive** into **private sector companies** tied to the UAP phenomenon, starting with **Battelle Memorial Institute**. A non-profit organization with a long history of **classified government contracts** (from the Manhattan Project to Apollo 11 R&D), Battelle has allegedly been involved in **UFO cover-ups** and direct **material analysis**—possibly even working on **shape-memory alloys** recovered from incidents like **Roswell**.
+In this video, Gerb conducts the **first deep dive** into **private sector companies** tied to the UAP phenomenon, starting with **[[Battelle Memorial Institute]]**. A non-profit organization with a long history of **classified government contracts** (from the Manhattan Project to Apollo 11 R&D), Battelle has allegedly been involved in **UFO cover-ups** and direct **material analysis**—possibly even working on **shape-memory alloys** recovered from incidents like **Roswell**.
 
 Among the revelations and allegations:
 
@@ -83,7 +83,8 @@ Among the revelations and allegations:
 
 ## Transcript
 00;00;00;00 - 00;00;31;17
-Unknown
+### Intro
+Gerb
 Meet Battelle Memorial Institute, a private, nonprofit applied sciences and technology development company whose mission is to deliver scientific discovery and applied research that makes the world a better place to live. This private nonprofit has a prolific list of USG contracted work, including classified stops. Battelle has a storied history in the technological development of our U.S. society, including research into the fabrication of uranium for the Manhattan Project from 39 to 52.
 
 00;00;31;19 - 00;01;03;11
