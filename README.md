@@ -1,4 +1,4 @@
-# UAPGerbVideos 📽️  
+# UAP Gerb Video Database 📽️  
 **In-Depth Research on UFOs, UAPs, and Government Secrecy**
 
 ![Banner Image](images/UAPGerb-Video-Database-800x457.jpg)
@@ -37,26 +37,30 @@ For AI-based analysis and questions, use the [UAP Gerb Research Assistant](https
 
 ---
 ## 🖥️ Script Usage
-The `UAPGerb_Repo_Manager.py` script automates the following tasks:
-1. **Generates a comprehensive Word document** (`obsidian_notes_compilation.docx`) with all `.md` files.
+The `UAPGerb_Repo_Manager.py` script automates the corpus generation AI files with the following tasks:
+1. **Generates a comprehensive Word document** (`Full UAP Gerb Video Obsidian Corpus.docx`) with all `.md` files.
 2. **Splits the `07 Gerbs UAP Video Analyses` folder** into five separate Word documents.
-3. **Creates a directory listing** (`directory_listing.txt`).
-4. **Builds a folder tree view** (`folder_tree.txt`).
+3. **Builds a folder tree view** (`folder_tree.txt`).
 
 **To run the script:**
+
 ```bash
 python UAPGerb_Repo_Manager.py
 ```
 ---
+## Usage
+
+Upload the AIGerbCorpus files into an AI of your choice's memory and ask it questions, or use this one we made for you: [UAP Gerb Research Assistant](https://chatgpt.com/g/g-67baa97585e08191bb015cca779fd47a-uap-gerb-research-assistant)
+
+![UAP Gerb Research Assistant Custom GPT Example](images/ChatGPT - UAP Gerb Research Assistant.png)
+
+---
 
 ## 🗺️ Roadmap
-- [x] **Video 1:** Wilson Davis Memo Documentary
-- [x] **Video 2:** The Alien and UFO Obscure Oddities Iceberg (Level 1)
-- [x] **Video 3:** The Alien and UFO Obscure Oddities Iceberg (Level 2)
-- [x] **Video 4:** The Marines Who Got Too Close to UFOs
-- [x] **Video 5:** The First Commercial Flight Grounded Due to UFOs
-- [x] **Video 6:** MOON DUST - The Pentagon's Secret UFO Programs
-- [ ] **Video 7–36:** Pending
+- [x] **Corpus Automation Script**
+- [x] **Put Transcripts In All Videos** Adobe CC AI Transcribed
+- [x] **Video 1-13:** Correct Transcript (Mostly Proper Nouns)
+- [ ] **Video 14–37:** Pending
 
 ---
 
