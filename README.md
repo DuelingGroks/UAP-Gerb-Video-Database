@@ -47,9 +47,6 @@ The `UAPGerb_Repo_Manager.py` script automates the corpus generation AI files wi
 python UAPGerb_Repo_Manager.py
 ```
 ---
-## Usage
-
-Upload these documents into your AI of choice's memory and ask it questions, or use this custom GPT generated for you: [UAP Gerb Research Assistant](https://chatgpt.com/g/g-67baa97585e08191bb015cca779fd47a-uap-gerb-research-assistant)
 [!Banner Image](images/ChatGPT - UAP Gerb Research Assistant.png)
 ---
 
