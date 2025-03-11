@@ -43,11 +43,17 @@ The `UAPGerb_Repo_Manager.py` script automates the corpus generation AI files wi
 3. **Builds a folder tree view** (`folder_tree.txt`).
 
 **To run the script:**
+
 ```bash
 python UAPGerb_Repo_Manager.py
 ```
 ---
-[!Banner Image](images/ChatGPT - UAP Gerb Research Assistant.png)
+## Usage
+
+Upload the AIGerbCorpus files into an AI of your choice's memory and ask it questions, or use this one we made for you: [UAP Gerb Research Assistant](https://chatgpt.com/g/g-67baa97585e08191bb015cca779fd47a-uap-gerb-research-assistant)
+
+![UAP Gerb Research Assistant Custom GPT Example](images/ChatGPT - UAP Gerb Research Assistant.png)
+
 ---
 
 ## 🗺️ Roadmap
