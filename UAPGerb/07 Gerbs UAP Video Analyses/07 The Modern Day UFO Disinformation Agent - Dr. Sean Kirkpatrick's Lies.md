@@ -1,3 +1,9 @@
+---
+aliases:
+  - Sean Kirkpatrick and AARO video
+---
+
+
 ![[07-The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies-thumbnail.jpg]]
 ### 📅 Date Published
 
@@ -176,13 +182,13 @@ As of this time as well, Sean Kirkpatrick was also registered with the [[D.O.E.]
 
 00;10;00;26 - 00;10;26;14
 Gerb
-I would recommend checking that out. This is about the end of the document. But what I think is the most damning piece of evidence against AARO and why Sean Kirkpatrick and Arrow are just a front and a disinformation front is a 2022 contract was awarded to AARO in 2020 to a company called Sand Corp., was awarded $1.9 million by the [[Department of Defense]] for Arrow Support Services.
+I would recommend checking that out. This is about the end of the document. But what I think is the most damning piece of evidence against AARO and why Sean Kirkpatrick and Arrow are just a front and a disinformation front is a 2022 contract was awarded to AARO in 2020 to a company called [[Sancorp]], was awarded $1.9 million by the [[Department of Defense]] for AARO Support Services.
 
 00;10;26;19 - 00;11;03;16
 Gerb
-Okay, nothing crazy here. Contracts are awarded to private customers in industry all the time, but Sand Corp. specializes in preventing leaks and stopping whistleblowers. 
+Okay, nothing crazy here. Contracts are awarded to private customers in industry all the time, but [[Sancorp]] specializes in preventing leaks and stopping whistleblowers. 
 
-Let me repeat that again. Sand Corp. specializes in stopping leaks and preventing whistleblowers. The House Intelligence and Security [[Ronald Moultrie]]'s office was involved in securing this contract as well. 
+Let me repeat that again. [[Sancorp]] specializes in stopping leaks and preventing whistleblowers. The House Intelligence and Security [[Ronald Moultrie]]'s office was involved in securing this contract as well. 
 
 One final thing I'd like to talk about is in 2022, an apparent meeting of Sean Kirkpatrick at [[George Mason University]] in Arlington, Virginia, occurred.
 

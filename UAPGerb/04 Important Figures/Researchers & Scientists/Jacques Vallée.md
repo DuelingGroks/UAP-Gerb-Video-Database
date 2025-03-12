@@ -1,3 +1,9 @@
+---
+aliases:
+  - Jacques
+  - Vallee
+---
+
 Ph.D. in computer science & master of science in astrophysics Computer scientist, author, ufologist, astronomer Born in Pontoise, Val-d’Oise, France (1939-Present)
 
 Jacques Vallée received his Bachelor of Science degree in mathematics from the University of Sorbonne, followed by his Master of Science in astrophysics from the University of Lille. He began his career as an astronomer at the Paris Observatory in 1961. He moved to the United States in 1962 and began working in astronomy at the University of Texas, where he worked on NASA’s first project making a detailed informational map of Mars.

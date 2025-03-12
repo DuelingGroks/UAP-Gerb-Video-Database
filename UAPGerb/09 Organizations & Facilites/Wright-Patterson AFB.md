@@ -1,3 +1,8 @@
+---
+aliases:
+  - Wright-Patterson Air Force Base
+---
+
 ### **Introduction**
 
 **Wright-Patterson AFB (WPAFB)**, located in **Dayton, Ohio**, has long been considered one of the most significant locations in **U.S. military UFO history**. It has been linked to **UFO crash retrieval programs, secret aerospace research, and advanced propulsion studies**.

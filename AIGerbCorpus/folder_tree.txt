@@ -1,16 +1,15 @@
-UAPGerbVideos/
+UAP-Gerb-Video-Database/
+    .gitignore
     00 Video Markdown Template.md
     LICENSE
     README.md
     UAPGerb_Repo_Manager.py
     .git/
-        COMMIT_EDITMSG
         config
         description
         FETCH_HEAD
         HEAD
         index
-        ORIG_HEAD
         packed-refs
         hooks/
             applypatch-msg.sample
@@ -37,564 +36,20 @@ UAPGerbVideos/
                 remotes/
                     origin/
                         HEAD
-                        main
         objects/
-            01/
-                471a5fe0c2295988b5820db42ad8214badfeca
-            02/
-                1198c44fe617bcac1de9883b2da8786ec50252
-                28b371b11419dea462a0d96bb4a56ebce0845d
-            03/
-                51d3e5511f6e90c987c58d5876f7d2d73212f8
-                8a10ee6e830c65392c632ab7f98695d1a7aed4
-            05/
-                44a9e3736824f532086ba94f88e6b239a16f0a
-            06/
-                461e5bd2012d0089d0f56de71fc33aed38b2de
-            07/
-                15ef0ce2bd5ee18a123ba556738132d928728a
-                68acdcd34ae479700c7deeb8e35564d1e089b8
-            08/
-                892acdb750532fa458fd8d2728e403412de60f
-                c57a812d401533cc4946642a8fb26b8ead4f3b
-            09/
-                ab8a350cbec3ab8e608a94a1c26bf28e7905c8
-                e1d5fda64dad7b0aec26a79dac989d75634b8d
-                e1f158112d9a13ac13aa2e3829f9636d4ac508
-            0a/
-                fe4e2d407ce4f31ba9d5a7df37284788cbed38
-                ff87170e7b0064bc19aa9eca035006473df9b9
-            0b/
-                2b2656a2921953943403c24c0f4ffd01146606
-                74e4e634c209e867c3945aad5bc62c95f513d1
-            0c/
-                1260ce1f5d0eb82675ae2f5ca9700cc371e351
-                d1a0cd49ec5947e83292d388374fec77925d74
-            0d/
-                6a68854a901fa90fe183a64c76f56d9eee517f
-            11/
-                0c999031d9755e8a6e2d00c4c47c3e0023f9e4
-            12/
-                2cdca6eb462b72dec5dcbc1b799fdc2f746033
-            13/
-                435a97102f49e4d7b06aa724965b4fd487f3ff
-            14/
-                0957d3200eff660727bfab4c893c320c4192ce
-            15/
-                e6a0e914189111ddfc4442d075c010ab7418ed
-            16/
-                e741d383477c6dd76293a1dfcd144aaf800a76
-            18/
-                97e98727128052951fafc09b6dbb68115ce07f
-            19/
-                470b27dd3378d2dfd0ed8c7bea05583feb2ed3
-            1e/
-                aa69d3022a1b3bd635ed018e800bb134e35787
-                e5ee7dfea36c300856fd4933927574a60db8f7
-            1f/
-                b876c7e859fbe7a41caa0c14b5e78dfe6f7300
-            20/
-                0c1689fc3b2bbb19504b1c48ec12519c1d6eba
-            21/
-                0d872c4bff57c3275cbd9b3f835bcd54303625
-                6f05ab478d18ef90962b493dbb8e3d22909740
-            22/
-                498e06796934dd539ebe4d847e53a785769542
-                ff7fe83fabf0e27fc8de93dc02e22c795e495b
-            25/
-                e98aba24546f5bd1987dc17b220a177be5fd17
-            26/
-                8ddd1b713f521d257aa54376a41b1b38224100
-                b9e573a62c2147f911e54826d407f5cc48a40a
-            27/
-                b308066b0dfecf78bdca882454ecea3f46e2af
-            29/
-                33b28981ab7abb0dc3b84a4b4fbb3d98e3ce61
-                34d3ecafb0efd24557b4630fb33c26a757c988
-            2a/
-                b3c382048d88a2a500b3a2a4ec364d8555ddfa
-                e56ba775f6d0b4bd72f94226baffe297ace3be
-            2b/
-                a317b44398e695827e3da6904e127ba2d4cffb
-                fcd7e41d7fb2369bdc14719a5c6a96f71e2bda
-            2c/
-                054b36cf8c43305f6c15c487c1c41646a79b9a
-                386bbc6378adbe7a11b37ad6a9aa0072526e29
-            2e/
-                580687dd01d8f0b07a0829db0ab82313c25054
-            30/
-                0d2dc6683018c5d051f6c02d66d796168d6891
-                d63aab3324e597646c2b92da099a08dba92b1f
-            31/
-                c60bdb925b06f99a3a8f338201834289e81210
-                e13e89a71cc8f9b0345cbbd21f3bcc5affef75
-            33/
-                4d02bf6ce7a0bd0d0b22b6e1ac2577b95a0b5b
-                76884a23d58d862355679dd78946fb7dd9424a
-            34/
-                1fc90f696382ef1ef79e46240df6020a97f76a
-            35/
-                045c87217d23f802afa4f1824434ed786b2070
-            37/
-                5e63a025d022324f9228c5d43a4ed39c81e264
-                c97d588ab78a113534423150810c5b72a1930a
-                caa845e99460036769619da4589340e3f67edb
-            39/
-                7a19f7f08b87f6b22b3679ce0600c6aa00f0ff
-                c58eae8fffeba7a8f3bfd41d58c6ff57d88455
-            3a/
-                1f70210059a9b6ac0139edace23823998bd186
-                21999fb13e865946c2a4d91212d5a687c47a51
-            3c/
-                445082bd25f1c200ccd3d31fd01a1a807a6aea
-            3d/
-                9b2c5ac7d29647d5b25d6e290a712dfe35991c
-            3e/
-                e08f19e148b294a018a3abcceef87528f2153e
-            42/
-                14f6e4a9cd1c70eb15d25e78fa53aab82605ef
-            43/
-                6f43cf561e4d8645a8612ddb5b0dee97f2fcc5
-            44/
-                e885edb3387debbedcae846a85d463c52a9705
-            46/
-                8f6525cd6685f09b1bc13528859355b4d45c69
-                cf0ca0950b9a57f193bd9ed072760e7cdf963a
-                e478b1b5e08250b412cf9cc3fc79cbf915753a
-            47/
-                ae21c8614dde57e3865264e692af76016b2958
-            48/
-                d8be5f567dd51e88d4db2b9978a86a69443e8c
-            49/
-                541ab897a01098956395c833427a2f50b8f4c8
-                59c329a699d9d50b764bbe0707b10b0a53761a
-            4a/
-                6e5713ff340500455977770328b5c3bc5a81cf
-                dd166841db1cd66fac6c4e5f4dbeb9562b0416
-            4c/
-                340921c33aa628a7662f375a82c5e15bc979c2
-                8f566185d4ffb405f338ddbc8421c273585d0e
-            4d/
-                757506f34c416711476c5dd4a346575417671e
-                c47a7e6074f8bf4eef35d2cb103816f9b99c5a
-            4e/
-                467232900995bf0f992bf117f5c6606d0cd485
-            4f/
-                6bca5255d6cd608da87f02b84ab4d45526b475
-            50/
-                37a6c02d460003a348dc4a3682769e729e0466
-                67257834979a058503ef53d3d0b0fe5d19866c
-            51/
-                9a08aa872937fa4e65d22783850b642bb89404
-            52/
-                cb2e9069a387adde44b6d212a494e5955c104a
-            53/
-                22cd3c96749f53c007c214fde02157927729b6
-                5bcaea6856466c65ccb0b4b116a3bd49cfd71e
-            54/
-                fdb1912fc4338d930ddcaf880e6bd4e55a00f1
-            55/
-                76f89015e2d090977af2a3b260189b741e34df
-            56/
-                7cdd4d0b56dd50bff2657fc92c7dadfa1394a7
-                9840d0aac8804933f54b981eca7498402a5bdc
-                aa0af17a174d2e47a6e3246dcdbd9c41cbd539
-                c2e89139055d4aa86a5333a5b8cd5191847ac9
-            58/
-                0dfaf868eed318fecb846dea6305e46576065a
-                5c31ceaa4357f4dd40e08dc82033a6130cfbd8
-            59/
-                3b9f6849fb09f7aa8e57737d901bdb4d9e71a9
-            5a/
-                869adebb1ce93c44ea874f5a9e6835f483d8ad
-                b5f1f8c49ab6772d55bb0b9b85cd078dd559fb
-            5c/
-                105f0c0d559543cf2213a9103a18c91e72ab11
-                35941d7fb935edbb114326add284da0118a8d5
-            5d/
-                3145dbf0bdc7af909cf0b13e01a134fe59cd2d
-                aec338d9a788803d6e8c84be18eed114796753
-                c122f03156adf8864695a80a067acde3ec346d
-            5e/
-                46be25d3cc9ca611fd2c2e969624dc4ac85f43
-                f2c0170d5987bcf8d88fa6d22edbf67be71c41
-            60/
-                6e5fe7852a210a2e998c9ea6a1fe7cdd32031e
-            61/
-                227599eed7bcf19b6fced17e6ec081afc73d76
-                d405dd11f043b076934bb3b32b25da363a7b1a
-                ec817c23dda595fefb02992408ed516ff9ae9d
-            62/
-                521fa041669dfc1d22e79576ac86e7e1bc77f4
-            63/
-                51d259dbbd7380815c70b66e1e58cbff33a10d
-                5352b9b7025fa81bd0dedc933d3ef9fb4fd05f
-            64/
-                cef05a8eb43d79acad5b83531a3e408fc405ca
-            66/
-                a2a0c943d8f223e16432b160befb31fa88a47a
-            67/
-                cea2a4febbdd1681b1884145f2c84d427a8527
-            68/
-                11603e901eedd6bf2e568d5840348883b45dd9
-                285c9f9e8131072ccb23a334cf976637c9db9c
-                e404cfc0fafa10eeec9b250ca1483f543268e0
-            69/
-                79529236904af83fadad4fee3fd826cee9c2ed
-            6a/
-                3ffbbf11e74fcf559b0ca3febaec2c8cae2444
-                be4c134a9c03f65b3c19323a4081ec2782d1af
-            6d/
-                294686540cee12f4ab09a4263e8cb5247834ad
-                395fcb64d30e1b595054ae42a036f37da97068
-            6e/
-                290b1bf6d9e785b29d1a11f22c180879975a92
-                37841e0f958cfe976edd70f3fa8efe72f2a756
-                7e0418a8331a2d0138e949b05b31d74e55208a
-            70/
-                2df557fde7512df0af9c20b8ba81aa7d6a802b
-            71/
-                28559f13b14a116ee7cdae1a2f3e0b49acf82d
-            72/
-                29b01d6089bc058c426f9765d44b2fbb4d483b
-                aca7bc17326134530533918d6d6b7f5dc1b6e4
-            73/
-                798a55d96e90058cbd5e76f1280cd093476e75
-                8edddbae69cc078992421d3507bada6ff74c35
-            74/
-                2f695456babaa3adfc80c87b3d37829cbf968b
-                694400f4f58a4c681b4498bb4033104bda5ee3
-            75/
-                1cde943b284af9707f58efb24015e0a82d3dff
-                bbdada35f560203ce9ffae91ebb27b586bbaa2
-            76/
-                013f4aeaabb9246282c3e3b0e35ca788de68f4
-            78/
-                2eba2e31ae74a34d33afc63fee49a2a82749dc
-            79/
-                abc83bd9575ea5a24c94892dd9a18ce57c3d20
-            7b/
-                1164319beec928644a28e488d842e29946edbb
-                ba292cf5e921400bdc62c1c428f919836edad9
-            7c/
-                0aacc08073886f6fd810e711f678dd6d7c48ca
-            7d/
-                1bfeaa9316d1542362876347f7a4537ad3ba40
-                3ba18686dc69f192aa61b47aca7796db9c70b8
-                612bf676c2a915d606fd98ba2a684df12f902d
-                d90230594a282b6c589ca807541e5ecfcce4fd
-            7e/
-                e75957281d1d8dffb5e3f56b88a9bcbf3ae1fb
-            7f/
-                4fec3a463319708e977fb2f9543e1e4e2611f4
-            80/
-                0ad3746cadab3aa90643e9fb648ab161fb8b7f
-            81/
-                fb78b338847db8b1fda49eaa968cffd1df20e0
-                ff4f279060815391bf612772a77aed317dc08f
-            82/
-                85f214d90268695bf4e5061587d23ceb1cd89c
-            83/
-                18c86b357b6ddbf674ad238b8745d2781cab4b
-                375a13ed6e3010c4499bd784a6288282d89309
-            84/
-                c8e8123c5800aa0308c057855d043839ed39e3
-                d90c378e4f7832be04e5c09a7d17a0175715f1
-            85/
-                984c6b5f6135e37a86d1ae71d21b9853e0ab09
-            86/
-                26ecd5410adcda0f7470963136e2909fe24186
-                377b78026101986ab020b253567d1b45b02e9e
-                672b8e45333b000778e0ec86afe67210ba0fe8
-                a4ed558cc89a1df662b1a4db9ac93a416cd6d4
-            87/
-                edb93219becce44e33c5e2d65142009f6d7e3b
-            88/
-                21a780a8e2ecff0135155ddbd650471aa44418
-                6fe4e64915397abc60cd0610ebd626a8622448
-                a88b4a0bf4f6ccca1a89debd5323249e3b53bc
-            89/
-                bfd9c7b753cc35bfd4da77c4500e94fc923c8a
-            8a/
-                aeacac2d94c1877b37c4094e66b093e51e1e64
-                d3515a46bb0280f96f4b0a5a08313bd30b6558
-            8c/
-                7bc20e80b67f2c9d0d9421870ff96a10a53fc1
-                c5c3df8ca6f8b813d5ca0d5029727f42ff8231
-                f54a6ae4cfe63962443fee8ff43d85aa47a0e7
-            8d/
-                e253a9d686a42007569beefc867a19e606449b
-            8e/
-                c2b5dd58e2b9452e8e514cf08ff05489ba7685
-            8f/
-                0207d69afef724ad6d191fd2d10fb0822ead3f
-            90/
-                01c7cb5e7a62b9ab1a7bbdc7ab9ca6fb465b76
-                12c01ea9121f25d8fcb92d3e53e72a19cd7d20
-                2c45393847fe02ab5287aaabe553d9941222c3
-                e8007c7c0a594b4ccf845791b1a3beae5097ed
-            91/
-                ac89f938e1b5418edfb08a6e30d88555a78951
-            92/
-                8445253789daeb6d40a215bad48b9dfb1506b8
-            94/
-                05bfdc224d3e5dfe9fe6116a4fd2955ab10a72
-                8fedfe91d0aa5ea227b7b8d20944e8fb9432bf
-            95/
-                e47fdd220fa589545c33b907745e4b6637e00c
-            96/
-                2320d8167775c85af877ff2b130ef290e42f5a
-                f8f169e1a08b667142ff7c67670fdc90993090
-            98/
-                4e8fcc9f832478fd321762b49da082ebb98f09
-                f731eef157804bca06b3563702548b53df9849
-            99/
-                a265e2c45c40400b380ee8c1ee097bfa2ce215
-                b0fe7a8b4b02874edc9dfc314f79507d720b7e
-                f7d22be1bad55688e8bdf3c7e58b4c071b5966
-            9a/
-                35c4c8c2d76b4408dd339265bf22e66c332a2e
-                36aabddf558cd96ece77d43adf043a8e98ed5c
-                b88ce7e4f199ab037abcc45f7c615267c485f9
-            9b/
-                1b4d52948d677a551d7673d6fa3237d22f0739
-                ca591e8952795c87b54738a6f82a86b2614014
-            9d/
-                380e8bc68ef3963d3db8432dc5f8558d370d73
-                97834452229a618add83971a03bad825563f91
-            9e/
-                26dfeeb6e641a33dae4961196235bdb965b21b
-            9f/
-                8454d65c75bc7263402e02b4c1ea2130e1a081
-            a1/
-                78e767e86730f2f40d5efbc830be8531ed0dc4
-            a2/
-                1157ee121ca1bfa70460b65ad43bcbb5561f98
-                ad2d8ad559a2eb0774d5636bdfd14b57301c61
-            a3/
-                456af6e97302b8f60b2c00b1b48086734dbe74
-                ee3206cc9fba5e8813fe1771250fd8cc02ad8b
-            a4/
-                5111399c6c21c4e5dd11595f97dbb13382ebda
-            a7/
-                39bbc47d54f48a3e750d41a2c484d9840e7088
-            a8/
-                dbca2de612cbaf21e46233aa44d8029666f119
-            aa/
-                3d90d7638e4031f6857fbe2847f877ff94685a
-            ab/
-                677a5d55f36f9e29e78cd2775cfb51193c2f44
-                eac0ef983f263927384e1ead4ef257bec543cc
-            ac/
-                04a605d8d91f62e524c9d37308467939d76309
-                f1f4e484a45dd15eb8ecfe23522681236bf468
-            ad/
-                44b51e2cee168076612bec80f17ac84b6b8904
-            ae/
-                52f0e873a546a846f335e03b369dbea1abad23
-                788aaca49a0030865d13c871c918bba04f8e08
-            af/
-                7bc6f6e4de95cf2c12d017cdfcf2eeae75b638
-                d542f26699c8ab7c8363cffb9589902a36b5ae
-            b1/
-                290b4556c57fbe9c8062deb1b08fc3f5997ac3
-            b3/
-                6d8a8710653975365e2609f9f15693dfbcb89e
-                c8edb8cd57d6c55852bc36abdb15ad9835de2e
-            b5/
-                871041a68078c01d8b721c4d117afef70be8c1
-                a44dab44c6d8480c5c3f2ffce3f83487bc3732
-            b8/
-                775da3486de8f8e5a3779d97a5d02331caa6ae
-                7c04aaec697c3e17902168e00461be6d406eae
-                f87d57e7a93b8ea6df4e7dff3ff6f92a7cec47
-            b9/
-                3ae43d9a8cb6099d7b7e1ef87e75cbb6caf62f
-            ba/
-                045d2298c6f0e36d02240df17f1d956e70f9b5
-                c6416ddae4e9f818f201608638c7435c7db0f1
-            bb/
-                a41da5774e87406ea52779e502fcc2df5c2332
-            bd/
-                ce8c3a04dcd362b6f32be5eed861710a36e2fa
-            be/
-                32e4c5c7574e0bf6105d003ec9fee06c81cdae
-                a03fdf3dfef824919d9679ca2778dc5671b850
-            bf/
-                93fbc935ffcd8eec726af3483d6478043408b4
-            c0/
-                e877ab2129edd8f93f6c7c067bec2090c7de0e
-                eb6f779c9b84ced51a767a89f813061694a6f5
-            c2/
-                97a38d55bfc8bb049ac464a1bddbec888f7a7d
-            c3/
-                0d5abd5d8a6c009e0f365619e7bd6e26bd92f1
-                434104cad91c6c6382c4cd154eed0e22452b47
-                6292b6786cd0984c87f5ae9a5bb08d34221abb
-            c4/
-                5798e481e267642eebf58887bb07b4682fe2a7
-                6f409171514ca07d97f097ab78aa157f045b64
-                bd7265bdd6e6daed3aa06859377ada7bace19c
-            c6/
-                2aac30eb5df16fa7778e235de5d3a70f6aed81
-                90dca11b5a685c609ee64d25907e49f8d60b92
-                d425607fc2c328dc47b426b6ceb05776641682
-                dc700b9eb5d38c5d4971ee32db915cb9657d8e
-            c7/
-                0d819496a0166c2ce90b49acae1752cab7b448
-            c8/
-                9a841ae50a02386babe187432dbd2da7d8716d
-                c365d89b8b1bad158cba37051fc32cbc784c65
-            c9/
-                65d289135aee75290ec5870886966485b95efd
-                70ba2a6e0c5733431aaf9d034689e23db4097a
-                97f04fd00d1382d8c3e9fd78bdfb5b7682781e
-            ca/
-                458318fa1e53a35d2a4a9f38025688dd8a08d7
-                53031a6f6ed77bf1cb6e08cea31b9eda3c4173
-                8f8a749b159cf8421857f125432d9f3d45de10
-                aac0462d0d9155bbb6d200e7b3e6ff14d09826
-            cb/
-                0bf6574529ba7be91b76495957c2d01de2b572
-            cc/
-                45989f5f0f430cca7119dd6457b8d5258dbce2
-                addecb405290ed362810ae514e6d2704ad919f
-            cd/
-                98e82c2a730420c461077887292da46a1af1f0
-            ce/
-                56d0adbbb45d1cceb197fcb8441b1bc498cdf7
-                97e0301198f0990c7f755a70ef629ce38eabfb
-            cf/
-                9b8e0d4efce8dedeb79e56e9b1131fed0f4b79
-                f90f281c3a3e665c1fb5dbddc897485ce39b92
-            d0/
-                561399c951e8552fbae9e46262bd737d186fb6
-                8215d049033feb6ba1432e4476dd3a8e9af755
-            d1/
-                01f82aa288ae3a1d6311fe8b4d3f32296a455d
-            d2/
-                afd07069e9940b1905604c15e1b7bb11d31ecb
-                d8e063c9c8ef77fb2568c736f348461cc3449b
-            d3/
-                e7d5b59a002b01471cb66af75446297870283b
-            d4/
-                8c543f99d9b89fd291a5218cbc1d6413afc899
-                8c5cc7dc90fff1aab5549df128ee1ff245a183
-                8eda226390859537fcdc83382d6a1d2ace4076
-            d5/
-                3e57ce2e4373a76d9eb292e80aca9b25ca484e
-                ac962ad6405994b4798f75e76e8c99f31e2234
-            d6/
-                b010277924fa441af565e143498b8251f0b810
-            d7/
-                87710fb5071fac822286ae70f1d4fc2fe94a88
-            d8/
-                1228756b4fea2cbd50f1fd6d985c7d3f16384d
-                3259b1c4b905328de7125da9c5f85f4c103c44
-                3b291c49f65ed14518f91e8db9f5e3be572723
-                65936c7e89af54b741ef69063860488ede139b
-                b410ef91ef42175c8d4703243c2c3dc17d6af8
-            d9/
-                1406911d89247251baa445731c9cd4c583b1cf
-                6bd6d577816657b198c6c792353cb86fae2a9b
-                83fe25cdd9aca0c3100ebe685ef6f7b8384737
-                f1ffe373e1b59e17dd02c7dcd437bd3fb73761
-            da/
-                0779fdbe18a207760186daf69e524a1e6930e5
-            dd/
-                403ed5132bb23da32c114cb0935a62cc5d33f2
-            de/
-                6d111026658bf0297bfd8f0fc9ecbc1044ae75
-            df/
-                16b27a54342f4c2427a32bc9fe18125f1138b7
-                79033b5353ba06c8269b641ff1764d6c69f425
-            e0/
-                7ff9f6779b11587554a028e45c59102d49f0bc
-                820252411c412bc3705063f625a375aa38aaf5
-            e2/
-                e10fc6d5359a6bfc28d6b86eea4334441f22e2
-            e3/
-                25fd6b7d1555936273a4fb8bbe4cd8647cb1c1
-            e6/
-                0caa90353642b559e147f7ed021acec88eb85d
-                b9df97cdc14cb20aebc29b02b665045e058e8b
-                be4a17b428fccb2292f4fe51557931f342a3aa
-            e7/
-                9fd047d914afae8afb9f04cbabd1cb00b4a764
-            e8/
-                1a6dfe113da6b3879357775e8989d8cb5b6b6d
-                24985f3d56c6827ad414266a7774ff69639aec
-            e9/
-                0a6ce8119d98353248aefd19a3a04ab8f19931
-            ea/
-                25e5e0fad97058c719680dfcbd3421a17d30db
-                75572f38f2b3f8d2dd6bae0d5022f337b9a2e7
-                8ffce29bf7e29db3f8752810d1fc1b073f4611
-            eb/
-                1f21e45570b97ea40d76b3c64e135a9925de57
-                28119c5c0c6baf6a71257aa56a7383bff97018
-            ec/
-                2750be3adf8d4ad13eb887b1aab930b0cc6fee
-                5f29561fc13b1450c96556058f7840b6a631d4
-            ed/
-                bf0cf19be58673e9587605600214c83d6bbf4a
-            ee/
-                0ba2784ef8087512c8a4f94ce803543f6c91ff
-                c44e034a47bd303249ff80e0b55b793aceba59
-            ef/
-                f0d3ca20bcd60677ba7ba453194963420edea2
-            f2/
-                1006bab837839c3617b0e269f7910dcb26e881
-                2205457128b408c9405bbda8f2f6e48521f2d9
-                3a50c2d22167608a154d1e663eeb751878556e
-                441d9a6e705024f1fa466d9374c0a281857a24
-                71d1b54dedcba9258c1d9233a3a1b579c7926e
-                776d8a19883652dfd5685c7c1e1c1d2e8b045b
-            f3/
-                2289d4af4a238b686c4ac36a8604a982569346
-                24dd137708b4c672bc625927224619d4825528
-            f4/
-                71d44d2b92fbc6e5bb4ce7f7714b864c75a948
-            f5/
-                7fd256f3de513078a307b426fe3827e4db0e69
-                b7b2d13356625945e60e266245dfba05e1d084
-            f7/
-                396c203209b8ad40131bcb31c5170cd8811854
-                5fb98f48f8954bc7402ecc7937bd33a1e6f7e8
-                9e5c2b20b86d50f5fafb19da8333213a5d58e1
-                c5499886d9b45b361fe40cb781ba0eba3fb8cc
-            f9/
-                026986105a2d6f710a6effee4030247d7a9f45
-            fa/
-                7909018df717695431fda1f2a9a65acc94275d
-            fc/
-                510001a37140294409273a2087d4d21b60f5e1
-                5e4282f560780fba639a5fffbfcf958bf5380e
-            fe/
-                01fbee2da3efc17604d45f938fdbfa1f65769e
-                1795050d4289e9510633bc9ccda2843476caff
-                332a1979fba8af4c960df7f05bfde3ebc9b6e6
-                a2e54e2a5b92ddb7b9a08428ae55615d17479b
-            ff/
-                792e01d26cb4be170a66596a50735ad74512d3
             info/
             pack/
-                pack-4c224b2f0eccd47c8623f709ef1c360b6aae8c49.idx
-                pack-4c224b2f0eccd47c8623f709ef1c360b6aae8c49.pack
-                pack-4c224b2f0eccd47c8623f709ef1c360b6aae8c49.rev
-                pack-57c233af9bda18e9f4503b2bf87e5f8c4277038d.idx
-                pack-57c233af9bda18e9f4503b2bf87e5f8c4277038d.pack
-                pack-57c233af9bda18e9f4503b2bf87e5f8c4277038d.rev
+                pack-81bf37a3ad4994c57d86ede45a8ab5603e633186.idx
+                pack-81bf37a3ad4994c57d86ede45a8ab5603e633186.pack
+                pack-81bf37a3ad4994c57d86ede45a8ab5603e633186.rev
         refs/
             heads/
                 main
             remotes/
                 origin/
                     HEAD
-                    main
             tags/
     AIGerbCorpus/
-        directory_listing.txt
         folder_tree.txt
         Full UAP Gerb Video Obsidian Corpus.docx
         Gerb_UAP_Videos_Part_1.docx
@@ -639,7 +94,7 @@ UAPGerbVideos/
         34-Alien Reproduction Vehicle - TR-3B and the Flying Triangles.txt
         35-Philip J. Corso - US Army UFO Technology Research & Development.txt
     images/
-        ChatGPT - UAP Gerb Research Assistant.png
+        ChatGPT-UAP-Gerb-Research-Assistant.png
         UAP Gerb Helper Logo.jpg
         UAP Gerb Helper Logos-01.svg
         UAP Gerb Helper Logos-02.svg
@@ -690,15 +145,12 @@ UAPGerbVideos/
         video_data_scrape.py
         YT-Data-Scrape-Audio-DL.py
     UAPGerb/
-        1950 McMinnville UFO photographs.md
         directory_listing.txt
-        FLIR.md
+        Extraterrestrial Biological Organisms.md
         folder_tree.txt
         Kingman UFO Drawing.png
-        Matthew Pines.md
-        Metapod.md
-        README.md
-        Technology of Unknown Origins.md
+        readme.md
+        Sancorp.md
         UAP Gerb Research Project Overview.md
         .obsidian/
             app.json
@@ -719,6 +171,7 @@ UAPGerbVideos/
             1953 Kingman, Arizona UFO Crash.md
             1956 Kataghan Afghanistan.md
             1961 Betty and Barney Hill.md
+            1964 Vandenberg AFB UFO incident.md
             1966 Dexter, Michigan mass UFO sighting.md
             1967 Malmstrom AFB Incident.md
             1969 Finland Finnish Air Force Sighting.md
@@ -745,6 +198,7 @@ UAPGerbVideos/
             Condon Report.md
             Pentagon UFO Programs.md
             Project Blue Book.md
+            Project Stork.md
             Robertson Panel.md
             The Atomic Energy Commission (AEC).md
             Trick Memo.md
@@ -758,7 +212,7 @@ UAPGerbVideos/
             Curtis LeMay.md
             David Icke.md
             Dewey J. Fournette.md
-            Edward Condon.md
+            E. J. Center.md
             Edward J. Ruppelt.md
             Eric Tabor.md
             Erich von Daniken.md
@@ -777,7 +231,6 @@ UAPGerbVideos/
             Ronald Moultrie.md
             S. McCarren.md
             Stephen Lovekin.md
-            Susan Gough.md
             Thomas Wilson.md
             Thornton L. Page.md
             UFO_Whistleblowers.md
@@ -807,16 +260,20 @@ UAPGerbVideos/
                 Jeremy Corbell.md
                 Kevin Knuth.md
                 Leslie Kean.md
+                Matthew Pines.md
+                Nikolai Kardishev.md
                 Richard Dolan.md
                 Ross Coulthart.md
                 Steven Greer.md
                 UAP Gerb.md
                 Von Neumann.md
             Skeptics/
+                Edward Condon.md
                 Michael Shermer.md
                 Mick West.md
                 Sean Kirkpatrick.md
                 Steven Greenstreet.md
+                Susan Gough.md
             Whistleblowers/
                 Bill Uhouse.md
                 Bob Lazar.md
@@ -848,7 +305,6 @@ UAPGerbVideos/
             Project Sign.md
             Solar Warden.md
             TR-3B.md
-        06 Transmedium UAPs USOs/
         07 Gerbs UAP Video Analyses/
             01 Wilson Davis Memo Documentary.md
             02 The Alien and UFO Obscure Oddities Iceberg (Level 1).md
@@ -906,10 +362,12 @@ UAPGerbVideos/
             -Organizations & Facilities Index.md
             AARO.md
             Advanced Aerospace Threat Identification Program (AATIP).md
+            Air Force Technology Intelligence Committee.md
             Americans for Safe Aerospace.md
             Area 51.md
             Atomic Energy Commission.md
             Battelle Memorial Institute.md
+            Computer UFO Network.md
             Condon Committee.md
             D.O.E..md
             Department of Defense.md
@@ -939,15 +397,26 @@ UAPGerbVideos/
             Wright-Patterson AFB Blue Room.md
             Wright-Patterson AFB.md
         10 Evidence/
+            1950 McMinnville UFO photographs.md
             1954 Atomic Energy Agreement.md
+            1977 FOIA Reports & NORAD Logs.md
             Flyby UFO footage.md
             Gimbal.md
             Go Fast.md
             Leaked Fastwalker Emails.md
+            Metapod.md
             MJ12 Documents.md
             Moon Dust Documents.md
             UFO Pentagon videos.md
             Wilson Davis Memo.md
+        11 Terms & Definitions/
+            Defense Contractor.md
+            FLIR.md
+            Joe Rogan Experience.md
+            Nitinol.md
+            Proposed Taxonomy of UAP.md
+            Secure Access Program (SAP).md
+            Technology of Unknown Origins.md
         Thumbnails/
             01-The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs-thumbnail.jpg
             02-The Alien and UFO Obscure Oddities Iceberg (Level 1)-thumbnail.jpg
