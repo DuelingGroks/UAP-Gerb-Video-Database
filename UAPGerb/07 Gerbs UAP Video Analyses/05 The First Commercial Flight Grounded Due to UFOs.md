@@ -1,3 +1,9 @@
+---
+aliases:
+  - first grounded flight due to UFOs video
+---
+
+
 ![[05-The First Commercial Flight Grounded Due to UFOs-thumbnail.jpg]]
 ## 🎥 Video Details
 

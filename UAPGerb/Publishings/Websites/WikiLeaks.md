@@ -1,0 +1,6 @@
+---
+aliases:
+  - Wikileaks
+---
+wikileaks.org
+

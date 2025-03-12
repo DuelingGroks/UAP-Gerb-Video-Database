@@ -1,0 +1,5 @@
+---
+aliases:
+  - Rieger
+---
+[[Fastwalkers]] researcher

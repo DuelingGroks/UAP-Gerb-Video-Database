@@ -1,0 +1,5 @@
+---
+aliases:
+  - Joe Stefula
+  - Stefula
+---

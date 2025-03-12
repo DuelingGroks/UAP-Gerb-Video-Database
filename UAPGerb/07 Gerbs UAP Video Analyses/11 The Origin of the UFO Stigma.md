@@ -2,6 +2,7 @@
 aliases:
   - Origin of UFO Stigma
   - UFO Stigma
+  - history on the UFO stigma
 ---
 
 
