@@ -5,6 +5,7 @@ UAP-Gerb-Video-Database/
     README.md
     UAPGerb_Repo_Manager.py
     .git/
+        COMMIT_EDITMSG
         config
         description
         FETCH_HEAD
@@ -36,7 +37,75 @@ UAP-Gerb-Video-Database/
                 remotes/
                     origin/
                         HEAD
+                        main
         objects/
+            0f/
+                76757480a035ec980ac7acaf3cd82002860483
+            10/
+                f6d887aade82dee1bcb58a9f6664e31e39db51
+            11/
+                489b141107bcdaf45d4ccf8ca72915d36b6879
+                9474cdf824257ec4733bb5fd1d5750d1d9b235
+            1e/
+                f27d4f8babb38608a35af3fbd256c7783ab306
+            1f/
+                edf5ce42ab58ff640630bca51439f0379007f1
+            29/
+                946553aadfb2805fafdc7bd80247a3d466dcf2
+            37/
+                dfdbda9c5a2b68a2119f293e17d70a0d5c6c1c
+            3e/
+                89a4f80bfcdc21b9af047427fe7e20773d68c6
+            41/
+                b2cf48f7000f345000e27f1716bc726cd54c15
+            47/
+                2af149060bbdee08805cd86b33f2d9d932b6c3
+            48/
+                db7aef866dff2168b7ac998464b0c73a1a2d46
+            53/
+                365177e2c2f021d7cf93d9d7e0c8a791ffb2e8
+            5b/
+                8d5bec76945aa8745de2c9ca7c257f83b3cf25
+            5e/
+                93eb68bd9498751653f8282f4e8535cc71ff32
+            66/
+                a9ca824a366e289155159b1d0a90fa9d4c4f93
+            6b/
+                eda142a4dd983277147bfa41e53f1ecfb9c89d
+            95/
+                dc6d3d2a742283ffb0a2d8772ff0c22ca9e400
+            9c/
+                126dd6df47ef479f13c1a957c65ef40a5f6f7b
+            a1/
+                a9b522a25deba7bd221bd82938c5682e78ca4c
+            af/
+                856c6f6f1f07cbf5342c1c2f7759a66b97fd2b
+            b2/
+                60c7b2454d4c6dbc8c0fd6f0f03d66a0a79e1e
+            b6/
+                b78bde31559ebb1575012a7337dac637c2d14f
+            c6/
+                4d6d49070aa804dd0e547c0dba92730744a47f
+            d8/
+                9998e4f879dbaf8d7d68288297e0355e9ee65c
+            de/
+                acb84be1d6391d363c1cdfdd4ebb82d7cc32c3
+            df/
+                a3162adcb3e19d42a7d2718a0c783f8932bcc7
+            e2/
+                c46137caa6416dbe370051cedebfb02f3d9c37
+            e4/
+                ed125009b4f72cb76d03863a0e91acddcecf5a
+            eb/
+                9bff60592bcde8378746eafe534d9a41376726
+            f1/
+                29899a4e8219170fabebde602aa0b4bbda9fbc
+            f2/
+                1ec81e20c7a7557b188d2597e264a0e76af518
+                dda2de870cc15e0e3d658d35b4d1786911e770
+            fc/
+                222568cf99369631a03e592da43a4efc849093
+                b57ce841a28b3807458714c3d74169e2711f5d
             info/
             pack/
                 pack-81bf37a3ad4994c57d86ede45a8ab5603e633186.idx
@@ -48,6 +117,7 @@ UAP-Gerb-Video-Database/
             remotes/
                 origin/
                     HEAD
+                    main
             tags/
     AIGerbCorpus/
         folder_tree.txt
@@ -145,13 +215,29 @@ UAP-Gerb-Video-Database/
         video_data_scrape.py
         YT-Data-Scrape-Audio-DL.py
     UAPGerb/
+        Bernard Haisch.md
+        Black Special Access Programs.md
+        Calvin UFO photo.md
+        Central Intelligence Agency.md
         directory_listing.txt
-        Extraterrestrial Biological Organisms.md
+        Don Phillips.md
+        Donald B. Rice.md
+        Edgar Fouche.md
         folder_tree.txt
+        Frank C. Carnahan.md
+        General Accounting Office.md
+        Hunt for Zero Point.md
+        Jan Harzan.md
         Kingman UFO Drawing.png
+        Louis Witten.md
+        Mark McCandlish.md
+        Nick Cook.md
         readme.md
-        Sancorp.md
+        Ron Blackburn.md
+        Salvatore Pais.md
         UAP Gerb Research Project Overview.md
+        Wernher von Braun.md
+        zero-point energy.md
         .obsidian/
             app.json
             appearance.json
@@ -387,6 +473,7 @@ UAP-Gerb-Video-Database/
             NORAD.md
             Nuclear Regulatory Commission.md
             Raytheon.md
+            Sancorp.md
             SAPOC.md
             SETI.md
             SOL Foundation.md
@@ -411,12 +498,17 @@ UAP-Gerb-Video-Database/
             Wilson Davis Memo.md
         11 Terms & Definitions/
             Defense Contractor.md
+            Extraterrestrial Biological Organisms.md
             FLIR.md
             Joe Rogan Experience.md
             Nitinol.md
             Proposed Taxonomy of UAP.md
             Secure Access Program (SAP).md
             Technology of Unknown Origins.md
+        15 images/
+            Condon Triangle Shape.png
+            Fouche DARPA Doc.png
+            Lockheed UAP Encounter Drawing.png
         Thumbnails/
             01-The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs-thumbnail.jpg
             02-The Alien and UFO Obscure Oddities Iceberg (Level 1)-thumbnail.jpg

@@ -1,4 +1,6 @@
 ---
 aliases:
-  - Bushman
+  - Cook
 ---
+
+Author

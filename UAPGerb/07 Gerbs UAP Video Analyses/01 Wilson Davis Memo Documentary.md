@@ -1,3 +1,9 @@
+---
+aliases:
+  - video on the Wilson Davis memo
+---
+
+
 ## ![[01-The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs-thumbnail.jpg]]
 ## 📅 Date Published
 January 9th, 2024
