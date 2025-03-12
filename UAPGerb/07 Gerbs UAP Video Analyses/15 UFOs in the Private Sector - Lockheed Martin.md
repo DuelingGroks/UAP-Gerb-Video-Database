@@ -12,7 +12,7 @@ aliases:
 
 ## Description
 
-Lockheed Martin in our sights after tackling [[UAP]] and [[Battelle Memorial Institute]]. This video explores [[Lockheed Martin]]'s alleged involvement with UFO technology, potential [[Reverse Engineering]] programs, and classified projects related to [[UAP]] research. We analyze claims from key figures such as former Senate Majority Leader [[Harry Reid]], [[Lockheed Senior Scientist Boyd Bushman]], [[Lockheed Astrophysicist Bernard Haisch]], and alleged [[Skunkworks]] engineer [[Don Phillips]]. Additionally, we review [[Project Aurora]]/[[Astra]] and its connection to the black triangle craft ([[TR-3B]]).
+Lockheed Martin in our sights after tackling [[UAP]] and [[Battelle Memorial Institute]]. This video explores [[Lockheed Martin]]'s alleged involvement with UFO technology, potential [[Reverse Engineering]] programs, and classified projects related to [[UAP]] research. We analyze claims from key figures such as former Senate Majority Leader [[Harry Reid]], [[Lockheed Senior Scientist Boyd Bushman]], [[Lockheed Astrophysicist Bernard Haisch]], and alleged [[Skunkworks]] engineer [[Don Phillips]]. Additionally, we review [[Project Aurora]]/[[Project Astra|Astra]] and its connection to the black triangle craft ([[TR-3B]]).
 
 ## Timestamps
 
@@ -24,7 +24,7 @@ Lockheed Martin in our sights after tackling [[UAP]] and [[Battelle Memorial Ins
 - **15:36** - [[Edgar Fouche]]
 - **17:41** - [[Exotic Technologies]]
 - **21:10** - [[Lockheed/USG Paper Trail]]
-- **24:44** - [[Project Aurora]]/[[Astra]]
+- **24:44** - [[Project Aurora]]/[[Project Astra|Astra]]
 - **28:34** - Conclusion
 
 ## Key Figures & Claims
@@ -47,9 +47,9 @@ Lockheed Martin in our sights after tackling [[UAP]] and [[Battelle Memorial Ins
 ### **[[Bernard Haisch]]**
 
 - Lockheed Astrophysicist.
-- Co-authored research with [[Hal Puthoff]] on [[Zero-Point Energy]] and its potential application for propulsion.
+- Co-authored research with [[Hal Puthoff]] on [[zero-point energy]] and its potential application for propulsion.
 
-### **[[Project Aurora]]/[[Astra]]**
+### **[[Project Aurora]]/[[Project Astra|Astra]]**
 
 - Alleged [[Lockheed Martin]] [[UAP Reverse Engineering]] program.
 - Linked to the development of black triangle craft ([[TR-3B]]).
@@ -71,7 +71,7 @@ Lockheed Martin in our sights after tackling [[UAP]] and [[Battelle Memorial Ins
 ## Transcript
 00;00;00;00 - 00;00;28;22
 {Video Clip of David Grusch on Joe Rogan}
-[[David Grusch]]: "So Lockheed Martin wanted to divest itself from this material at a specific facility. That's known to me that I provided to the inspector general. Like street address, all that shit. Right? And the idea was, if they made a catcher's mitt, a security catcher's mitt for the shit, you know, most serious [[Secure Access Program (SAP)|SAP]] possible, the contractor and the other government customer, which was the [[Central Intelligence Agency]], for that specific Lockheed material.
+[[David Grusch]]: "So Lockheed Martin wanted to divest itself from this material at a specific facility. That's known to me that I provided to the inspector general. Like street address, all that shit. Right? And the idea was, if they made a catcher's mitt, a security catcher's mitt for the shit, you know, most serious [[Special Access Program (SAP)|SAP]] possible, the contractor and the other government customer, which was the [[Central Intelligence Agency]], for that specific Lockheed material.
 
 00;00;28;24 - 00;00;52;10
 
@@ -224,7 +224,7 @@ This isn't crucial to know you don't need to be a material scientist, but this s
 
 Please feel free to view the whole testimony. Of course, the video will be in the description, but I want to focus on Bushman himself. 
 
-Boyd is a verified senior specialist and top secret SCI [[Secure Access Program (SAP)|SAP]] cleared employee that served in Lockheed Department 610-8, the Special Programs Division.
+Boyd is a verified senior specialist and top secret SCI [[Special Access Program (SAP)|SAP]] cleared employee that served in Lockheed Department 610-8, the Special Programs Division.
 
 00;10;40;17 - 00;11;07;00
 Gerb
@@ -287,11 +287,11 @@ Guys remember the Wilson Davis memo and the reorganization of SAPs in that time.
 
 00;15;05;27 - 00;15;29;09
 [[Bernard Haisch|Haisch]]
-> "The [[Advanced Aerospace Threat Identification Program (AATIP)|AATIP]] program has no relation to these. For much better funded deep black ones. Indeed, the black programs collectively have budgets in the 10 billion range and up. Topics apparently include both reverse engineering and extraterrestrial biology. The AATIP did find the UFO crash retrieval program via official channels, but was denied access to it because AATIP itself is not a [[Secure Access Program (SAP)|SAP]]."
+> "The [[Advanced Aerospace Threat Identification Program (AATIP)|AATIP]] program has no relation to these. For much better funded deep black ones. Indeed, the black programs collectively have budgets in the 10 billion range and up. Topics apparently include both reverse engineering and extraterrestrial biology. The AATIP did find the UFO crash retrieval program via official channels, but was denied access to it because AATIP itself is not a [[Special Access Program (SAP)|SAP]]."
 
 00;15;29;12 - 00;15;55;29
 [[Bernard Haisch|Haisch]]
-> "Senator Harry Reid petitioned the DoD to confer [[Secure Access Program (SAP)|SAP]] status to AATIP, but the DoD denied his request. ""
+> "Senator Harry Reid petitioned the DoD to confer [[Special Access Program (SAP)|SAP]] status to AATIP, but the DoD denied his request. ""
 
 Gerb
 And lastly, guys, while not a Lockheed employee, let's take a look at USAF Master Sergeant [[Edgar Fouche]]. 
@@ -468,7 +468,7 @@ This investigation into USAF caused, quote, considerable irritation by the Brits
 
 00;28;19;06 - 00;28;39;11
 Gerb
-So as we can see guys, a lot more work needs to be done investigating Aurora/Astra, but these strings connect triangular shaped craft to both Lockheed Martin and [[USAF]], and that the [[British Mod]] had a keen interest in finding out what the heck these things were. 
+So as we can see guys, a lot more work needs to be done investigating Aurora/Astra, but these strings connect triangular shaped craft to both Lockheed Martin and [[USAF]], and that the [[British MoD]] had a keen interest in finding out what the heck these things were. 
 
 ### Outro
 What's up guys? I hope you enjoyed this look into [[Lockheed Martin]] and UAPs.

@@ -311,7 +311,7 @@ The Robertson Panel concluded that all national security agencies should strip U
 Gerb
 However, signatory to the report, [[Thornton L. Page]] admits on the 3rd of October 1993 that the chairman told members ahead of the meeting to debunk all UFO reports presented to them and to, quote, "reduce public concern". 
 
-And what's also really important to note is that the Robertson panel was held a month after USAF Colonel [[Donald L. Bower]] forbade Captain [[Edward J. Ruppelt]] from visiting the [[CIA]] [[Office of Special Investigations]] to share information on compelling UFO data. 
+And what's also really important to note is that the Robertson panel was held a month after USAF Colonel [[Donald L. Bower]] forbade Captain [[Edward J. Ruppelt]] from visiting the [[Central Intelligence Agency|CIA]] [[Office of Special Investigations]] to share information on compelling UFO data. 
 
 So what we can derive here is the Robertson's panel's conclusions were predetermined in order to devalue UFOs and attribute them to nonsense and misidentified prosaic phenomena. 
 
@@ -393,7 +393,7 @@ And the paper trail does, in fact exist that he served in the CIA before teachin
 
 00;17;55;11 - 00;18;14;26
 Gerb
-This trick, by the alleged [[CIA]] asset and second in command to the [[Condon Committee]], [[Robert Lowe]], perfectly details the [[UFO stigma]] and how it would operate moving forward. Forget the sighting. No matter how credible. Question the psychology of the observer.
+This trick, by the alleged [[Central Intelligence Agency|CIA]] asset and second in command to the [[Condon Committee]], [[Robert Lowe]], perfectly details the [[UFO stigma]] and how it would operate moving forward. Forget the sighting. No matter how credible. Question the psychology of the observer.
 
 00;18;14;29 - 00;19;15;29
 Gerb

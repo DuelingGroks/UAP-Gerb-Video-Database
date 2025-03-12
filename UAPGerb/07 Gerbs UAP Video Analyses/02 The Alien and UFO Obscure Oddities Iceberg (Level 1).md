@@ -212,7 +212,7 @@ Betty's recollections from hypnosis were remarkably similar to Barney's. In her 
 
 00;17;38;14 - 00;18;08;25
 Gerb
-Now, this star map is pretty controversial, as some interpretations show it bearing soul, our sun, as well as the creatures coming from the [[Zeta reticulum system]]. And there has been a back and forth into this star map's authenticity, including a rebuttal by Carl Sagan in the 1980s cosmos. But even members on the [[Condon UFO report]], as mentioned earlier, said the odds of this being a random configuration of stars were, quote, at least 1000 to 1 against end quote.
+Now, this star map is pretty controversial, as some interpretations show it bearing soul, our sun, as well as the creatures coming from the [[Zeta reticulum system]]. And there has been a back and forth into this star map's authenticity, including a rebuttal by Carl Sagan in the 1980s cosmos. But even members on the [[Condon Report|Condon UFO report]], as mentioned earlier, said the odds of this being a random configuration of stars were, quote, at least 1000 to 1 against end quote.
 
 00;18;08;27 - 00;18;35;25
 Gerb

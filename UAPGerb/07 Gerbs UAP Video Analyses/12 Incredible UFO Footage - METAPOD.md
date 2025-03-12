@@ -256,7 +256,7 @@ Yes, some argue, like third phase of the sun, that they can make out a being res
 Gerb
 However, I disagree here and think this is simply the reflection of sunlight on the transparent material on the front face of the craft. 
 
-This pod features three of five characteristics of UAP, as listed by [[AATIP]] and [[Luis Elizondo|Lou Elizondo]]. Instantaneous acceleration as seen in the altitude drop.
+This pod features three of five characteristics of UAP, as listed by [[Advanced Aerospace Threat Identification Program (AATIP)|AATIP]] and [[Luis Elizondo|Lou Elizondo]]. Instantaneous acceleration as seen in the altitude drop.
 
 00;09;11;11 - 00;09;20;29
 Gerb

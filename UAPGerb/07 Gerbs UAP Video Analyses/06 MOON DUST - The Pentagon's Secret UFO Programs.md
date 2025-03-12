@@ -9,12 +9,12 @@ January 24, 2024
 
 ### 📝 Video Description
 
-This video explores **[[Project Moon Dust]]**, a covert U.S. government UFO crash retrieval program linked to Wright Patterson AFB. Despite Air Force denials, declassified documents confirm its role in collecting and analyzing unidentified aerospace objects, including potential UAPs. The documentary traces its history from **1961 to the 1990s**, highlighting connections to other secret programs.
+This video explores **[[Project Moondust|Project Moon Dust]]**, a covert U.S. government UFO crash retrieval program linked to Wright Patterson AFB. Despite Air Force denials, declassified documents confirm its role in collecting and analyzing unidentified aerospace objects, including potential UAPs. The documentary traces its history from **1961 to the 1990s**, highlighting connections to other secret programs.
 
 ### 🛸 Key Topics
 
 - **David Grusch's testimony** on UAP crash retrievals.
-- [[Project Moon Dust]]’s role** in classified UFO investigations.
+- [[Project Moondust|Project Moon Dust]]’s role** in classified UFO investigations.
 - **U.S. government denials** and erasure of Moon Dust records.
 - **Wright Patterson AFB's involvement** in UFO storage and analysis.
 - **The 1978 Bolivia UFO Crash**, investigated under Moon Dust.
@@ -129,7 +129,7 @@ Now, let's fast forward a little bit to the 1970s.
 
 In Canada, In 1976, a memo achieved via the [[Freedom of Information Act]] shows that Moondust wrote to Canadian officials requesting photos of space related metals originating from a non-U.S. quote, "satellite".
 
-That would be of particular interest to USAF Foreign Technology divisions at [[Wright-Patterson AFB|Wright-Patterson Air Force Base]] into the [[CIA]]'s [[Office of Weapon Intelligence]].
+That would be of particular interest to USAF Foreign Technology divisions at [[Wright-Patterson AFB|Wright-Patterson Air Force Base]] into the [[Central Intelligence Agency|CIA]]'s [[Office of Weapon Intelligence]].
 
 00;06;39;29 - 00;07;12;00
 Gerb
@@ -235,7 +235,7 @@ My friends, thank you for joining me to take a look through [[Project Moondust]]
 Gerb
 I want to know in the comments what you guys think. Do you think Moon dust has historically been, or was at least at one point responsible for collecting UAP, or do you think it was just involved in collecting foreign and domestic space vehicles? 
 
-Because I do not. I absolutely do not. There's a couple other programs, such as [[Zodiac]], [[Blue Fly]], the [[CIA]]'s [[Office of Global Access]] and a couple more unacknowledged programs I'd like to cover in the future.
+Because I do not. I absolutely do not. There's a couple other programs, such as [[Zodiac]], [[Blue Fly]], the [[Central Intelligence Agency|CIA]]'s [[Office of Global Access]] and a couple more unacknowledged programs I'd like to cover in the future.
 
 00;14;28;17 - 00;14;51;01
 Gerb

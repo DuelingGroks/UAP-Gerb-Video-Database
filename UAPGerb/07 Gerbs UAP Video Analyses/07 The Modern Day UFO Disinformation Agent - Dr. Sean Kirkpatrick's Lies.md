@@ -102,7 +102,7 @@ Within this article, he talks about how it's inconceivable that such a secret pr
 
 00;03;29;28 - 00;03;55;20
 Gerb
-But this is an irrational take, knowing how acknowledged and unacknowledged [[SAP]]s work, and how the [[Senior Review Group]] and [[SAPOC]] are the only people who delegate access to [[SAP]]s. You can also look at the Manhattan Project, which had extremely compartmentalized information.
+But this is an irrational take, knowing how acknowledged and unacknowledged [[Special Access Program (SAP)|SAP]]s work, and how the [[Senior Review Group]] and [[SAPOC]] are the only people who delegate access to [[Special Access Program (SAP)|SAP]]s. You can also look at the Manhattan Project, which had extremely compartmentalized information.
 
 Throughout this article. Kirkpatrick alleges that basically the entire reverse engineering program is a 2008 conspiracy perpetuated by [[Advanced Aerospace Threat Identification Program (AATIP)|AATIP]] under a small group of individuals.
 
@@ -176,9 +176,9 @@ But again, [[Ross Coulthart]] did some interesting investigation into this fact,
 
 00;09;35;28 - 00;10;00;26
 Gerb
-As of this time as well, Sean Kirkpatrick was also registered with the [[D.O.E.]] [[Oak Ridge National Laboratory]], run by [[Battelle]].
+As of this time as well, Sean Kirkpatrick was also registered with the [[D.O.E.]] [[Oak Ridge National Laboratory]], run by [[Battelle Memorial Institute|Battelle]].
 
-[[Battelle]] also has this very serious link to UAP. So did Kirkpatrick leave willingly, or was he sent away from AARO with some pretty cushy jobs set up by the [[D.O.E.]]? We mentioned the [[D.O.E.]] earlier, and we mentioned the [[D.O.E.]] in my Marines video under [[Jonathan Waygandt]].
+[[Battelle Memorial Institute|Battelle]] also has this very serious link to UAP. So did Kirkpatrick leave willingly, or was he sent away from AARO with some pretty cushy jobs set up by the [[D.O.E.]]? We mentioned the [[D.O.E.]] earlier, and we mentioned the [[D.O.E.]] in my Marines video under [[Jonathan Waygandt]].
 
 00;10;00;26 - 00;10;26;14
 Gerb

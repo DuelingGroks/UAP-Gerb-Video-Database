@@ -66,7 +66,7 @@ Waygandt: "It's not from Earth. I mean, I knew that when I looked at it, you kno
 
 In February of 1997, USMC Lance Corporal [[Jonathan Waygandt]] was transferred to to [[Pucallpa Air Base]] in Peru to serve in [[Operation Laser Strike]]. 
 
-A US South Com mission involving up to 20 agencies such as the [[USMC]], [[CIA]], [[USAF]], etc. 
+A US South Com mission involving up to 20 agencies such as the [[USMC]], [[Central Intelligence Agency|CIA]], [[USAF]], etc. 
 
 The goal of this mission was to counter narcotic operations in Peruvian airspace while serving as a Stinger Avenger gunner ordered to perform perimeter security for the base.
 
@@ -139,7 +139,7 @@ The [[D.O.E.]] SRT is part of [[NEST]], the Nuclear Emergency Search Team.
 Gerb
 And let's note real fast that [[NEST]] technical information is covered and protected. Like that of special access programs. 
 
-Not to mention, the main intelligence for [[NEST]] is the National Reconnaissance Office, [[NRO]] and [[CIA]], and supported by [[D.O.E.]] contractors such as [[EG&G]], [[Raytheon]], and [[Lockheed Martin]]. And as we know, the Department of Energy and the Nuclear Regulatory Commission were formerly known as the [[Atomic Energy Commission|AEC]].
+Not to mention, the main intelligence for [[NEST]] is the National Reconnaissance Office, [[NRO]] and [[Central Intelligence Agency|CIA]], and supported by [[D.O.E.]] contractors such as [[EG&G]], [[Raytheon]], and [[Lockheed Martin]]. And as we know, the Department of Energy and the Nuclear Regulatory Commission were formerly known as the [[Atomic Energy Commission|AEC]].
 
 00;07;11;29 - 00;07;50;05
 Gerb
@@ -201,7 +201,7 @@ Quote, "you're not allowed to talk about what happened. You will go to prison or
 Gerb
 Herrera became emboldened to break his 14 year silence by new UFO whistleblower protections. And in April testified under oath about his wild story while also fearing reprisals for his knowledge of the going ons in the Indonesian jungle. 
 
-So what did Herrera see? If his story is true, we must assume that these men were piloting an [[ARV]], an [[Alien Reproduction Vehicle]], and we must now realize that these [[ARV]]'s are real and utilized by shadow US military factions.
+So what did Herrera see? If his story is true, we must assume that these men were piloting an [[Alien Reproduction Vehicle|ARV]], an [[Alien Reproduction Vehicle]], and we must now realize that these [[Alien Reproduction Vehicle|ARV]]'s are real and utilized by shadow US military factions.
 
 00;11;38;26 - 00;12;11;17
 Gerb
@@ -234,7 +234,7 @@ I wanted to take a little break from the iceberg series and make something a lit
 Gerb
 I think the story he tells compared with his body language is credible. 
 
-Especially when it boils down to the [[D.O.E.]] and the [[Nuclear Commandos]]. He saw the [[Men in Black]] insignia with the [[D.O.E.]] jackets. I just I think that is an example of the [[NEST]] program and whatever part of the [[D.O.E.]] affiliated [[SAP]]s. 
+Especially when it boils down to the [[D.O.E.]] and the [[Nuclear Commandos]]. He saw the [[Men in Black]] insignia with the [[D.O.E.]] jackets. I just I think that is an example of the [[NEST]] program and whatever part of the [[D.O.E.]] affiliated [[Special Access Program (SAP)|SAP]]s. 
 
 I think that's them uncovering a crash retrieval and whatever that craft is, is so interesting.
 
@@ -250,7 +250,7 @@ Now for Michael Herrera. I'm torn on his story.
 
 For one, it is true that he testified to Congress or behind closed doors in April of 2023, giving his account. 
 
-But on the other hand, I know [[Steven Greer]] likes to press the [[ARV]] and that most UFOs are alien reproduction vehicle theory. I am of the mind that I don't know if humans have been able to successfully reverse engineer any sort of non-human intelligence technology.
+But on the other hand, I know [[Steven Greer]] likes to press the [[Alien Reproduction Vehicle|ARV]] and that most UFOs are alien reproduction vehicle theory. I am of the mind that I don't know if humans have been able to successfully reverse engineer any sort of non-human intelligence technology.
 
 00;15;02;09 - 00;15;30;29
 Gerb

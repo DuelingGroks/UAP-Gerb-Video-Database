@@ -52,7 +52,7 @@ On **October 1, 1948**, Second Lt. **George Gorman** of the **North Dakota Air N
 ## 🛠 Cross-References & Placeholders
 
 - **📂 Military & Aviation Encounters** → [[Global_UFO_Encounters]], [[Arequipa_UFO_Incident]], [[1948 USA Gorman Dogfight]], [[2004 Mexico Air Force Incident]]
-- **📂 Government Secrecy & Investigations** → [[Project_Sign]], [[Project_Grudge]], [[Project Blue Book]]
+- **📂 Government Secrecy & Investigations** → [[Project Sign]], [[Project Grudge]], [[Project Blue Book|Project Bluebook]]
 - **📂 Whistleblowers & Testimonies** → [[George Gorman]]
 
 ---

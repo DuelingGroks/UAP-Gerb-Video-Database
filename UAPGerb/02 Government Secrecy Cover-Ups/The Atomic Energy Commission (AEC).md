@@ -1,3 +1,9 @@
+---
+aliases:
+  - AEC
+  - Atomic Energy Commission
+---
+
 ## 📌 Overview
 
 The **Atomic Energy Commission (AEC)** was a U.S. government agency established in 1946 to oversee nuclear energy development, weapon testing, and research. It played a key role in Cold War-era nuclear testing, including **Operation Upshot-Knothole (1953)**—a series of nuclear tests conducted in **Nevada** with major implications for military strategy, radiation studies, and potential UFO encounters.

@@ -87,7 +87,7 @@ Among the revelations and allegations:
 Gerb
 Meet [[Battelle Memorial Institute]], a private, nonprofit applied sciences and technology development company whose mission is to quote "deliver scientific discovery and applied research that makes the world a better place to live." 
 
-This private nonprofit has a prolific list of USG contracted work, including classified [[Secure Access Program (SAP)|SAP]]s. Battelle has a storied history in the technological development of our U.S. society, including research into the fabrication of uranium for the [[Manhattan Project]] from '39 to '52.
+This private nonprofit has a prolific list of USG contracted work, including classified [[Special Access Program (SAP)|SAP]]s. Battelle has a storied history in the technological development of our U.S. society, including research into the fabrication of uranium for the [[Manhattan Project]] from '39 to '52.
 
 00;00;31;19 - 00;01;03;11
 Gerb
@@ -181,7 +181,7 @@ For those of you who have never watched one of my videos, UFO records and materi
 Gerb
 With this report, the work on titanium alloys is one of very few studies without classification. It's not labeled as classified, unclassified, or declassified, but rather is labeled as restricted. Essentially, this is a private sector classification standard in which only need to know read-in access is solely allowed. 
 
-If you've never heard of this before, people like [[David Grusch]] have spoken that part of the reason that private industries are used for UFO studies is because they have their own legal classification standards that can't be breached by people with [[Secure Access Program (SAP)|SAP]] access, like Grusch himself.
+If you've never heard of this before, people like [[David Grusch]] have spoken that part of the reason that private industries are used for UFO studies is because they have their own legal classification standards that can't be breached by people with [[Special Access Program (SAP)|SAP]] access, like Grusch himself.
 
 00;08;36;05 - 00;09;12;00
 Gerb

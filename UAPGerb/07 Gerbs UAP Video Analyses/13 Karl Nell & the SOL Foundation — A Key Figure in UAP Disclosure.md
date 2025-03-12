@@ -415,7 +415,7 @@ Hey guys, I know this video turned out almost as long as Colonel Nell's talk its
 
 00;21;36;00 - 00;21;56;15
 Gerb
-I hope you guys enjoyed this breakdown. There's a lot of other interesting talks from the Sol Foundation event I want to go through, including [[Grusch]]'s, [[Christopher Mellon|Chris Mellon]]'s, [[Kevin Knuth]]'s, [[Gary Nolan]], [[Jacques Vallée]] as well. 
+I hope you guys enjoyed this breakdown. There's a lot of other interesting talks from the Sol Foundation event I want to go through, including [[David Grusch|Grusch]]'s, [[Christopher Mellon|Chris Mellon]]'s, [[Kevin Knuth]]'s, [[Gary Nolan]], [[Jacques Vallée]] as well. 
 
 So if you guys like this, stay tuned for that. I had a lot of fun making this. I hope you don't mind the not kind of reaction style.
 
