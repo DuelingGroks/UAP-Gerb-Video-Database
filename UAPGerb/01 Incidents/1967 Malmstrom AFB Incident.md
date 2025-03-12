@@ -2,6 +2,7 @@
 aliases:
   - Malmstrom
   - 1967 Malmstrom Air Force Base Incident
+  - Malmstrom AFB Minuteman Missile Shutdown (1967)
 ---
 
 

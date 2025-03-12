@@ -1,3 +1,5 @@
+
+
 ![[08-UFOs and Nuclear Weapons - A Fascinating Connection-thumbnail.jpg]]
 ## 📌 Overview
 - **Full Video:** [Watch Here](https://www.youtube.com/watch?v=-DK2u8HlhDE)
@@ -18,23 +20,23 @@ Published on **January 29, 2024**, this documentary explores the historical conn
 
 ### 🔥 Key Cases Discussed
 
-#### Lt. Robert Jacobs’ Vandenberg AFB UFO Footage (1964)
+#### Lt. Robert Jacobs’ [[1964 Vandenberg AFB UFO incident|Vandenberg AFB UFO Footage]] (1964)
 
 - Jacobs, an optical instrumentation officer, documented a **dummy ICBM test launch**.
 - The footage reportedly captured a **UFO firing a beam of light at the warhead**, rendering it inoperable.
 - Jacobs was later debriefed and warned to remain silent on the matter.
 
-#### Malmstrom AFB Minuteman Missile Shutdown (1967)
+#### [[1967 Malmstrom AFB Incident|Malmstrom AFB Minuteman Missile Shutdown (1967)]]
 
 - Multiple nuclear missiles at Malmstrom **were mysteriously disabled** while a red, glowing **UFO hovered over the launch site**.
 - This case is corroborated by multiple **sworn affidavits** and was referenced by **David Grusch** in 2023.
 
-#### 1977 FOIA Reports & NORAD Logs
+#### [[1977 FOIA Reports & NORAD Logs]]
 
 - Released documents indicate **33 different nuclear-related UFO incidents** within a two-week period in 1975.
 - Contradicts Project Blue Book’s 1969 claim that UFOs posed no **national security threat**.
 
-#### Indian Point Nuclear Station UFO (1984)
+#### [[1984 Indian nuclear power plant incident|Indian Point Nuclear Station UFO (1984)]]
 
 - Security personnel reported a **football-field-sized craft** hovering above the plant.
 - Electronics and alarms within the facility **malfunctioned**.
