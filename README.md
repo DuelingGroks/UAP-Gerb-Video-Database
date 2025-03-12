@@ -52,7 +52,7 @@ python UAPGerb_Repo_Manager.py
 
 Upload the AIGerbCorpus files into an AI of your choice's memory and ask it questions, or use this one we made for you: [UAP Gerb Research Assistant](https://chatgpt.com/g/g-67baa97585e08191bb015cca779fd47a-uap-gerb-research-assistant)
 
-![UAP Gerb Research Assistant Custom GPT Example](images/ChatGPT - UAP Gerb Research Assistant.png)
+![UAP Gerb Research Assistant Custom GPT Example](images/ChatGPT-UAP-Gerb-Research-Assistant.png)
 
 ---
 
