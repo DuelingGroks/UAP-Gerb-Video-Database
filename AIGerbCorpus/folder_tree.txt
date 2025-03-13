@@ -45,6 +45,7 @@ UAP-Gerb-Video-Database/
                 c7be417c115eea9ebc7e81a122d2e132f2871b
             03/
                 57b1b1e46b79daa2dfe70a58880863fdebf8c9
+                d18678a38d70bbaf65965412b3da1b3a2dcc1c
             04/
                 07e225771293b03ceeb8cedf429080fdd484b0
             06/
@@ -52,6 +53,7 @@ UAP-Gerb-Video-Database/
             07/
                 cd14afe76fb710263601ad664392cdf4c63548
             09/
+                164d00df7bc08e935c6b89e3201d491f2c2490
                 2c4172e574f237171b7b5895543f2bad325453
                 5d1778154e158133894dd632fa0673bd2dc093
                 a7ea6125e86d3a82a77cc9943eaa415920e7a8
@@ -74,6 +76,8 @@ UAP-Gerb-Video-Database/
                 2472df8031d1ea06726bdd36bc5f015c9d25e5
             13/
                 580c46b3632438976bd17c15c62001c8a64fd8
+            14/
+                3e452fc2e94c9e21fb5ce7814ef5c4bb8da4a0
             16/
                 3d7089f8e94eea9188a086131a8932b91094aa
             17/
@@ -150,6 +154,8 @@ UAP-Gerb-Video-Database/
                 2af149060bbdee08805cd86b33f2d9d932b6c3
             48/
                 db7aef866dff2168b7ac998464b0c73a1a2d46
+            49/
+                c0c02114744f591a79e6f4144efc16e43df90b
             4a/
                 eb4dcc1459ab509d62518a3d5ff7187596dc08
             4b/
@@ -179,6 +185,7 @@ UAP-Gerb-Video-Database/
                 afc927f9347abc8d2412ae318f7ef76c6d5a3d
             5c/
                 0d90cc63a3c74e3b3a0ae4f1ac58728b44aa9c
+                7dd76ed517a04dc40f330351d8379236dac2bc
             5e/
                 93eb68bd9498751653f8282f4e8535cc71ff32
             5f/
@@ -231,6 +238,10 @@ UAP-Gerb-Video-Database/
                 206d2d5e500c9f37888ca2d04c88265733e420
             90/
                 77358b12ca8276798e731c9c2192ca9dbdf300
+            92/
+                ab36eaf50f0e09c55d84d7da7dcec7f97454a7
+            93/
+                f212300096fad93a2b8b3e6978dcd53630ebd8
             94/
                 20c6c81fb379cbb7528c1e29b6d8fb5d25d536
                 5ecdaf06508263d681443016694f18abc36b3d
@@ -239,6 +250,7 @@ UAP-Gerb-Video-Database/
             95/
                 8a44ceef9b189901005335d3edf6220e9a4900
                 dc6d3d2a742283ffb0a2d8772ff0c22ca9e400
+                f8aa4b3346202af0ee57c604c5ad277d7a8256
             96/
                 3f43a32fa42a28e0d7e5ecd01df2cea0da613e
                 fe62f397acc72de1271df9b142f03554eba9f3
@@ -326,6 +338,7 @@ UAP-Gerb-Video-Database/
                 026c3eae059593a84e7a687ad2f62b10ce1f53
             cb/
                 b7a290ad17af8cd073914de213b45e40ed884f
+                fab30a7a13466fc96940f91f2bd24a169ccde5
             ce/
                 8b0a7df2f1a35c7491a851e5c8b3045359e368
             cf/
@@ -357,6 +370,7 @@ UAP-Gerb-Video-Database/
                 ed125009b4f72cb76d03863a0e91acddcecf5a
             e7/
                 0a5ce39433dd3dddfae242de17fda0d5494bc7
+                3c9f195201f0c59bcbb972dc15d6c2ae0a5ac0
                 d79e183c8363fc183773346747d28c1a3a8831
             e8/
                 a74e0bd84e6065b59e92766ee0add3a6944806
@@ -487,16 +501,28 @@ UAP-Gerb-Video-Database/
         34-Alien Reproduction Vehicle - TR-3B and the Flying Triangles-metadata.json
         35-Philip J. Corso - US Army UFO Technology Research & Development-metadata.json
         36-Dugway Proving Ground - UFO Legacy Programs-metadata.json
+    PDFs/
     PythonScripts/
         AI_DIrectory_Summary.py
         GerbVideos.txt
         video_data_scrape.py
         YT-Data-Scrape-Audio-DL.py
     UAPGerb/
+        Air Force Materiel Command.md
+        Casebook of a UFO Investigator.md
         directory_listing.txt
+        Edward B. Doll.md
+        Eric Wang.md
+        flying disk simulator.md
         folder_tree.txt
-        Kingman UFO Drawing.png
+        Judy Woollcott.md
+        Leonard Stringfield.md
+        Malmstrom Air Force Base.md
+        Operation Upshot Knothole.md
+        Raymond Fowler.md
         readme.md
+        Regulation 200-2.md
+        Richard Geldreich, Jr..md
         UAP Gerb Research Project Overview.md
         .obsidian/
             app.json
@@ -562,7 +588,6 @@ UAP-Gerb-Video-Database/
             Lee Graham.md
             Nathan Twining.md
             R. J. Cohen.md
-            Robert Salas.md
             Robert Sarbacher.md
             Roger Rieger.md
             Ron Blackburn.md
@@ -675,6 +700,7 @@ UAP-Gerb-Video-Database/
                 RB Marine Whistleblower.md
                 Richard Doty.md
                 Robert Jacobs.md
+                Robert Salas.md
                 Ryan Graves.md
         05 Secret Programs/
             1972 Edwards AFB Antigravity Research.md
@@ -838,6 +864,8 @@ UAP-Gerb-Video-Database/
             UAP.md
             USG.md
             zero-point energy.md
+        17 images/
+            Kingman UFO Drawing.png
         Publishings/
             2014 Defense Support Program Fact Sheet.md
             Science.md

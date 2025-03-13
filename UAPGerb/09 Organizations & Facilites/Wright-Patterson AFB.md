@@ -1,6 +1,7 @@
 ---
 aliases:
   - Wright-Patterson Air Force Base
+  - Wright-Pat
 ---
 
 ### **Introduction**

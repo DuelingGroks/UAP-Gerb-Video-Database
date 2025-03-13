@@ -1,4 +1,12 @@
-## aliases: ["Fitz Werner", "Arthur Stansel Jr."]  
+---
+aliases:
+  - Fitz Werner
+  - Arthur Stansel
+  - Stansel
+  - Werner
+---
+
+
 tags: #UFO #UFOCrash #Kingman1953 #Whistleblower #ReverseEngineering  
 
 ---

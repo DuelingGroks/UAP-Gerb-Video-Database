@@ -3,6 +3,8 @@ aliases:
   - Area 51 S4
   - area 51
   - S4
+  - The Groom Lake Facility
+  - Groom Lake
 ---
 
 ---

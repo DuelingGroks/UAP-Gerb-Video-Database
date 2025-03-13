@@ -1,3 +1,7 @@
+---
+aliases:
+  - UFOs and Nukes
+---
 
 
 ![[08-UFOs and Nuclear Weapons - A Fascinating Connection-thumbnail.jpg]]

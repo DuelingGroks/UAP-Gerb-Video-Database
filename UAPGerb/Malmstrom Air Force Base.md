@@ -1,0 +1,4 @@
+---
+aliases:
+  - Malmstrom AFB
+---

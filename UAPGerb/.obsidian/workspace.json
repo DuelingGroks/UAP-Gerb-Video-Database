@@ -11,10 +11,14 @@
             "id": "ad217fd28c0e4d57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07 Gerbs UAP Video Analyses/18 The Physics of UFOs– Dr. Kevin Knuth.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "18 The Physics of UFOs– Dr. Kevin Knuth"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "07 Gerbs UAP Video Analyses/18 The Physics of UFOs– Dr. Kevin Knuth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 18 The Physics of UFOs– Dr. Kevin Knuth"
             }
           }
         ],
@@ -165,6 +170,28 @@
   },
   "active": "ad217fd28c0e4d57",
   "lastOpenFiles": [
+    "07 Gerbs UAP Video Analyses/17 The 1953 Kingman UFO Crash.md",
+    "07 Gerbs UAP Video Analyses/08 UFOs and Nuclear Weapons - A Fascinating Connection.md",
+    "Judy Woollcott.md",
+    "Leonard Stringfield.md",
+    "09 Organizations & Facilites/Area 51.md",
+    "flying disk simulator.md",
+    "09 Organizations & Facilites/Wright-Patterson AFB.md",
+    "04 Important Figures/Whistleblowers/Bill Uhouse.md",
+    "Malmstrom Air Force Base.md",
+    "10 Evidence/1954 Atomic Energy Agreement.md",
+    "Regulation 200-2.md",
+    "Eric Wang.md",
+    "07 Gerbs UAP Video Analyses/01 Wilson Davis Memo Documentary.md",
+    "Air Force Materiel Command.md",
+    "Edward B. Doll.md",
+    "17 images",
+    "Richard Geldreich, Jr..md",
+    "Arthur Stansel.md",
+    "Casebook of a UFO Investigator.md",
+    "Raymond Fowler.md",
+    "04 Important Figures/Experiencers/Arthur Stansel (Fitz Werner).md",
+    "Operation Upshot Knothole.md",
     "07 Gerbs UAP Video Analyses/16 FASTWALKERS – UFOs Outside Earth.md",
     "Publishings/2014 Defense Support Program Fact Sheet.md",
     "04 Important Figures/Bob Fish.md",
@@ -172,33 +199,13 @@
     "07 Gerbs UAP Video Analyses/Report Summary.png",
     "07 Gerbs UAP Video Analyses/16 images/Report Summary.png",
     "07 Gerbs UAP Video Analyses/05 The First Commercial Flight Grounded Due to UFOs.md",
-    "Publishings/Books/In Plain Sight.md",
-    "Publishings/Books/Hidden Science 5.md",
     "07 Gerbs UAP Video Analyses/16 images/Grainy Fastwalker image.png",
-    "Publishings/Articles/The DSP Connection.md",
-    "Publishings/Websites/ufo-world.simplenet.com.md",
     "07 Gerbs UAP Video Analyses/16 images/238 SCANS - POSSIBLE SR.png",
     "07 Gerbs UAP Video Analyses/16 images/The DSP Connection WBM Snapshot.png",
-    "04 Important Figures/R. J. Cohen.md",
-    "09 Organizations & Facilites/Citizens Against UFO Secrecy.md",
-    "04 Important Figures/Harry S. Shields.md",
-    "Publishings/Papers/Now You See It, Now You Don't.md",
     "07 Gerbs UAP Video Analyses/16 images/Now You See It Now You Dont Harry Shields.png",
-    "04 Important Figures/Roger Rieger.md",
-    "04 Important Figures/Lee Graham.md",
-    "07 Gerbs UAP Video Analyses/11 The Origin of the UFO Stigma.md",
-    "01 Incidents/1976 Tehran UFO incident.md",
-    "04 Important Figures/Joseph John Stefula.md",
     "07 Gerbs UAP Video Analyses/16 images/Fastwalker Depiction.png",
     "07 Gerbs UAP Video Analyses/16 images/Defunct Website Image.png",
     "07 Gerbs UAP Video Analyses/16 images/Debs UFO Research Images.png",
-    "Publishings/Websites/Deb's UFO Research.md",
-    "Publishings/Articles/Top Secret Spy Satellite Spot UFOs.md",
-    "04 Important Figures/Tim Swartz.md",
-    "09 Organizations & Facilites/Aerospace Corporation.md",
-    "11 Terms & Definitions/TS-SCI.md",
-    "04 Important Figures/John Podesta.md",
-    "Publishings/Websites/WikiLeaks.md",
     "Publishings/Websites",
     "07 Gerbs UAP Video Analyses/16 images/Clear Intent Book Scan.png",
     "07 Gerbs UAP Video Analyses/16 images",
@@ -208,7 +215,6 @@
     "Publishings/Videos",
     "Publishings/Articles",
     "Publishings",
-    "04 Important Figures/Other",
-    "04 Important Figures/Employees & Contractors"
+    "04 Important Figures/Other"
   ]
 }
