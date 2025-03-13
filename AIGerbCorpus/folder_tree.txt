@@ -43,13 +43,17 @@ UAP-Gerb-Video-Database/
                 e3df7c176dc95f00dbbf9051fb539b7a6f631f
             02/
                 c7be417c115eea9ebc7e81a122d2e132f2871b
+                cc90c8b4223258e1e189d4106fdac5936f19cc
+                de9a03f125c0b716b2661753996fbd5672e7d6
             03/
                 57b1b1e46b79daa2dfe70a58880863fdebf8c9
                 d18678a38d70bbaf65965412b3da1b3a2dcc1c
             04/
                 07e225771293b03ceeb8cedf429080fdd484b0
+                a6191ecae408ea69291fbab04e5966792cc441
             06/
                 4d4aba9d2e5281f74089725a62f0513afd016c
+                74b03e680ed36f745131445ff83e0c5cb0e95e
             07/
                 cd14afe76fb710263601ad664392cdf4c63548
             09/
@@ -61,6 +65,7 @@ UAP-Gerb-Video-Database/
             0b/
                 9310b856bfd61d7256c0274358b4021af93dcd
             0d/
+                01f9dbc83e51f5e57839591c7bbbb5c34b05f2
                 418904b8dc305b0eda20b5c6bff0ecf82cc4c6
                 e1776e864409f81f7340d3a855636447d36dc3
             0e/
@@ -78,16 +83,20 @@ UAP-Gerb-Video-Database/
                 580c46b3632438976bd17c15c62001c8a64fd8
             14/
                 3e452fc2e94c9e21fb5ce7814ef5c4bb8da4a0
+                bec12327c840402b05268acdda1e23efe8568b
             16/
                 3d7089f8e94eea9188a086131a8932b91094aa
             17/
+                6ea1360c9773709ca0ba5280e8bdecc58837ce
                 bf56ab8396dac6f60f191dbff09c4ae5d61f2c
             18/
                 1ab8da0d918fc98648d49bb4ff738d3a05f955
             1b/
+                829a5cdddc56da4485fc09598fca193d2c495c
                 a1dae5832035bb557c6117793bbc4bc086268b
             1c/
                 8151cac1789c1792534257c01c275cba714850
+                938767f08a35465f48ecc4fb711acd37f313b2
             1d/
                 5eb4ffcfedac25923942e4c39ba598d251fd94
             1e/
@@ -105,6 +114,8 @@ UAP-Gerb-Video-Database/
                 51497180463d9cfbfd48acf8f20592cedc820d
             23/
                 f90174d47336f17440f18d7d766e9561d036a1
+            24/
+                db9a268fb25e9542dd34b4deaef21340156932
             25/
                 9272674dfc59c65db794e0ed594e264bc454c5
                 9444512c1aeb3b8a2c6a59cde58d6ae7a1cd0e
@@ -115,9 +126,14 @@ UAP-Gerb-Video-Database/
             29/
                 946553aadfb2805fafdc7bd80247a3d466dcf2
                 958e9682d62fd326dc4c7502440e1f2f64c676
+            2b/
+                be7e1d61dbc8d26dabe882af21d3eeae9e1005
             2d/
                 2bb3bfe30ee170f6a2099a4305eeb528a1c433
+                5ce4da1ad32b1cab825f7d5d5afb55d2d85437
             2e/
+                3b2873c2f5cbde9a4ce871e321bf9dd424e6b2
+                47c8b57e6d30b9cf59e5bab09b52442dcfd16a
                 5889fcb95ea1c87185225512111a0fd58cd5d7
             30/
                 2df6376521fd97cbd2cd49ae546805e4615a7b
@@ -129,9 +145,15 @@ UAP-Gerb-Video-Database/
             33/
                 658e6183533aca0a8f5a90ba3f20f93bb09a06
                 acaedbc8794b689ab8e019bc2ad7f4603b05d3
+            34/
+                0824865551ce95f8e9616ea2e98bb4ab5054d7
             37/
                 cb58f3b7fed50776a3af2c8282a360eb1b05a4
                 dfdbda9c5a2b68a2119f293e17d70a0d5c6c1c
+            38/
+                6be327bf049bc9e379b17ee64da1c7e2a3886a
+            39/
+                f0694711934165a13b542837c1f32c12392cd5
             3b/
                 558a29fe2ae42949a40b20fe418d8a3470d8a7
             3c/
@@ -143,15 +165,20 @@ UAP-Gerb-Video-Database/
                 89a4f80bfcdc21b9af047427fe7e20773d68c6
             3f/
                 5bac2eb7bdcd85142f981c8c7a02c251bc1dbb
+            40/
+                8be9643e3902d56b072b95d600e8912cdafbe0
             41/
                 b2cf48f7000f345000e27f1716bc726cd54c15
                 bf342d6a660fbfa588a0d65d6a8c14f5828c86
             42/
                 192bf99e998ce97c7c069e7b95f44d315ce843
+            45/
+                bf59aa2ad2aea0bf5efe0203eeff4e46097ca2
             46/
                 f53361844e2b6c7b04a0338a137ed9a05b3e41
             47/
                 2af149060bbdee08805cd86b33f2d9d932b6c3
+                707f586c6b543b7886c27772448fdaa35aaa1b
             48/
                 db7aef866dff2168b7ac998464b0c73a1a2d46
             49/
@@ -160,25 +187,34 @@ UAP-Gerb-Video-Database/
                 eb4dcc1459ab509d62518a3d5ff7187596dc08
             4b/
                 aabb5547426bdef125a2322c702f94b7068cf8
+                e3ea34a0387cbc387264f0ebff8839d1006158
             4c/
                 89c504102ea0e9392dd434090fb3f399eb6941
+                dc0732bfc66fccbf38d33e685163621fcddef1
             4e/
                 6e4bf2a6e8f6e9ece0ea12c31dd89c84c5aaeb
+            4f/
+                f0f669867b901297a95516a48d3710c27e520f
             50/
                 ae1ca07d497fcdbfae3d852469b17e26065ec6
             52/
                 3f2243ab966be8049a9c36cef8495d811f12de
             53/
                 365177e2c2f021d7cf93d9d7e0c8a791ffb2e8
+            54/
+                1eb22aa62d7ea85dbd00463773028c827c3b6f
             55/
                 2e54fcc96250d564ac8cd98c7778015a04187a
                 a4196b256090790ab355c09af79850988fd1fc
+                ceff89ab08131b4561d0b2e8041ca23091e207
             57/
                 9192144e8aed2de9fbc006cab9f8db4cffcdde
             58/
                 1a641ce5d32792472fd5e44bd89ef475c754d1
+                49c4446cabbee21fccdc850d0afc21ca1f7afd
                 86656e33c5400ef4df74435326271b954b791e
             5a/
+                20bfbfcb2b44cc599e7cdde3e05c8727dd24d3
                 5c531c91d18ca31efb49a928a362fab16e59f3
             5b/
                 8d5bec76945aa8745de2c9ca7c257f83b3cf25
@@ -191,19 +227,30 @@ UAP-Gerb-Video-Database/
             5f/
                 3e15ff0893fb4c912727d50e826ef6f16554ab
                 5a927df78baea9a0eafd57f685e87a40d8de2f
+                fdbbc2f32efba830a6a2f69fa99f652e2119f3
             60/
                 afb415b49dc19af66243a484eb5d3d18837baa
+            61/
+                a7f5aa204f7968735e8792cdf473e8129c9335
             63/
                 5fcd88e21fc17ed2f99d4fba0466c5949255af
                 b6427e1f176b388fc8fb30ff12f56961fc1dbf
                 eeacfb95352782cf63f4b306c57836f4998fa5
             66/
                 a9ca824a366e289155159b1d0a90fa9d4c4f93
+            69/
+                dea63f556797c84aef9bf2bc93c74d8708973a
             6b/
                 3cdfa624f0a173915a217f8c1415f33f7d944e
                 eda142a4dd983277147bfa41e53f1ecfb9c89d
+            6c/
+                63003a3e519946a66a9ca4de7ffe779237f6eb
+            6f/
+                eddf36770f91ec8676beea8ce6e8043cfbf64a
             70/
                 14f2982f1cca89fd07c3f64b2f3123621e3f4f
+            71/
+                50914ac9a387904a715de3483b371d565e5637
             75/
                 8522d09a8388ab129a099522af922516597381
                 c484226641f13281d084cd7325186db67a2f5e
@@ -212,6 +259,8 @@ UAP-Gerb-Video-Database/
                 f9c5d5a8fbcf6956f59f8d80505ad4343712e9
             78/
                 c7a025dcfe4c696d91862a68c4ce023206059d
+            79/
+                5db4964a726120b68bb6b9cacd7f670b43351a
             7b/
                 2ad401bcad65444c73a99c84b392f7c314cddc
             7c/
@@ -224,23 +273,32 @@ UAP-Gerb-Video-Database/
             81/
                 20152964a94e328883d3aec6c37a6b42cabbf7
                 4999cd269c89a51c23b949e12168190d2f717f
+                c10529580dab9367dea1c61de65a4bbab8cbc8
             82/
                 498a0b74f4c68d10a8d0f5caf2d5ed6462db21
+                daebba5c2812a1bcf05e68a7a802c4b382d7ed
+            83/
+                dc313e83b175366e5ab7b3d191d19e3e2821f0
             86/
                 989d129577caaaa9df1e649e5da0f840590a72
             88/
                 99298ffc4b7564e6dcf1b5f3de90d3416fcc25
+                fe55d0d1273420ce8f78adf6bbf540c6a9521f
             8a/
                 aa84e1aa7eedf1fe6248906286d7c1fc50b0f1
             8b/
                 7d8fad3d3b0ec82e8be0ea2288c443df2544ac
+            8c/
+                c444b34791c90f771c6b60d982bd7c74663a16
             8d/
                 206d2d5e500c9f37888ca2d04c88265733e420
+                6035ec6e11d4a23bc1f8743af19847a58cc78c
             90/
                 77358b12ca8276798e731c9c2192ca9dbdf300
             92/
                 ab36eaf50f0e09c55d84d7da7dcec7f97454a7
             93/
+                1a0cb9805d3596dce56c29218dc8cdbce64fae
                 f212300096fad93a2b8b3e6978dcd53630ebd8
             94/
                 20c6c81fb379cbb7528c1e29b6d8fb5d25d536
@@ -255,8 +313,11 @@ UAP-Gerb-Video-Database/
                 3f43a32fa42a28e0d7e5ecd01df2cea0da613e
                 fe62f397acc72de1271df9b142f03554eba9f3
             97/
+                277a28b855373e2b00658fc8ca936f92ccefbc
                 cf99129502b9732d9f7a19abd3003153a35621
+                d8fecb1f9251b05453fd36a409b24ef9fd05a8
             98/
+                b5dc28f9591174f2be3fccedcba4e5f920b0ea
                 dbd41d137ea58d1cc828b0b4e5a1a8806e5ea5
             9a/
                 ad6a8632d5f210c4ccc551df688fab754f8a72
@@ -273,6 +334,8 @@ UAP-Gerb-Video-Database/
                 13cfd99490e78927daeecfe3750060ef9e4cd7
                 797045b3d63e2787bd4a6bba0def74df9ac799
                 98a9c7875e3c66297d112f03abfd8942b80f7a
+            a0/
+                6ced93c4b5289e8c80b6610d5b81f31689cbc2
             a1/
                 a9b522a25deba7bd221bd82938c5682e78ca4c
             a3/
@@ -280,6 +343,7 @@ UAP-Gerb-Video-Database/
             a5/
                 c8ca396d0c473abc10ac652091d4478d2d59b8
             a8/
+                60c3ea8481cd37de0716fd7e21fe7700dcae05
                 7b8a2d0985be3de3450fb6f7a2132cee4d67ed
                 b505f35505dd6e6a512bc5d40196ecc7c4800e
             ab/
@@ -292,6 +356,7 @@ UAP-Gerb-Video-Database/
             ae/
                 4b1b2f56cfa7c64c8044f8f80f22666bcbf67f
             af/
+                3beb4c831d4b77282d70dffae4dd1fc406444a
                 856c6f6f1f07cbf5342c1c2f7759a66b97fd2b
                 a59a0326759c8b0124ba7661c5bef93fda5e17
             b1/
@@ -305,37 +370,58 @@ UAP-Gerb-Video-Database/
                 c4da8f1d5fe65c9ba7b6fc9a463f8e10d24858
             b4/
                 83872e2acb12931026bfbde5b534bc6460daed
+                8610163e5fc892b58893bf93368a5ab6062837
             b5/
                 606045711937795be5bb799f1793002fe4f446
                 919a3feafbda421d829675a42e590523f14afb
                 cb478b3d010c43fb9a60f808d9213e7c117584
             b6/
+                8f18918be9259776e6d0ac37daf49358f206b4
                 b78bde31559ebb1575012a7337dac637c2d14f
             b7/
                 7f3798d49a3374c1a6e2db4ea9383027469e59
+                c92b97e456ea22cbee66276b198a29755d3a03
             b8/
                 1feb5c5218e9a7667368fb243254bf4082654f
             b9/
                 e2a801cb13b8633e9dc81bc829eb2a198672da
             ba/
                 13443f870cf339855c41d848f59c99a5f86ba6
+                7c3df83905a53d47b8f1b2325955915033b6da
+                dff76ff0878604a50df20e0168d040976013c3
+            bb/
+                c4e3095447dc8f6460dfd346710a96d26e7835
+            bc/
+                2e19f357210a2fe0a78f4ba5d77d32d4b654ba
             bd/
                 3dbec57915e0373e8217021df3e008f8943ddb
                 c4c08350ac46e64463e43b838dd7a75b3fc799
+            be/
+                c66ac96374fcf7e2e48c8d27c87ec826b8e087
             bf/
+                10d78d29d72eb58e4f937546fa1462cad6b5e8
                 bf767950ee5273be986413e88ac51c7ab9af5c
                 eed4045eb00b0274a1536f5a90fbcc0dc506e9
             c0/
                 2c9f2c3eda03a54821be1c7058e24282c4880f
                 77cf15224ce416d4b58f03c816ed00aa49bb2d
+            c2/
+                123dab606f46ca804a48c2e67fb3e5bbef2913
+                414af1371bd8a42166a681b967d187ae262df9
+            c4/
+                a77fcf17eb52f7d8a037afca8131efeb1ca833
             c5/
                 b2a97821e4a119bdbd5439c5d24c7cf1bb14bb
             c6/
+                03824eb9455cdae6734828362f611f43484129
                 170ac3137b3d3989b4f3a8e6b5def7dabe9e84
                 4d6d49070aa804dd0e547c0dba92730744a47f
                 bc291e7d1ad4ff793f5306762e20db1b89f17c
             c9/
                 026c3eae059593a84e7a687ad2f62b10ce1f53
+            ca/
+                24379b9c6b08781bcdaeeca3d64704526f6199
+                5daaabfaa3e4185c460af2d61cc615afaa0699
             cb/
                 b7a290ad17af8cd073914de213b45e40ed884f
                 fab30a7a13466fc96940f91f2bd24a169ccde5
@@ -343,14 +429,25 @@ UAP-Gerb-Video-Database/
                 8b0a7df2f1a35c7491a851e5c8b3045359e368
             cf/
                 acb9753e60bf524e9f1d009e0c29eeb9f882d4
+                c8d58d4969fcafaf376a8b42b38997a695ce44
             d1/
                 63663a68026353494adbc6cc76ddd874de812c
             d3/
+                c6a31cc018619f283365d7ba5006677efc8842
                 f95788138857409eb011c2b89a3b136ae44b4b
+            d4/
+                ad96f7753ce65f18962c8330d9d46d0fd37f30
+                dce12aa0e94ec692ae88059bd42ffe724feb4b
+            d5/
+                099031d2e3efe348bd13d05dfd829a81b17d1a
             d7/
                 545d8fe2b42149282fa21d72d7d5d7ec5c30de
+                a72b24960db3005ffdd3b81bb15386db6456e2
+                def2229588ec8e37f142186366c8946b919e48
             d8/
                 9998e4f879dbaf8d7d68288297e0355e9ee65c
+            d9/
+                13fe7440a76bd5152806bde5047e1f3af11b39
             db/
                 846b19c10dc5b1992c1769315c04566f9562a2
                 f4d7215be2798d80a175036fa9b9d63017f7ea
@@ -364,22 +461,33 @@ UAP-Gerb-Video-Database/
             e1/
                 36663dbca5eb204333ac35a0a343a921d5e35f
             e2/
+                4502646c94b4a9bd215e823e76c0801e0f8667
                 c46137caa6416dbe370051cedebfb02f3d9c37
+            e3/
+                020ad12c71938bad001aa76bea0fd341bd3c49
+                6f8165db60c2fc0346b83729353ac42191b7e3
             e4/
                 14ad38c4b27808d63527b4989121d5a1a94de8
                 ed125009b4f72cb76d03863a0e91acddcecf5a
+            e5/
+                de8894a5e5fc55064edbb7b0b29082886cd777
             e7/
                 0a5ce39433dd3dddfae242de17fda0d5494bc7
                 3c9f195201f0c59bcbb972dc15d6c2ae0a5ac0
                 d79e183c8363fc183773346747d28c1a3a8831
             e8/
                 a74e0bd84e6065b59e92766ee0add3a6944806
+                b88d8dc8d1054b99ed5302589a6519698df892
+            e9/
+                58d8fa536faf0b951e1d4257f2394e9ac9de45
+                fe7a84164f1b1e7a0175bed1015bfc2329f1f3
             eb/
                 9bff60592bcde8378746eafe534d9a41376726
             ec/
                 31c29b04dd590e4fea6b21a630307eb0b77557
                 55eb008ed746d108cc3e1e012d0b1968659384
                 882182e52e4b71f7af5047e995442926038f58
+                d254e2c1b33fac94cd60a68726fcfc100c99b0
             f0/
                 41c7df0c6284f295aa95abcd2a55f1f5d8228e
             f1/
@@ -388,16 +496,25 @@ UAP-Gerb-Video-Database/
             f2/
                 1ec81e20c7a7557b188d2597e264a0e76af518
                 dda2de870cc15e0e3d658d35b4d1786911e770
+            f6/
+                b63e54083cf508bb908970ade20c1cc429eb1c
+            f7/
+                02c5c3a3faf244d6f11f545ea267e9fc894d4d
             f8/
+                78ddab3998ce10bc55aa5d131f28f446c2046a
                 af7ff55e41436e7bb0707a6d3bc1d8719476b2
             fa/
+                0cbf044a4c72313897156d4a22a0e4749f6b5f
                 1ddb3a1df1af5f268c7114320f1673ae538b75
+                5250b3f7506174d25617103065fbdeb8b67105
                 fc86bfb1ffeb7237551ec74804185f3a39fa97
             fb/
                 323828a3f5760cc425d4367f9121fe3fa9f109
             fc/
                 222568cf99369631a03e592da43a4efc849093
                 b57ce841a28b3807458714c3d74169e2711f5d
+            fd/
+                79f44e63734acb623f01cacea8d4ffa58a447e
             info/
             pack/
                 pack-81bf37a3ad4994c57d86ede45a8ab5603e633186.idx
@@ -508,21 +625,9 @@ UAP-Gerb-Video-Database/
         video_data_scrape.py
         YT-Data-Scrape-Audio-DL.py
     UAPGerb/
-        Air Force Materiel Command.md
-        Casebook of a UFO Investigator.md
         directory_listing.txt
-        Edward B. Doll.md
-        Eric Wang.md
-        flying disk simulator.md
         folder_tree.txt
-        Judy Woollcott.md
-        Leonard Stringfield.md
-        Malmstrom Air Force Base.md
-        Operation Upshot Knothole.md
-        Raymond Fowler.md
         readme.md
-        Regulation 200-2.md
-        Richard Geldreich, Jr..md
         UAP Gerb Research Project Overview.md
         .obsidian/
             app.json
@@ -552,14 +657,18 @@ UAP-Gerb-Video-Database/
             1979 Manises UFO Incident.md
             1980 Peru Arequipa UFO Incident.md
             1980 Rendlesham Forest Incident.md
+            1983 McCampbell case.md
             1984 Indian nuclear power plant incident.md
             1986 Japan Airlines Cargo Flight 1628 Incident.md
+            1987 HMNZS Southland Encounter.md
             1989 Belgian UFO Wave.md
             1989 Voronezh UFO Incident.md
             1997 Peru Crashed UFO.md
             1997 Phoenix Lights.md
             2004 Mexico Air Force Incident.md
+            2004 Nimitz encounter.md
             2009 Norwegian Spiral Anomaly.md
+            2013 Aguadilla Puerto Rico UAP.md
             Holloman Air Force Base landing.md
             USS_Trepang_USO.md
         02 Government Secrecy Cover-Ups/
@@ -582,12 +691,21 @@ UAP-Gerb-Video-Database/
             Bob Fish.md
             Brad Sparks.md
             Bradley R. Townsend.md
+            Bruce Maccabee.md
+            David Barnett.md
+            Edward B. Doll.md
+            Eric Wang.md
             Harry S. Shields.md
             John Podesta.md
             Joseph John Stefula.md
             Lee Graham.md
+            Leonard Stringfield.md
             Nathan Twining.md
             R. J. Cohen.md
+            Raymond Fowler.md
+            Richard Geldreich, Jr..md
+            Rob R.S..md
+            Robert M. Powell.md
             Robert Sarbacher.md
             Roger Rieger.md
             Ron Blackburn.md
@@ -605,6 +723,8 @@ UAP-Gerb-Video-Database/
                 Nick Cook.md
                 Richard P. Osedacz.md
                 Zecharia Sitchen.md
+            Controversial/
+                Judy Woollcott.md
             Employees & Contractors/
                 Ben Rich.md
                 Bernard Haisch.md
@@ -612,8 +732,9 @@ UAP-Gerb-Video-Database/
                 Don Phillips.md
                 E. J. Center.md
                 Edgar Fouche.md
-            Experiencers/
+            Experiencers & Witnesses/
                 Arthur Stansel (Fitz Werner).md
+                Parviz Jafari.md
                 Tarmo Tukeva.md
                 Travis Walton.md
             Other/
@@ -654,6 +775,7 @@ UAP-Gerb-Video-Database/
                 Gary Nolan.md
                 George Knapp.md
                 Hal Puthoff.md
+                Hermann Oberth.md
                 Jacques Vallée.md
                 James Fox.md
                 Jeremy Corbell.md
@@ -663,6 +785,7 @@ UAP-Gerb-Video-Database/
                 Linda Moulton Howe.md
                 Matthew Pines.md
                 Nikolai Kardishev.md
+                Peter A. Reali.md
                 Ralph Blumenthal.md
                 Richard Dolan.md
                 Ross Coulthart.md
@@ -778,6 +901,12 @@ UAP-Gerb-Video-Database/
                 Report Summary.png
                 The DSP Connection WBM Snapshot.png
                 Two Shared Docs Fastwalkers.png
+            17 images/
+                Kingman UFO Drawing.png
+            18 images/
+                HMNZS Southland Encounter Slide.png
+                Kevin Knuth Sol Foundation UFO Images Slide.png
+                Minot Report Screengrab.png
         08 Documents & External References/
             2024 NDAA.md
         09 Organizations & Facilites/
@@ -785,6 +914,7 @@ UAP-Gerb-Video-Database/
             AARO.md
             Advanced Aerospace Threat Identification Program (AATIP).md
             Aerospace Corporation.md
+            Air Force Materiel Command.md
             Air Force Technology Intelligence Committee.md
             American Association for Advancement of Science.md
             Americans for Safe Aerospace.md
@@ -802,11 +932,14 @@ UAP-Gerb-Video-Database/
             Douglas Aircraft Company.md
             Dugway Proving Ground.md
             EG&G.md
+            Galileo Project.md
             General Accounting Office.md
             Greer Disclosure Project.md
             House Armed Services Committee.md
             Livermore National Laboratory.md
             Lockheed Martin.md
+            Malmstrom Air Force Base.md
+            Minot Air Force Base.md
             MUFON.md
             NASA Ames Research Center.md
             NASA.md
@@ -817,11 +950,12 @@ UAP-Gerb-Video-Database/
             Nuclear Regulatory Commission.md
             Oak Ridge National Laboratory.md
             Office of Global Access.md
+            Operation Upshot Knothole.md
             Raytheon.md
             Sancorp.md
             SAPOC.md
             SETI.md
-            SOL Foundation.md
+            Sol Foundation.md
             Space Force.md
             UAP Caucus.md
             UAP Task Force.md
@@ -833,17 +967,24 @@ UAP-Gerb-Video-Database/
         10 Evidence/
             1950 McMinnville UFO photographs.md
             1954 Atomic Energy Agreement.md
+            1956 Royal Canadian Air Force photograph.md
+            1971 Costa Rica Aerial Photo.md
             1977 FOIA Reports & NORAD Logs.md
             Calvin UFO photo.md
+            Calvine photographs.md
             Executive Order 13526.md
             Flyby UFO footage.md
             Gimbal.md
             Go Fast.md
             Leaked Fastwalker Emails.md
             Metapod.md
+            Minot Report.md
             MJ12 Documents.md
             Moon Dust Documents.md
+            Regulation 200-2.md
             UFO Pentagon videos.md
+            Vancouver, British Columbia 2005 Image.md
+            Weyauwega, Wisconsin Image.md
             Wilson Davis Memo.md
         11 Terms & Definitions/
             Alien Reproduction Vehicle.md
@@ -852,6 +993,7 @@ UAP-Gerb-Video-Database/
             Extraterrestrial Biological Organisms.md
             Fastwalkers.md
             FLIR.md
+            flying disk simulator.md
             Freedom of Information Act.md
             Joe Rogan Experience.md
             Men in Black.md
@@ -864,15 +1006,15 @@ UAP-Gerb-Video-Database/
             UAP.md
             USG.md
             zero-point energy.md
-        17 images/
-            Kingman UFO Drawing.png
         Publishings/
             2014 Defense Support Program Fact Sheet.md
             Science.md
             Articles/
+                Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles.md
                 The DSP Connection.md
                 Top Secret Spy Satellite Spot UFOs.md
             Books/
+                Casebook of a UFO Investigator.md
                 Clear Intent.md
                 Hidden Science 5.md
                 Hunt for Zero Point.md

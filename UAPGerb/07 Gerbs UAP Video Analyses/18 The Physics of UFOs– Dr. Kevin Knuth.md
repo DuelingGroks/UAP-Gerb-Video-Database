@@ -107,6 +107,7 @@ Hey guys, it's UAP group and for all my engineering and physics brethren, we are
 Gerb
 This is a video I've been looking forward to making for a long time, as regardless of how elusive and exotic UAP are, quantifiable data from multiple sensors on these craft's flight characteristics have and can be measured.
 
+### [[Kevin Knuth]]
 Quickly who is Kevin Knuth? Professor Knuth is a physics professor at the University of Albany, and earned his PhD in physics from the University of Minnesota.
 
 00;01;22;05 - 00;01;53;05
@@ -151,6 +152,7 @@ Similar to Nell, Kevin highlights the issue with the term UAP, knocking the ambi
 Gerb
 [[Kevin Knuth]]: "Some of these things are observed very well and described very well." 
 
+### UFO Images
 While presenting UAP as a class of phenomena, Knuth presents a slide of seven UFO images. And yes, my profile image can be seen here. 
 
 ![[Kevin Knuth Sol Foundation UFO Images Slide.png]]
@@ -207,6 +209,7 @@ The object was gray, metallic and solid looking, though surrounded by a greenish
 
 00;07;21;00 - 00;07;53;10
 Gerb
+### Two of the 5 Observables
 [[Kevin Knuth|Knuth]] then goes on to reference the five characteristics of UAP or six if you include biological effects, as famously outlined by Lou Elizondo of [[Advanced Aerospace Threat Identification Program (AATIP)|AATIP]]. 
 
 These five characteristics I like to bring up quite often, and I'm thrilled Kevin mentions them. He pays special attention to the combination of sudden/instantaneous acceleration, and hypersonic velocities without signatures. 
@@ -231,6 +234,7 @@ So for his calculations, he uses 1000kg as the mass of the Tic-Tac.
 
 A simple power calculation reminiscent of my college physics days, yields an output of 1100GW, ten times the total nuclear output of the United States. 
 
+### [[Hermann Oberth]]
 The professor then references a lecture made by the German father of modern rocketry, [[Hermann Oberth]], on flying saucers that was completely new to me.
 
 00;09;20;02 - 00;09;52;17
@@ -258,6 +262,7 @@ Oberth wrote in American Weekly quote,
 Gerb
 He thinks that UFOs might fly by, quote, distorting the gravitational field. 
 
+### [[Minot Air Force Base]]
 Kevin then references the flight characteristics of a really under the radar UFO encounter that occurred at [[Minot Air Force Base]] in North Dakota in 1968, and what's worthy to note here, similar to Malmstrom, this air base supported nuclear weapons, another connection to UFOs and nukes.
 
 According to base personnel, an egg shaped UFO with skin described as molten lava maintained a distance of roughly three miles from the descending B-52.
@@ -276,6 +281,7 @@ Well, the declassified sighting of the [[Minot Report]] shows this case was repo
 Gerb
 Interesting to see how this case never made it into Bluebook files or real public awareness, but is a multi-sensor military detection of a UFO at a nuclear military base? 
 
+### [[1986 Japan Airlines Cargo Flight 1628 Incident|1986 Japan Airlines incident]]
 And guys, I already covered the [[1986 Japan Airlines Cargo Flight 1628 Incident|1986 Japan Airlines incident]] pretty in-depth in my iceberg layer too. So if you don't mind, I'll just overlay some of that footage here. It's one of my absolute favorite UFO cases.
 
 00;12;38;04 - 00;13;14;08
@@ -298,6 +304,7 @@ Past Gerb: "It's worth mentioning that these UFOs were tracked on the US Federal
 
 00;15;11;18 - 00;15;49;29
 Gerb
+### Space Travel Analysis
 The professor then references the consequences of these drastic accelerations. To show that under such extreme rates of constant acceleration, these craft could reach high percentages of the speed of light to traverse intergalactic space at relativistic speeds. 
 
 Crucially quoted by Knuth. Quote. "Not only do these objects have flight characteristics necessary for interstellar travel, they would make excellent interstellar craft". 
@@ -315,49 +322,74 @@ Here, he references three bright UFO sightings. The luminosity of these objects 
 
 [[Kevin Knuth]]: "And if you do this, you find that the luminosities are on the order of 2,000 to 30,000MW."
 
-Knuth suggests this massive luminosity output may, in fact, be a byproduct of the propulsion systems of these craft. And let's remember, in many UFO cases, electronics fail when in close proximity to a craft. This suggests the presence of electric and magnetic fields, such as the case in the [[1976 Tehran UFO incident|1976 Tehran incident]], where major [[Parviz Jafari|Jafari]] avionics were scrambled as an orb detached itself from the UAP, he was vector towards and near him.
+Knuth suggests this massive luminosity output may, in fact, be a byproduct of the propulsion systems of these craft. 
+
+### Magnetic/Electric Fields
+And let's remember, in many UFO cases, electronics fail when in close proximity to a craft. This suggests the presence of electric and magnetic fields, such as the case in the [[1976 Tehran UFO incident|1976 Tehran incident]], where major [[Parviz Jafari|Jafari]] avionics were scrambled as an orb detached itself from the UAP, he was vector towards and near him.
 
 00;16;56;28 - 00;17;23;27
 Gerb
-Many other cases see engines and cars fail. As such, the 1983 Mike Campbell case electric fields needed to short out spark plugs on an engine would require a field output of three times ten to the 6V/m, possibly ionizing the air that'll short out the spark plugs in the car. You know, short out the distributor cam so the car would stop running.
+Many other cases see engines and cars fail. As such, the [[1983 McCampbell case]] electric fields needed to short out spark plugs on an engine would require a field output of three times ten to the 6V/m, possibly ionizing the air.
+
+[[Kevin Knuth]]: "that'll short out the spark plugs in the car. You know, short out the distributor cam so the car would stop running, if it's a gasoline engine."
 
 00;17;23;29 - 00;17;58;25
-Unknown
-If it's a gasoline engine, this electric field emitted by a small UFO would require several coulombs of charge, equating to about ten to the ninth joules of energy. This additionally touches on magnetic fields created by UFO. These huge magnetic fields can create and can cause and effect called the Faraday effect, which rotates the polarization of the light. So if you take a photograph of a UFO with a polarizing filter, which I recommend for this reason, you will see, that you'll get rings around the UFO if it has a large magnetic field.
+Gerb
+This electric field emitted by a small UFO would require several coulombs of charge, equating to about ten to the ninth joules of energy. Knuth additionally touches on magnetic fields created by UFO. 
+
+[[Kevin Knuth]]: "These huge magnetic fields can create and can cause and effect called the Faraday effect, which rotates the polarization of the light. So if you take a photograph of a UFO with a polarizing filter, which I recommend for this reason, you will see, that you'll get rings around the UFO if it has a large magnetic field. This has been observed and it's been photographed"
 
 00;17;58;28 - 00;18;23;15
-Unknown
-This has been observed and it's been photographed resulting in fields on the magnitude of around ten to the 11th through ten to the 13 amp meter squared, aka hey guys, massive magnetic fields. And finally, one of the least represented aspects of UFO or should I say USO. Unidentified Submerged Objects Kevin dives into Uso's operating near and within water.
+
+Resulting in fields on the magnitude of around ten to the 11th through ten to the 13 amp meter squared, aka hey guys, massive magnetic fields. 
+
+### USO
+And finally, one of the least represented aspects of UFO or should I say USO. Unidentified Submerged Objects Kevin dives into USO's operating near and within water.
 
 00;18;23;17 - 00;18;43;13
-Unknown
-So this is a from Aqua. Yeah, you can see the UFO dips into the water. Doesn't make a splash, doesn't seem to affect the water very much. And in fact, the analysis done by Sue in the lower right shows that as the UFO hits the water at about 1000 miles an hour or a thousand, I'm sorry, a hundred miles an hour.
+[[Kevin Knuth]]: "So this is a from [[2013 Aguadilla Puerto Rico UAP|Aguadilla]]. Yeah, you can see the UFO dips into the water. Doesn't make a splash, doesn't seem to affect the water very much. And in fact, the analysis done by SCU in the lower right shows that as the UFO hits the water at about 1,000 miles an hour or a thousand, I'm sorry, a hundred miles an hour."
 
 00;18;43;16 - 00;19;25;13
-Unknown
-It continues, traveling through the water at around the same speed. It only drops down to about 85 miles an hour, and it actually accelerates its you. References radar operator and seaman David Barnett, the professor discusses a USO case brand new to me from February of 1987 near the north of New Zealand. In this case, the Hmnzs Southland was followed by a USO 150ft wide and 800ft long in the span of less than half a minute, the USO closed a 20 kilometer distance, estimated a minimum speed and acceleration of 1492mph, and an average of 4.5 GS.
+[[Kevin Knuth]]: "It continues, traveling through the water at around the same speed. It only drops down to about 85 miles an hour, and it actually accelerates it..."
+
+He references radar operator and seaman [[David Barnett]], the professor discusses a USO case brand new to me from February of 1987 near the north of New Zealand. 
+
+In this case, the [[1987 HMNZS Southland Encounter|HMNZS Southland]] was followed by a USO 150ft wide and 800ft long. 
+
+In the span of less than half a minute, the USO closed a 20 kilometer distance, estimated a minimum speed and acceleration of 1,492mph, and an average of 4.5 GS.
 
 00;19;25;16 - 00;19;52;03
-Unknown
-Noteworthy to add, the craft acted as if it did not interact with the water. Similar to the video, Kevin commented on closing the 20 kilometer distance. The USO passed under the HMS, killing all the ship's power and draining batteries. Kevin enlists a total of eight old cases in which trans medical air and water UFOs were observed. Not going to cover this now, but let me know if you would like a full video on these cases.
+Gerb
+Noteworthy to add, the craft acted as if it did not interact with the water, similar to the video, Kevin commented on. 
+
+Closing the 20 kilometer distance. The USO passed under the HMS, killing all the ship's power and draining batteries. Kevin enlists a total of eight old cases in which trans medial air and water UFOs were observed. Not going to cover this now, but let me know if you would like a full video on these cases.
 
 00;19;52;06 - 00;20;15;15
-Unknown
-Hey guys, it's UAP Group. Thank you so much for joining me today. You probably noticed a little bit of a different environment. I'm in the process of upgrading the setup, so bear with me while we get a new webcam and a new workspace to show off and kind of upgrade things a little bit. Thanks for joining me. As we discussed Kevin Knuth and his solo Foundation talk in his paper Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles.
+Gerb
+### Conclusion
+Hey guys, it's UAP Group. Thank you so much for joining me today. You probably noticed a little bit of a different environment. I'm in the process of upgrading the setup, so bear with me while we get a new webcam and a new workspace to show off and kind of upgrade things a little bit. 
+
+Thanks for joining me. As we discussed Kevin Knuth and his Sol Foundation talk in his paper Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles.
 
 00;20;15;17 - 00;20;34;22
-Unknown
+Gerb
 Truth be told, since this paper dropped in 2019, I have been infatuated with the data here, even reaching out to Kevin on LinkedIn asking if I could work for him. Of course didn't pan out, but maybe someday in the future. But just being able to visualize the G-forces experienced by things like the Nimitz, Tic TAC, and so forth is truly mind boggling.
 
 00;20;34;22 - 00;21;05;04
-Unknown
-And actually, as we start to put some calculations and data to these craft, instead of just the anomalous craft in their kind of characteristics, as proposed by Lou Elizondo. But a fascinating venture and presentation done by Knuth. What was your favorite case? He discussed probably the Nimitz 5400 GS or the Japan Airlines. But I'm just really impressed that Kevin Booth and some physicists actually take the time to do academic research on UAP at some point in the future.
+Gerb
+And actually, as we start to put some calculations and data to these craft, instead of just the anomalous craft in their kind of characteristics, as proposed by [[Luis Elizondo|Lou Elizondo]]. But a fascinating venture and presentation done by Knuth. What was your favorite case? He discussed?
+
+Probably the Nimitz 5400 GS or the Japan Airlines. But I'm just really impressed that Kevin Knuth and some physicists actually take the time to do academic research on UAP at some point in the future.
 
 00;21;05;04 - 00;21;28;01
 Unknown
-I want to do a video on the trans medium craft, as he discussed the eight cases that are pre basically World War two. That should be a really fascinating video. And whenever people like to say that UAP are just foreign adversaries technology. Look what Kevin's proposed. These cases have been occurring since the 20th century. And almost before. How is this technology possible then if it's a foreign adversary?
+I want to do a video on the trans medial craft, as he discussed the eight cases that are pre basically World War two. That should be a really fascinating video. 
+
+And whenever people like to say that UAP are just foreign adversaries technology. Look what Kevin's proposed. These cases have been occurring since the 20th century. And almost before. 
+
+How is this technology possible then if it's a foreign adversary?
 
 00;21;28;01 - 00;21;34;15
-Unknown
+Gerb
 Absolutely not. But anyway, guys, please remember to like and subscribe. I'll catch you guys on the next video. Thank you so much for joining. Bye.
 
