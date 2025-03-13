@@ -29,9 +29,9 @@ March 1952 – December 1969
 
 ### 🛠 Official Investigations & Reports
 
-- **1953 Robertson Panel**: Encouraged debunking UFOs to reduce public concern.
-- **1968 Condon Report**: Concluded that UFOs posed no threat and recommended ending government investigations.
-- **Project Blue Book Special Report No. 14**: Found that **unexplained cases showed higher credibility than explained ones**.
+- **1953 [[Robertson Panel]]**: Encouraged debunking UFOs to reduce public concern.
+- **1968 [[Condon Report]]**: Concluded that UFOs posed no threat and recommended ending government investigations.
+- **[[Project Blue Book]] Special Report No. 14**: Found that **unexplained cases showed higher credibility than explained ones**.
 
 ### 🛸 Theories & Speculation
 

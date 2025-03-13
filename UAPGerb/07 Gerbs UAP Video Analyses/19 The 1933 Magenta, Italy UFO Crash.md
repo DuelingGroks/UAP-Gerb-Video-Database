@@ -1,7 +1,15 @@
-![[19-The 1933 Magenta, Italy UFO Crash-thumbnail.jpg]]
-## aliases: ["Video 19: [[The 1933 Magenta, Italy UFO Crash]]"]
+---
+aliases:
+  - Video 19
+  - The Magenta Italy Video
+---
 
-## tags: #UAPVideos #UFOCrashes #MagentaUFO
+
+![[19-The 1933 Magenta, Italy UFO Crash-thumbnail.jpg]]
+
+
+
+tags: #UAPVideos #UFOCrashes #MagentaUFO
 
 **Video Published:** 2024-03-17  
 **Video Link:** [YouTube – The 1933 Magenta, Italy UFO Crash](https://www.youtube.com/watch?v=FGiwgyLY7Aw)  
@@ -11,11 +19,11 @@
 
 ## 📌 Overview
 
-This video investigates the **1933 Magenta, Italy UFO crash retrieval**, often referred to as the "Roswell before Roswell." The case resurfaced in the public eye due to **David Grusch’s** testimony. The video explores **official Fascist-era documents, RS/33 (Gabinetto RS/33), Vatican involvement, and US intelligence connections.**
+This video investigates the **[[1933 Magenta Italy]] UFO crash retrieval**, often referred to as the "Roswell before Roswell." The case resurfaced in the public eye due to **[[David Grusch]]’s** testimony. The video explores **official Fascist-era documents, RS/33 (Gabinetto RS/33), Vatican involvement, and US intelligence connections.**
 
 Topics covered:
 
-- **Mussolini’s Secret UFO Study Group (RS/33)** – Its role in UFO research.
+- **Mussolini’s Secret UFO Study Group ([[RS-33]])** – Its role in UFO research.
 - **Fascist Disinformation Tactics** – How the regime suppressed UFO reports.
 - **Vatican’s Alleged Involvement** – Pope Pius XII’s rumored communications with the US about the crash.
 - **Crash Site & Storage Theories** – Theories on where the craft was kept before WWII.
@@ -54,13 +62,13 @@ Topics covered:
 
 - [[Wilson Davis Memo]]
 - [[UFO Crashes and Retrievals]]
-- [[Vatican_UFO_Connections]]
+- [[Vatican UFO Connections]]
 
 ---
 
 ## ❓ Open Questions
 
-- Could RS/33 have continued in secret post-WWII?
+- Could [[RS-33]] have continued in secret post-WWII?
 - Did the **Stefani news agency’s misinformation tactics** serve as a model for later UFO cover-ups?
 - What role did post-war intelligence agencies play in securing the Magenta craft?
 
@@ -88,23 +96,37 @@ Topics covered:
 - **Stefani News Agency & Disinformation**: [Wikipedia Entry](https://en.wikipedia.org/wiki/Agenzia_Stefani)
 ## Transcript
 00;00;00;00 - 00;00;30;29
-Unknown
-So let's start from the very beginning. You say it's a 90 year cover up. Just about. Yeah 90 years. 1933 was the first recovery in Europe in magenta Italy. They recovered partially intact vehicle. It's true. It's real. Yeah. That actually happened. Italian government moved it to a secure, airbase in Italy for the rest of kind of the fascist regime until 1944, 1945.
+{News Nation Ross Coulthart Interview with David Grusch}
+[[Ross Coulthart]]: "So let's start from the very beginning. You say it's a 90 year cover up. 
+[[David Grusch]]: "Just about. Yeah."
+[[Ross Coulthart]]: "90 years."
+[[David Grusch]]: "1933 was the first recovery in Europe in magenta Italy. They recovered partially intact vehicle."
+[[Ross Coulthart]]: "It's true. It's real." 
+[[David Grusch]]: "Yeah. That actually happened. Italian government moved it to a secure, airbase in Italy for the rest of kind of the fascist regime until 1944, 1945.
 
 00;00;30;29 - 00;00;59;21
-Unknown
-And, you know, the Pope Pius the 12th back channeled that. So the Vatican was involved. Yeah. And told the Americans what the Italians had, and we ended up scooping it. So let me be very clear about this. You're saying that the Catholic Church, the Vatican, they know about the existence of non-human intelligence on this planet. Certainly it didn't start or end with Roswell, the first traceable recovery of a UFO occurred 14 years before the infamous cover up in the desert sands of Nevada.
+[[David Grusch]]: "And, you know, the Pope Pius the 12th back channeled that." [[Ross Coulthart]]: "So the Vatican was involved." 
+[[David Grusch]]: "Yeah. And told the Americans what the Italians had, and we ended up scooping it." 
+[[Ross Coulthart]]: "So let me be very clear about this. You're saying that the Catholic Church, the Vatican, they know about the existence of non-human intelligence on this planet." 
+[[David Grusch]]: "Certainly." 
+
+Gerb
+### Intro
+It didn't start or end with Roswell, the first traceable recovery of a UFO occurred 14 years before the infamous cover up in the desert sands of Nevada.
 
 00;00;59;27 - 00;01;26;03
-Unknown
-In fact, indirect statements made by both David Grush and Lou Elizondo, the first night craft to be forcibly taken by US forces, would arise from the smoldering remains of the Italian fascist state, led by none other than Benito Mussolini during the Second World War. Hey guys, it's UAP Group and today we are going to discuss the now infamous 1933 magenta, Italy UFO crash retrieval.
+Gerb
+In fact, indirect statements made by both [[David Grusch]] and [[Luis Elizondo|Lou Elizondo]], the first night craft to be forcibly taken by US forces, would arise from the smoldering remains of the Italian fascist state, led by none other than [[Benito Mussolini]] during the Second World War. 
+
+Hey guys, it's UAP Group and today we are going to discuss the now infamous 1933 magenta, Italy UFO crash retrieval.
 
 00;01;26;06 - 00;01;50;25
-Unknown
-This tale is both intriguing and perplexing, featuring a rich document trail and fascinating historical connections to the regime of Mussolini and the Vatican. Why did Grush specifically reference this case to Ross Coltart in his News Nation article? Buckle up guys, because today we are going to dive right into the magenta UFO retrieval.
+Gerb
+This tale is both intriguing and perplexing, featuring a rich document trail and fascinating historical connections to the regime of [[Benito Mussolini|Mussolini]] and the Vatican. Why did [[David Grusch|Grusch]] specifically reference this case to Ross Coltart in his [[News Nation]] article? Buckle up guys, because today we are going to dive right into the magenta UFO retrieval.
 
 00;01;50;27 - 00;02;16;11
-Unknown
+Gerb
+### The Story
 Before we do any sort of investigation, let's discuss the story. And guys, please forgive any butchering of Italian words or names that I use. In June of 1933, 14 years before the Roswell crash, an unknown craft crashed or landed at magenta, just west of Milan, Italy. The craft was reported to be bell like, almost resembling a mix between a flying saucer and the clock.
 
 00;02;16;14 - 00;02;43;16

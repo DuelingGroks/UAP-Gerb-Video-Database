@@ -7,3 +7,8 @@ aliases:
 
 
 Written by [[Richard P. Osedacz]]
+
+
+Bibliography
+
+Wong, Lem. [[Fastwalker Orbit Determination]], Aerospace Corporation Technical report 85-34531, El Segundo, CA, 1985.

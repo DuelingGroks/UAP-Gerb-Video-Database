@@ -62,7 +62,7 @@ Published in **February, 1 2024**, this documentary by **UAP Gerb** covers **fou
 
 ## 🛠 Cross-References & Placeholders
 
-- **📂 Military & Aviation Encounters** → [[Gorman_Dogfight]], [[1980 Peru Arequipa UFO Incident]], [[1969 Finland Finnish Air Force Sighting]], [[2004 Mexico Air Force Incident]]
+- **📂 Military & Aviation Encounters** → [[1980 Peru Arequipa UFO Incident]], [[1969 Finland Finnish Air Force Sighting]], [[2004 Mexico Air Force Incident]]
 - **📂 Government Secrecy & Investigations** → [[Project Sign]], [[Project Grudge]], [[Project Blue Book|Project Bluebook]]
 - **📂 Whistleblowers & Testimonies** → [[Moon Dust Documents]]
 

@@ -167,7 +167,7 @@ Following the conference, Miller and Wilson spoke privately, leaving Wilson intr
 Gerb
 Wilson states. 
 Quote, "too risky because of security violation just by mentioning it. Very tightly held info. Absurdly close held subject matter. Never seen anything like this program in the black program's community." 
-The two then focus back on Wilson's subsequent 45 day investigation in April to June of 97. During investigation into these programs, Wilson was advised by [[General Marshall Ward]] and [[Secretary of Defense Bill Perry]] to go through records, group files and outs that the office of the Undersecretary of Defense for Acquisition and Technology, both men, told him of a, 
+The two then focus back on Wilson's subsequent 45 day investigation in April to June of 97. During investigation into these programs, Wilson was advised by [[General Marshall Ward]] and Secretary of Defense [[Bill Perry]] to go through records, group files and outs that the office of the Undersecretary of Defense for Acquisition and Technology, both men, told him of a, 
 
 quote, "special project records group not belonging to usual special access programs. A special subset of the unacknowledged carve outs waived programs not belonging to usual Sapp divisions as organized in 94 by Perry himself" end quote. 
 

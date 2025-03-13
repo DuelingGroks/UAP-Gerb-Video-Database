@@ -1,3 +1,7 @@
+---
+aliases:
+  - Majestic 12 Documents
+---
 
 
 ### 📅 Discovery & Background

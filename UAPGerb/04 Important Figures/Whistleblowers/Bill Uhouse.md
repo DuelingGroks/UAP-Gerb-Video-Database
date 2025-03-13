@@ -17,7 +17,7 @@ Bill Uhouse was a former **U.S. Marine Corps fighter pilot** and **civilian test
     - Approached by military personnel at **[[Wright-Patterson AFB]]** to work on classified programs.
     - Assigned to work on a **flying disc simulator** to train pilots for potential UFO-based technology.
     - Simulator was operational by **1958**.
-- **[[1953 Kingman UFO Crash]]:**
+- **[[1953 Kingman, Arizona UFO Crash]]:**
     - Claims that a **30-meter flying disc** was **retrieved near Kingman, Arizona**.
     - The craft was **transported to [[Area 51]]** via a highly secretive military operation.
     - Allegedly, **four extraterrestrials** were recovered from the craft and taken to **Los Alamos for study**.
@@ -29,7 +29,7 @@ Bill Uhouse was a former **U.S. Marine Corps fighter pilot** and **civilian test
     - It generated its own **gravitational field**, rendering seat belts unnecessary.
     - The controls required specialized **mind-body coordination training** due to perceptual distortions.
 - **Interaction with Extraterrestrials:**
-    - Mentions an **alien referred to as “J-Rod”**, who **assisted scientists** with engineering challenges.
+    - Mentions an **alien referred to as “[[J-Rod]]”**, who **assisted scientists** with engineering challenges.
     - J-Rod communicated both **verbally and telepathically**.
     - His knowledge was crucial in **understanding gravitational propulsion**.
 
@@ -37,7 +37,7 @@ Bill Uhouse was a former **U.S. Marine Corps fighter pilot** and **civilian test
 
 - **Challenges of Secrecy:**
     - The craft's **exact design made modifications impossible**.
-    - Classified under **Special Access Programs (SAPs)** with extreme compartmentalization.
+    - Classified under **Special Access Programs ([[Special Access Program (SAP)|SAP]]s)** with extreme compartmentalization.
     - Anticipated **public disclosure by 2003**, although official confirmation never occurred.
 
 ### 📜 Related Cases & Documents
@@ -45,7 +45,7 @@ Bill Uhouse was a former **U.S. Marine Corps fighter pilot** and **civilian test
 - [[Wilson Davis Memo]] – References to deep-black UFO reverse engineering programs.
 - [[Project Blue Book]] – Government’s official UFO investigation program.
 - [[MJ12 Documents]] – Alleged secret committee overseeing UFO technology.
-- **Bob Lazar Testimony** – Similar descriptions of anti-gravity technology.
+- **[[Bob Lazar]] Testimony** – Similar descriptions of anti-gravity technology.
 
 ### 🔗 Cross-References
 

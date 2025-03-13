@@ -125,7 +125,7 @@ While the [[Robertson Panel]] was conducted, Battelle had been commissioned arou
 
 00;03;28;17 - 00;03;49;07
 Gerb
-This project, parallel to Bluebook, was even mentioned by [[J. Alan Hynek]] during his attempted testimony at the [[Robertson Panel]]. Thanks to the efforts of [[Computer UFO Network|CUFON]], the [[Computer UFO Network]], I have been able to find all seven [[Project Stork]] status reports. That is another analysis for another day. However, all parts of course will be provided in the video description.
+This project, parallel to Bluebook, was even mentioned by [[J. Allen Hynek]] during his attempted testimony at the [[Robertson Panel]]. Thanks to the efforts of [[Computer UFO Network|CUFON]], the [[Computer UFO Network]], I have been able to find all seven [[Project Stork]] status reports. That is another analysis for another day. However, all parts of course will be provided in the video description.
 
 00;03;49;09 - 00;04;27;07
 Gerb

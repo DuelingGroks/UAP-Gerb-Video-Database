@@ -32,7 +32,7 @@ Arthur Stansel, also known by the pseudonym **Fitz Werner**, was an engineer inv
 - His claims were recorded by **[[Raymond Fowler]]**, who conducted extensive interviews.  
 - Stansel worked under:  
   - **[[Dr. Ed Doll]]** – Expert in nuclear and aerospace projects.  
-  - **[[Dr. Eric H. Wang]]** – **Chief of the Special Studies Office**, known for classified work in **aerospace and advanced propulsion systems**.  
+  - **Dr. [[Eric Wang|Eric H. Wang]]** – **Chief of the Special Studies Office**, known for classified work in **aerospace and advanced propulsion systems**.  
 
 ---
 
@@ -45,7 +45,7 @@ Arthur Stansel, also known by the pseudonym **Fitz Werner**, was an engineer inv
 ---
 
 ### 🔎 Additional Context & Speculation  
-- **USAF Regulation 200-2 (1953)** was designed to **suppress UFO reports**, coinciding with the Kingman incident.  
+- **USAF [[Regulation 200-2]] (1953)** was designed to **suppress UFO reports**, coinciding with the Kingman incident.  
 - **Robert Salas & Robert Jacobs' testimonies** suggest that **UFOs had a clear interest in nuclear sites**, raising questions about why the Kingman crash occurred **so close to atomic tests**.  
 - **Bill Uhouse**, a retired **USMC engineer**, later claimed to have worked on a **flight simulator** derived from **the Kingman crash retrieval**, possibly under **Dr. Wang's scientific oversight**.  
 
@@ -85,7 +85,7 @@ Arthur Stansel, also known by the pseudonym **Fitz Werner**, was an engineer inv
 ## 🔮 Next Steps & Research  
 - Investigate **Dr. Eric Wang’s role in Special Studies Office programs**.  
 - Compare Stansel's claims with **other military-affiliated UFO crash testimonies**.  
-- Explore connections between **Dr. Wang, Wright-Patterson AFB, and classified aerospace research**.  
+- Explore connections between **Dr. Wang, [[Wright-Patterson AFB]], and classified aerospace research**.  
 
 ---
 

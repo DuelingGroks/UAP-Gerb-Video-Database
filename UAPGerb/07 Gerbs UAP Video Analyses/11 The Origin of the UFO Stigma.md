@@ -381,7 +381,7 @@ This is a very strange statement, seen as in this time Condon has been contracte
 00;16;38;28 - 00;17;06;00
 Gerb
 ### The [[Trick Memo]]
-In 1967, the aforementioned [[James E. McDonald]] made public a 1966 memo written by the [[Condon Committee]] second in command, [[Robert J. Lowe]], who wrote to two University of Colorado, admins that they could expect the study to demonstrate that UFO observations had no basis in reality. Conclusions before findings. 
+In 1967, the aforementioned [[James E. McDonald]] made public a 1966 memo written by the [[Condon Committee]] second in command, [[Robert J. Low]], who wrote to two University of Colorado, admins that they could expect the study to demonstrate that UFO observations had no basis in reality. Conclusions before findings. 
 
 This trick memo was written by Lowe, who was a hardened skeptic heading into the committee.
 
