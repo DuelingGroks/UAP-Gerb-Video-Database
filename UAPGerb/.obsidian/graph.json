@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Tehran",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.13168724279836172,
-  "close": true
+  "scale": 1.0534979423868358,
+  "close": false
 }

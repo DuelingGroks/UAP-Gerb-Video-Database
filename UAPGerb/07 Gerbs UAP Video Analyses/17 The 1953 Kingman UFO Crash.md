@@ -101,11 +101,11 @@ Anyways, back to [[Arthur Stansel (Fitz Werner)|Werner]]. Let's hear his story. 
 
 His job was to measure blast effects on various types of buildings constructed for the tests. 
 
-On May 20th, 1953, Fitz spent most of the day at [[Frenchman Flat]]. Doctor [[Ed Doll?]] telephoned Werner that evening he would be doing a special job the following day, joined by 15 other AEC specialists.
+On May 20th, 1953, Fitz spent most of the day at [[Frenchman Flat]]. Doctor [[Edward B. Doll|Ed Doll]] telephoned Werner that evening he would be doing a special job the following day, joined by 15 other AEC specialists.
 
 00;02;56;25 - 00;03;22;06
-Unknown
-Werner reported to Indian Springs Air Force Base. There he was put on a plane to Phoenix with all of his valuables left in the custody of the military police, and eventually placed on a bus with blacked out windows. 
+Gerb
+Werner reported to [[Indian Springs Air Force Base]]. There he was put on a plane to Phoenix with all of his valuables left in the custody of the military police, and eventually placed on a bus with blacked out windows. 
 
 During the four hour ride, an Air Force colonel told the personnel a super secret Air Force vehicle had crashed and these specialists were sent into investigate their specialty and there's only.
 

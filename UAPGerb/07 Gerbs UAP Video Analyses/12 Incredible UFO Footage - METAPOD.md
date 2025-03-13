@@ -375,7 +375,7 @@ I know the means. I know it looks like this. Show me what you got heads from Ric
 Gerb
 It's so enigmatic. I don't even know. I don't even know where to begin thinking about the implications of this craft and what is piloting it. 
 
-Especially with the, non observable propulsion methods. But I wanted to get this video out today. Guys, I know today it is the I think the 11th of February, the [[SOL Foundation]] just released a bunch of interviews with Grusch Chris Mellon, Kevin Knuth Hal Putoff.
+Especially with the, non observable propulsion methods. But I wanted to get this video out today. Guys, I know today it is the I think the 11th of February, the [[Sol Foundation]] just released a bunch of interviews with Grusch Chris Mellon, Kevin Knuth Hal Putoff.
 
 00;18;32;21 - 00;18;46;13
 Gerb

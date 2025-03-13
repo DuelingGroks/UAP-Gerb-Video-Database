@@ -60,7 +60,7 @@ Nell is closely associated with the **SOL Foundation**, a group of scientists, a
 
 ## 🔗 Cross-References
 - [[David Grusch]] – Shared tenure on the UAP Task Force & corroborative testimony.  
-- [[SOL Foundation]] – Overview of the group’s mission, members, and symposium events.  
+- [[Sol Foundation]] – Overview of the group’s mission, members, and symposium events.  
 - [[Wilson Davis Memo]] – Another alleged example of top-level discussions about crash retrieval programs.  
 - [[07 The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]] – Contrasts with mainstream Pentagon stances.  
 - [[13 Karl Nell & the SOL Foundation — A Key Figure in UAP Disclosure (Video)]] – Gerb’s dedicated video analysis from Feb 14, 2024.

@@ -1,0 +1,4 @@
+---
+aliases:
+  - Costa Rica Photo
+---

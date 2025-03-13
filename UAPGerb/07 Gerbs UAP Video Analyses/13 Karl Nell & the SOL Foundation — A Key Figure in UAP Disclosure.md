@@ -130,7 +130,7 @@ While Nell has one quote in this article supporting the assertions of David Grus
 
 00;01;01;22 - 00;01;26;15
 Gerb
-Hey guys, it's UAP Gerb! And today I wanted to do a quick video talking about coral melt and his crucial role in [[UAP disclosure]], the importance of Nell's data and position on UAP, as detailed in this recent [[SOL Foundation]] Symposium talk, simply cannot be understated. 
+Hey guys, it's UAP Gerb! And today I wanted to do a quick video talking about coral melt and his crucial role in [[UAP disclosure]], the importance of Nell's data and position on UAP, as detailed in this recent [[Sol Foundation]] Symposium talk, simply cannot be understated. 
 
 Guys, you know me. This is not just a reaction. Video of Nell's 31 minute talk at the SOL Foundation.
 
@@ -139,7 +139,7 @@ Gerb
 I've already picked out all the important parts I want to discuss, made the proper connections, and so let's go through it. I'm not here to waste your time. Let's start.
 
 ### SOL Foundation Overview
-Before we break down Colonel Nell's speech on the Soar Foundation, on the [[2024 NDAA|Schumer Amendment]] and the push for control disclosure. Let's quickly cover what exactly the [[SOL Foundation]] is.
+Before we break down Colonel Nell's speech on the Soar Foundation, on the [[2024 NDAA|Schumer Amendment]] and the push for control disclosure. Let's quickly cover what exactly the [[Sol Foundation]] is.
 
 00;01;45;24 - 00;02;15;15
 Gerb

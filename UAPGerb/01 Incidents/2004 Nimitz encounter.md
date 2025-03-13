@@ -1,0 +1,5 @@
+---
+aliases:
+  - Nimitz
+  - Nimitz encounter
+---

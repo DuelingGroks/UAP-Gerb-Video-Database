@@ -1,0 +1,4 @@
+---
+aliases:
+  - Calvine UFO photograph
+---
