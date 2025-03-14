@@ -58,7 +58,7 @@ def convert_gerb_videos_to_word(obsidian_folder, output_folder, num_docs=5):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
-    gerb_videos_folder = os.path.join(obsidian_folder, "07 Gerbs UAP Video Analyses")
+    gerb_videos_folder = os.path.join(obsidian_folder, "07 Gerbs UAP Videos")
     all_files = [f for f in os.listdir(gerb_videos_folder) if f.endswith(".md")]
     chunk_size = len(all_files) // num_docs + (len(all_files) % num_docs > 0)
 

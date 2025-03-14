@@ -6,7 +6,6 @@
       {
         "id": "85c87e54cfbd7af7",
         "type": "tabs",
-        "dimension": 52.82534246575342,
         "children": [
           {
             "id": "ad217fd28c0e4d57",
@@ -26,14 +25,10 @@
             "id": "a0932697e382767a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publishings/Papers/Orbit Determined Nation of Sunlit Illuminated Objects Detected by Overhead Platforms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orbit Determined Nation of Sunlit Illuminated Objects Detected by Overhead Platforms"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -48,56 +43,10 @@
               },
               "icon": "lucide-file",
               "title": "19 The 1933 Magenta, Italy UFO Crash"
-            },
-            "group": "144ed44b0f0c8ed3"
+            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "e3ac86b7e6b07014",
-        "type": "tabs",
-        "dimension": 47.17465753424658,
-        "children": [
-          {
-            "id": "aa687714e013ca82",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "07 Gerbs UAP Video Analyses/19 The 1933 Magenta, Italy UFO Crash.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000029,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 19 The 1933 Magenta, Italy UFO Crash"
-            },
-            "group": "144ed44b0f0c8ed3"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Gerbs UAP Video Analyses/19 The 1933 Magenta, Italy UFO Crash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 19 The 1933 Magenta, Italy UFO Crash"
+              "title": "Outline"
             }
           }
         ],
@@ -244,49 +192,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9381ec56bd37b1bf",
+  "active": "f8305e3c9237bb2d",
   "lastOpenFiles": [
+    "Publishings/Papers/Orbit Determined Nation of Sunlit Illuminated Objects Detected by Overhead Platforms.md",
+    "07 Gerbs UAP Videos/19 The 1933 Magenta, Italy UFO Crash.md",
     "Benito Mussolini.md",
-    "07 Gerbs UAP Video Analyses/19 The 1933 Magenta, Italy UFO Crash.md",
-    "07 Gerbs UAP Video Analyses/17 The 1953 Kingman UFO Crash.md",
-    "07 Gerbs UAP Video Analyses/16 FASTWALKERS – UFOs Outside Earth.md",
-    "07 Gerbs UAP Video Analyses/15 UFOs in the Private Sector - Lockheed Martin.md",
-    "07 Gerbs UAP Video Analyses/14 UFOs in the Private Sector - Battelle Memorial Institute.md",
-    "07 Gerbs UAP Video Analyses/13 Karl Nell & the SOL Foundation — A Key Figure in UAP Disclosure.md",
+    "07 Gerbs UAP Videos/17 The 1953 Kingman UFO Crash.md",
+    "07 Gerbs UAP Videos/16 FASTWALKERS – UFOs Outside Earth.md",
+    "07 Gerbs UAP Videos/15 UFOs in the Private Sector - Lockheed Martin.md",
+    "07 Gerbs UAP Videos/14 UFOs in the Private Sector - Battelle Memorial Institute.md",
+    "07 Gerbs UAP Videos/13 Karl Nell & the SOL Foundation — A Key Figure in UAP Disclosure.md",
     "11 Terms & Definitions/Technology of Unknown Origins.md",
     "Michael Shellenberger.md",
-    "07 Gerbs UAP Video Analyses/12 Incredible UFO Footage - METAPOD.md",
-    "07 Gerbs UAP Video Analyses/11 The Origin of the UFO Stigma.md",
-    "07 Gerbs UAP Video Analyses/10 Incredible UFO Footage – FLYBY.md",
-    "07 Gerbs UAP Video Analyses/09 Global Air Force UFO Encounters You've Probably Never Heard Of.md",
-    "07 Gerbs UAP Video Analyses/08 UFOs and Nuclear Weapons - A Fascinating Connection.md",
-    "07 Gerbs UAP Video Analyses/07 The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md",
-    "07 Gerbs UAP Video Analyses/06 MOON DUST - The Pentagon's Secret UFO Programs.md",
-    "07 Gerbs UAP Video Analyses/05 The First Commercial Flight Grounded Due to UFOs.md",
-    "07 Gerbs UAP Video Analyses/04 The Marines Who Got Too Close to UFOs.md",
+    "07 Gerbs UAP Videos/12 Incredible UFO Footage - METAPOD.md",
+    "07 Gerbs UAP Videos/11 The Origin of the UFO Stigma.md",
+    "07 Gerbs UAP Videos/10 Incredible UFO Footage – FLYBY.md",
+    "07 Gerbs UAP Videos/09 Global Air Force UFO Encounters You've Probably Never Heard Of.md",
+    "07 Gerbs UAP Videos/08 UFOs and Nuclear Weapons - A Fascinating Connection.md",
+    "07 Gerbs UAP Videos/07 The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md",
+    "07 Gerbs UAP Videos/06 MOON DUST - The Pentagon's Secret UFO Programs.md",
+    "07 Gerbs UAP Videos/05 The First Commercial Flight Grounded Due to UFOs.md",
+    "07 Gerbs UAP Videos/04 The Marines Who Got Too Close to UFOs.md",
     "11 Terms & Definitions/Alien Reproduction Vehicle.md",
-    "07 Gerbs UAP Video Analyses/03 The Alien and UFO Obscure Oddities Iceberg (Level 2).md",
-    "07 Gerbs UAP Video Analyses/02 The Alien and UFO Obscure Oddities Iceberg (Level 1).md",
-    "07 Gerbs UAP Video Analyses/01 Wilson Davis Memo Documentary.md",
+    "07 Gerbs UAP Videos/03 The Alien and UFO Obscure Oddities Iceberg (Level 2).md",
+    "07 Gerbs UAP Videos/02 The Alien and UFO Obscure Oddities Iceberg (Level 1).md",
+    "07 Gerbs UAP Videos/01 Wilson Davis Memo Documentary.md",
     "04 Important Figures/Researchers & Scientists/Jacques Vallée.md",
     "04 Important Figures/Whistleblowers/Jonathan Waygandt.md",
     "04 Important Figures/Experiencers & Witnesses/Arthur Stansel (Fitz Werner).md",
-    "04 Important Figures/Whistleblowers/Bill Uhouse.md",
     "04 Important Figures/Controversial",
-    "07 Gerbs UAP Video Analyses/18 images/HMNZS Southland Encounter Slide.png",
-    "07 Gerbs UAP Video Analyses/18 images/Minot Report Screengrab.png",
-    "07 Gerbs UAP Video Analyses/18 images",
-    "07 Gerbs UAP Video Analyses/18 images/Kevin Knuth Sol Foundation UFO Images Slide.png",
-    "07 Gerbs UAP Video Analyses/17 images",
+    "07 Gerbs UAP Videos/18 images/HMNZS Southland Encounter Slide.png",
+    "07 Gerbs UAP Videos/18 images/Minot Report Screengrab.png",
+    "07 Gerbs UAP Videos/18 images",
+    "07 Gerbs UAP Videos/18 images/Kevin Knuth Sol Foundation UFO Images Slide.png",
+    "07 Gerbs UAP Videos/17 images",
     "07 Gerbs UAP Video Analyses/Report Summary.png",
-    "07 Gerbs UAP Video Analyses/16 images/Report Summary.png",
-    "07 Gerbs UAP Video Analyses/16 images/Grainy Fastwalker image.png",
-    "07 Gerbs UAP Video Analyses/16 images/238 SCANS - POSSIBLE SR.png",
-    "07 Gerbs UAP Video Analyses/16 images/The DSP Connection WBM Snapshot.png",
-    "07 Gerbs UAP Video Analyses/16 images/Now You See It Now You Dont Harry Shields.png",
-    "07 Gerbs UAP Video Analyses/16 images/Fastwalker Depiction.png",
+    "07 Gerbs UAP Videos/16 images/Report Summary.png",
+    "07 Gerbs UAP Videos/16 images/Grainy Fastwalker image.png",
+    "07 Gerbs UAP Videos/16 images/238 SCANS - POSSIBLE SR.png",
+    "07 Gerbs UAP Videos/16 images/The DSP Connection WBM Snapshot.png",
+    "07 Gerbs UAP Videos/16 images/Now You See It Now You Dont Harry Shields.png",
+    "07 Gerbs UAP Videos/16 images/Fastwalker Depiction.png",
     "Publishings/Websites",
-    "07 Gerbs UAP Video Analyses/16 images",
+    "07 Gerbs UAP Videos/16 images",
     "Publishings/Papers",
     "Publishings/Books",
     "Publishings/Films",
