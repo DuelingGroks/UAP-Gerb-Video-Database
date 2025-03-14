@@ -122,100 +122,149 @@ Hey guys, it's UAP Group and today we are going to discuss the now infamous 1933
 
 00;01;26;06 - 00;01;50;25
 Gerb
-This tale is both intriguing and perplexing, featuring a rich document trail and fascinating historical connections to the regime of [[Benito Mussolini|Mussolini]] and the Vatican. Why did [[David Grusch|Grusch]] specifically reference this case to Ross Coltart in his [[News Nation]] article? Buckle up guys, because today we are going to dive right into the magenta UFO retrieval.
+This tale is both intriguing and perplexing, featuring a rich document trail and fascinating historical connections to the regime of [[Benito Mussolini|Mussolini]] and the Vatican. Why did [[David Grusch|Grusch]] specifically reference this case to Ross Coltart in his [[News Nation]] article? 
+
+Buckle up guys, because today we are going to dive right into the Magenta UFO retrieval.
 
 00;01;50;27 - 00;02;16;11
 Gerb
 ### The Story
-Before we do any sort of investigation, let's discuss the story. And guys, please forgive any butchering of Italian words or names that I use. In June of 1933, 14 years before the Roswell crash, an unknown craft crashed or landed at magenta, just west of Milan, Italy. The craft was reported to be bell like, almost resembling a mix between a flying saucer and the clock.
+Before we do any sort of investigation, let's discuss the story. And guys, please forgive any butchering of Italian words or names that I use. 
+
+In June of 1933, 14 years before the [[1947 Roswell Crash|Roswell crash]], an unknown craft crashed or landed at magenta, just west of Milan, Italy. 
+
+The craft was reported to be bell like, almost resembling a mix between a flying saucer and the [[Die Glocke]].
 
 00;02;16;14 - 00;02;43;16
-Unknown
-The legendary mythical alleged Nazi wonder weapon. The craft sat at a reported ten meters in diameter. Dictator Benito Mussolini thought this was an unconventional flying vehicle that originated from France, Britain or Germany. But the Italian government established a top secret group that Neto Ricciardi specialized a 33, or how I'll refer to it from now on. So you don't make me say that again.
+Gerb
+The legendary mythical alleged Nazi wonder weapon. The craft sat at a reported ten meters in diameter. 
+
+Dictator [[Benito Mussolini]] thought this was an unconventional flying vehicle that originated from France, Britain or Germany. But the Italian government established a top secret group the [[RS-33|Gabinetto Ricerche Speciali e 33]], or how I'll refer to it from now on. So you don't make me say that again. The [[RS-33]] to examine the craft. 
 
 00;02;43;18 - 00;03;18;29
-Unknown
-The Rs 33 to examine the craft. This top secret group was actually headed by Prime Minister Benito Mussolini and Foreign Minister Galeazzo Ciano. Air Marshal Italo Balbo was scientific support from astronomer Gino Saxony, and possibly senator and founder of the radio Guglielmo Marconi. Marconi himself initially resisted Mussolini's terrestrial claims, believing the craft to be extraterrestrial in origin. The craft and its debris was reportedly stored in the hangars of the SII marchetti aircraft Company in Virginia.
+Gerb
+This top secret group was actually headed by Prime Minister [[Benito Mussolini]] and Foreign Minister [[Galeazzo Ciano]]. Air Marshal [[Italo Balbo]] was scientific support from astronomer [[Gino Saccini]], and possibly senator and founder of the radio [[Guglielmo Marconi]].
+
+[[Guglielmo Marconi|Marconi]] himself initially resisted Mussolini's terrestrial claims, believing the craft to be extraterrestrial in origin. 
+
+The craft and its debris was reportedly stored in the hangars of the [[SIAI Marchetti Aircraft Company]] in Virginia.
 
 00;03;19;01 - 00;04;07;21
-Unknown
-Various journalists were ordered to keep silent about the incident due to national security, citing strict dissemination of information by the agentes to Funny Italy's state propaganda papers. The UFO remained in the possession of Mussolini's regime until the fall of the axis powers, and was recovered by US agents of the Office of Strategic Services in 1944 or 1945, and this was the former US intelligence agency, the Magenta case was brought to light by Italian UFO researcher Roberto Pinot, who in 1996 received original Italian secret documents from the fascist regime containing both protocol on how to handle the craft discovery, as well as internal Italian government notes on UFO sightings from 1933 to 1940.
+Gerb
+Various journalists were ordered to keep silent about the incident due to national security, citing strict dissemination of information by the [[Agenzia Stefani]] Italy's state propaganda papers. 
+
+The UFO remained in the possession of Mussolini's regime until the fall of the axis powers, and was recovered by US agents of the [[Office of Strategic Services]] in 1944 or 1945, and this was the former US intelligence agency. 
+
+The Magenta case was brought to light by Italian UFO researcher [[Roberto Pinotti]], who in 1996 received original Italian secret documents from the fascist regime containing both protocol on how to handle the craft discovery, as well as internal Italian government notes on UFO sightings from 1933 to 1940.
 
 00;04;07;21 - 00;04;25;07
-Unknown
-The document consisted of both telegrams and handwritten notes. The sender chose to remain anonymous, the penalty going only by Mr. X, but did claim to have inherited them from a family member who worked on Mussolini's supposed UFO program.
+Gerb
+The document consisted of both telegrams and handwritten notes. The sender chose to remain anonymous, to [[Roberto Pinotti|Pinotti]] going only by Mr. X, but did claim to have inherited them from a family member who worked on Mussolini's supposed UFO program.
 
 00;04;25;09 - 00;04;51;26
-Unknown
-Roberto received a series of three internal Italian government telegrams relating to the craft. Let's review each one in our first telegram, we see the telegram is sent by the Director of Special Affairs of the Stefani News Agency, the only agency of the Mussolini regime, as an official telegram of Milan. The priority of the telegram is labeled Lambo or highest, with a reserve Autismo a confidential rating.
+Gerb
+### Telegrams
+Roberto received a series of three internal Italian government telegrams relating to the craft. Let's review each one.
+
+In our first telegram, we see the telegram is sent by the Director of Special Affairs of the [[Stefani News Agency]], the only agency of the Mussolini regime, as an official telegram of Milan. 
+
+The priority of the telegram is labeled Lambo or highest, with a Riservatissimo a confidential rating.
 
 00;04;51;28 - 00;05;17;28
-Unknown
-The telegram reads. Quote by order of the Duchy, the leader. Absolute silence as ordered of the presumed landing of an unknown aircraft on national soil. The version is to be published with today's dispatch as confirmed. The same version also applies to personnel and journalists. Maximum penalties for offenders up to and including appeal to the State Security Court. Please confirm receipt immediately.
+Gerb
+The telegram reads. Quote:
+> "by order of the Duchy, the leader. Absolute silence as ordered of the presumed landing of an unknown aircraft on national soil. The version is to be published with today's dispatch as confirmed. The same version also applies to personnel and journalists. Maximum penalties for offenders up to and including appeal to the State Security Court. Please confirm receipt immediately."
 
-00;05;18;00 - 00;05;46;23
-Unknown
-Our second telegram was set on the 13th of June, 1933 at 4 p.m., again from the Stefani News Agency, with Lamport priority and reserve a similar classification. This document reads quote by superior order, the news disclosed today and the Stefani Dispatch, number 63 310 should be treated as follows. The above mentioned aircraft has been recognized as a meteor by the Barrera Astronomical Observatory.
+00;05;18;00 - 00;06;14;09
+Gerb
+Our second telegram was set on the 13th of June, 1933 at 4 p.m., again from the [[Stefani News Agency]], with Lampo priority and Riservatissimo classification. This document reads quote: 
 
-00;05;46;26 - 00;06;14;09
-Unknown
-Given the news the slightest graphic relevance, there is no need to rectify. Minimize. And finally, our third telegram was sent the same day, the 13th of June, 1933, with the same priority classification and sender, this time at 5:07 p.m. this telegram reads quote by order of the leader. It is ordered that circulation of the news about the craft of unknown nature referred to in today's Tiffany dispatch at 7:30 a.m., be stopped immediately.
+> "by superior order, the news disclosed today and the Stefani Dispatch, number 63/3/1.0 should be treated as follows. The above mentioned aircraft has been recognized as a meteor by the [[Brera Astronomical Observatory]]."
+> "Given the news the slightest graphic relevance, there is no need to rectify, minimize."
+
+And finally, our third telegram was sent the same day, the 13th of June, 1933, with the same priority classification and sender, this time at 5:07 p.m. this telegram reads quote: 
+
+> "by order of the leader. It is ordered that circulation of the news about the craft of unknown nature referred to in today's Tiffany dispatch at 7:30 a.m., be stopped immediately."
 
 00;06;14;11 - 00;06;40;03
-Unknown
-It is ordered that any leads for newspapers carrying this news be recast immediately. Maximum penalties for offenders up to and including appeal to the State Security Court. Please confirm receipt immediately. So with these three telegrams, we see the Italian press demand absolute silence over a landing of an unknown craft. Immediate arrest and maximum penalties were to be issued to any journalist commenting on the craft.
+Gerb
+> "It is ordered that any leads for newspapers carrying this news be recast immediately. Maximum penalties for offenders up to and including appeal to the State Security Court. Please confirm receipt immediately." 
+
+So with these three telegrams, we see the Italian press demand absolute silence over a landing of an unknown craft. Immediate arrest and maximum penalties were to be issued to any journalist commenting on the craft.
 
 00;06;40;06 - 00;07;05;08
-Unknown
-From the telegrams, we can see the Italian propaganda initially pushed for journalists to treat the landing of the craft as an identified meteor, only to swiftly cease any and all reporting by Italian journalists. Does this not sound awfully similar to the Roswell incident? Quick media control to drown out the presence of a crashed UFO.
+Gerb
+From the telegrams, we can see the Italian propaganda initially pushed for journalists to treat the landing of the craft as an identified meteor, only to swiftly cease any and all reporting by Italian journalists. 
+
+Does this not sound awfully similar to the Roswell incident? Quick media control to drown out the presence of a crashed UFO.
 
 00;07;05;10 - 00;07;32;23
-Unknown
-If you look at the second and third telegrams I've shown you, you will notice an arms stamp in the telegram text field. Unfortunately, I can't find any sharp enough images to decipher what exactly the text on this field reads. However, remember in the description of the alleged magenta craft, a top secret scientific coalition was formed to investigate the craft, named the Gabi Netto Recherché Special Le 33 or the Rs 33.
+Gerb
+### [[RS-33]]
+If you look at the second and third telegrams I've shown you, you will notice an R/S stamp in the telegram text field. 
+
+Unfortunately, I can't find any sharp enough images to decipher what exactly the text on this field reads. However, remember in the description of the alleged magenta craft, a top secret scientific coalition was formed to investigate the craft, named the [[RS-33|Gabinetto Ricerche Speciali e 33]] or the RS-33.
 
 00;07;32;25 - 00;07;57;10
-Unknown
-In other words, the special Group of 1933, well within the document, sent a penalty. We see an introduction directly mentioning the Rs 33 as a prelude to two sheets describing protocol for the crash. Atop the letter in two pages lies the stamp of the Kingdom Senate. This intro to this protocol memorandum has been translated by Paulo Gosar and reads, quote.
+Gerb
+In other words, the special Group of 1933. 
+
+Well within the document, sent a penalty. We see an introduction directly mentioning the RS-33 as a prelude to two sheets describing protocol for the crash. Atop the letter in two pages lies the stamp of the Kingdom Senate. 
+
+This intro to this protocol memorandum has been translated by Paulo Gosardi and reads, quote.
 
 00;07;57;13 - 00;08;18;28
-Unknown
-Dear DeSantis, I am sending you as requested and agreed verbally, the note for your rule do not make copies. Do not even mention it to your deputy for any matter having to do with the Rs 33 office. Come to me first. I personally wrote these lines as to not expose them to the eyes of my secretaries, therefore adjust accordingly.
+
+> "Dear [[Tommaso David|De Santi]], I am sending you as requested and agreed verbally, the note for your rule. Do not make copies. Do not even mention it to your deputy for any matter having to do with the RS-33 office. Come to me first. I personally wrote these lines as to not expose them to the eyes of my secretaries, therefore adjust accordingly."
 
 00;08;19;00 - 00;08;44;09
-Unknown
-So who is this DeSantis and who are the figures I mentioned earlier as connected with the Rs 33? DeSantis, the man to which the craft Recovery protocol was addressed, was almost assuredly a pseudonym for one Tomasso David, a colonel of the Frost, a known founder of the Volpi Argentine de spy group and later head of the Salo secret service, as discovered by Italian historian Arrigo Potato.
+Gerb
+So who is this De Santis and who are the figures I mentioned earlier as connected with the [[RS-33]]? DeSantis, the man to which the craft Recovery protocol was addressed, was almost assuredly a pseudonym for one [[Tommaso David]], a colonel of the Frosinone founder of the [[Volpi Argentate Spy Group]] and later head of the [[Salo Secret Service]], as discovered by Italian historian [[Arrigo Petacco]].
+
 
 00;08;44;12 - 00;09;12;05
-Unknown
-Earlier I mentioned the possible connection of Guglielmo Marconi to the Rs 33, the Nobel Prize winning inventor of the Radio Marconi was an outspoken advocate for belief in extraterrestrials, pursuing the possibility of contacting them. A radio, as outlined in a rare article published in 1937 titled Guglielmo Marconi magician of the Invisible Ruler of Spaces by La Stella Mario, which itself referenced earlier claims by Marconi.
+Gerb
+Earlier I mentioned the possible connection of [[Guglielmo Marconi]] to the [[RS-33]], the Nobel Prize winning inventor of the radio. 
+
+[[Guglielmo Marconi|Marconi]] was an outspoken advocate for belief in extraterrestrials, pursuing the possibility of contacting them via radio. 
+
+As outlined in a rare article published in 1937 titled [[Guglielmo Marconi Magician of the Invisible Ruler of Spaces]] by [[La Stella Mario]], which itself referenced earlier claims by Marconi in 1920 and 1932.
 
 00;09;12;05 - 00;09;35;26
-Unknown
-In 1920 and 1932. At this time, in 1933, the strict propaganda machine of the Stephanie, as mentioned earlier, would cover everything under the regime bar the highest authorities. Benito Mussolini, Foreign Minister Ciano and Air Marshal Balbo. Due to this, it stands to reason the two men besides the Dutch would be read into the top secret Rs 33 channels.
+Gerb
+At this time, in 1933, the strict propaganda machine of the Stefani, as mentioned earlier, would cover everything under the regime bar the highest authorities. Benito Mussolini, Foreign Minister Ciano and Air Marshal Balbo. 
+
+Due to this, it stands to reason the two men besides the Dutche would be read into the top secret RS-33.
 
 00;09;35;26 - 00;10;00;02
-Unknown
-Likely involvement in Rs 33 and direct naming in the fascist UFO sightings post magenta will become apparent later in the video. It is worth mentioning the famous channel diaries that describe channels experience and involvement within Fascist Italy up to his execution in 1943, makes no mention of this secret group. However, it is understandable given the top secrecy of this commission.
+Gerb
+[[Galeazzo Ciano|Ciano]]'s likely involvement in RS-33 and direct naming in the fascist UFO sightings post magenta will become apparent later in the video. 
+
+It is worth mentioning the famous Ciano diaries that describe channels experience and involvement within Fascist Italy up to his execution in 1943, makes no mention of this secret group, however, it is understandable given the top secrecy of this commission.
 
 00;10;00;04 - 00;10;33;21
-Unknown
-What is interesting, however, is a deep rabbit hole between Edda Channel channels wife and Mussolini's daughter. Alan Doles, The Ciano Diaries and Operation Sunrise as a front to retrieve the magenta UFO from the crumbling fascist state. This is not my research, so I will not pass it off as my own. However, if you guys are interested, I will see if I can do an interview with the really sharp Cat, who has spent countless hours digging into the craft retrieval process by the United States.
+Gerb
+What is interesting, however, is a deep rabbit hole between [[Edda Ciano?]] channels wife and Mussolini's daughter. [[Alan W Doles?]], The Ciano Diaries and Operation Sunrise as a front to retrieve the magenta UFO from the crumbling fascist state. 
 
-00;10;33;24 - 00;11;07;01
-Unknown
-Now onto the mentioned memorandum describing craft recovery to DeSantis in conjunction with the Rs 33. We see these labeled personal note very confidential. So let's go through all nine steps of protocol surrounding the magenta retrieval one. Notify the mayor to order the immediate recovery of the aircraft. Three order immediate arrest of all witnesses. Appoint special section Rs 33 of the overa to the Italian Gestapo present in each provincial capital.
+This is not my research, so I will not pass it off as my own. However, if you guys are interested, I will see if I can do an interview with the really sharp Cat, who has spent countless hours digging into the craft retrieval process by the United States.
 
-00;11;07;04 - 00;11;37;24
-Unknown
-Four direct all reports with the utmost secrecy and precedence over all priority to the Central Meteorological Office at La Sapienza University in Rome. Exclusive relevance. Rs 33 office five to prevent ex officio the dissemination of any news, particularly in the press. Six for the purpose of the previous point, it is necessary to publish from time to time very short articles in which the phenomenon is reported to its authentic and unique celestial nature.
+00;10;33;24 - 00;12;53;01
+Gerb
+### Protocol Memorandum
+Now onto the mentioned memorandum describing craft recovery to [[Tommaso David|De Santi]] in conjunction with the [[RS-33]]. We see these labeled personal note very confidential. So let's go through all nine steps of protocol surrounding the magenta retrieval. 
 
-00;11;37;26 - 00;12;21;14
-Unknown
-Meteor shooting star. Planet. Luminous halo. Iris, etc. according to form Rs 30 3.4, previously transmitted to all the prefectures of the kingdom by special dispatch seven. Transmission of reports to the Air Force is subject to the prior favorable opinion of the Rs. 33 office, whose decisions are un appealable up to the highest hierarchy of the Duchy. Eight strict exclusion of any other scientific body from the collection and examination of the reports available, including the Pontifical University, and nine charge all expenses related to this provision to cap 32.
+1. Notify the mayor
+2. Order the immediate recovery of the aircraft. 
+3. Order immediate arrest of all witnesses. Appoint special section Rs 33 of the overa to the Italian Gestapo present in each provincial capital.
+4. Direct all reports with the utmost secrecy and precedence over all priority to the Central Meteorological Office at La Sapienza University in Rome. Exclusive relevance. Rs 33 office 
+5. To prevent ex officio the dissemination of any news, particularly in the press. 
+6. For the purpose of the previous point, it is necessary to publish from time to time very short articles in which the phenomenon is reported to its authentic and unique celestial nature. Meteor shooting star. Planet. Luminous halo. Iris, etc. according to form Rs 30 3.4, previously transmitted to all the prefectures of the kingdom by special dispatch 
+7. Transmission of reports to the Air Force is subject to the prior favorable opinion of the [[RS-33]] office, whose decisions are un appealable up to the highest hierarchy of the Duchy. 
+8. Strict exclusion of any other scientific body from the collection and examination of the reports available, including the Pontifical University, and 
+9. Charge all expenses related to this provision to cap 32. Title IX II, heading 30 2-2 of the order to the R Accademia de Italia. Written authorization from Chief of Staff Rs 33.
 
-00;12;21;14 - 00;12;53;01
-Unknown
-Title IX II, heading 30 2-2 of the order to the R Accademia de Italia. Written authorization from Chief of Staff Rs 33. And a couple thoughts here, guys. Points eight and nine sound like protocol. Almost identical to use of regulation 202 from 1953, which I talk about all the time, in which UFO sightings were delegated strictly to the Air Force or higher authorities while restricting cases to be shared with scientific bodies and Project Bluebook.
+Gerb
+And a couple thoughts here, guys. Points eight and nine sound like protocol. Almost identical to use of regulation 202 from 1953, which I talk about all the time, in which UFO sightings were delegated strictly to the Air Force or higher authorities while restricting cases to be shared with scientific bodies and Project Bluebook.
 
 00;12;53;03 - 00;13;24;15
 Unknown
