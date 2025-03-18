@@ -1,0 +1,1 @@
+Author of [[Lucky Foreword The History of George Patton's Third US Army]]

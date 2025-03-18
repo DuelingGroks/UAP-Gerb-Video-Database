@@ -1,0 +1,5 @@
+---
+aliases:
+  - CoG
+  - COG
+---

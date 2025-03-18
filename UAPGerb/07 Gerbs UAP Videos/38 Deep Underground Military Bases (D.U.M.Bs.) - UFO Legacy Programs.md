@@ -201,169 +201,245 @@ To borrow from the title of the first chapter of Doctor [[Richard Sauder]]'s und
 
 The name said to me by multiple veterans who have traveled to such underground locations. And speaking of, I should mention, I have spoken to nearly half a dozen former military personnel who have traveled to STFs across the country.
 
-00;04;00;23 - 00;04;34;16
+00;04;00;23 - 00;05;04;11
 Gerb
 I try to shy away from inserting firsthand source testimony and anecdotes into my videos, and let evidence and research speak for itself, so I will interject with these firsthand testimonies when and if necessary. 
 
-In a 1989 speech titled Underground Facilities for Defense Experience and Lessons, Deputy Director of Engineering and Construction for the U.S. Army Corps of Engineers, [[Lloyd A Duca]] said, quote, 
+In a 1989 speech titled Underground Facilities for Defense Experience and Lessons, Deputy Director of Engineering and Construction for the U.S. Army Corps of Engineers, [[Lloyd A. Duscha]] said, quote, 
 
-"After World War Two, political and economic factors changed the underground construction picture and caused a renewed interest to think underground.
+> "After World War Two, political and economic factors changed the underground construction picture and caused a renewed interest to think underground. As a result of this interest, the Corps of Engineers became involved in the design and construction of some very complex and interesting military projects."
 
-00;04;34;21 - 00;05;04;11
-Unknown
-As a result of this interest, the Corps of Engineers became involved in the design and construction of some very complex and interesting military projects, and in the same talk duo would then go on to exclaim quote! Although the conference program indicates the topic to be underground facilities for defense experience and lessons, I must deviate a little because several of the most interesting facilities that have been designed and constructed by the Corps are still classified and, quote, acknowledged.
+End quote.
+And in the same talk duo would then go on to exclaim quote: 
+
+> "Although the conference program indicates the topic to be underground facilities for defense experience and lessons, I must deviate a little because several of the most interesting facilities that have been designed and constructed by the Corps are still classified." 
+End, quote. 
 
 00;05;04;11 - 00;05;33;00
-Unknown
-Military subterranean facilities do indeed exist. Publicly known sites include the North at Cheyenne Mountain complex, buried deep under Colorado Springs. This enormous installation, built to monitor North American missile threat, sits 2000ft underground and spans 5.1 acres, featuring six three story high and 40ft wide tunnels and 15 three story buildings made of steel plates. And these are just the acknowledged portions of the base.
+Gerb
+Acknowledged Military subterranean facilities do indeed exist. Publicly known sites include the [[NORAD Cheyenne Mountain Complex]], buried deep under Colorado Springs. This enormous installation, built to monitor North American missile threat, sits 2000ft underground and spans 5.1 acres. Featuring six three story high and 40ft wide tunnels and 15 three story buildings made of steel plates. And these are just the acknowledged portions of the base.
 
 00;05;33;00 - 00;06;02;27
-Unknown
-Additionally, the Raven Rock Complex Acres site are served as a secure underground command center or back up pentagon, and is shrouded in mystery. This site under Fort Detrick, Maryland, includes accommodations for 3000 people, has an in-built medical and dental clinic, fire department, post office, and five acknowledged three story buildings. The secrets Raven Rock must hold are endless, but existing acknowledged domes are not the focus of today's investigation.
+Gerb
+Additionally, the [[Raven Rock Complex]] AKA [[Raven Rock Complex|Site-R]] served as a secure underground command center or back up pentagon, and is shrouded in mystery. This site under Fort Detrick, Maryland, includes accommodations for 3000 people, has an in-built medical and dental clinic, fire department, post office, and five acknowledged three story buildings. The secrets Raven Rock must hold are endless, but existing acknowledged [[Deep Underground Military Bases|DUMB]]s are not the focus of today's investigation.
 
 00;06;02;27 - 00;06;31;03
-Unknown
-Instead, we plan to pursue domes that operate as UFO legacy program locations and explore the feasibility of decades of rumors of hundreds, if not thousands of miles of underground tunnels and railroads connecting deep underground UFO legacy operations to once again, quote U.S. Army Corps of Engineers Deputy Director for Engineering and Construction Lloyd, a show when speaking about the course involvement in the 1960s construction of the Cheyenne site.
+Gerb
+Instead, we plan to pursue [[Deep Underground Military Bases|DUMB]]s that operate as UFO legacy program locations and explore the feasibility of decades of rumors of hundreds, if not thousands of miles of underground tunnels and railroads connecting deep underground UFO legacy operations. 
+
+To once again, quote U.S. Army Corps of Engineers Deputy Director for Engineering and Construction [[Lloyd A. Duscha]] when speaking about the course involvement in the 1960s construction of the Cheyenne site.
 
 00;06;31;03 - 00;07;04;18
-Unknown
-Quote. As stated earlier, there are other projects of similar scope which I cannot identify, but which include multiple chambers up to 50ft wide and 100ft high. Using the same excavation procedure mentioned for the new Pratt facility. And quote. After all, according to a 1985 U.S. Army Corps of Engineers report titled Literature Survey of Underground Construction Methods for Application to Hardened Facilities, stiffs can be built anywhere with the right amount of money and in myriad types of structures, utilizing deep shaft structures and facilities.
+Gerb
+Quote. 
+> "As stated earlier, there are other projects of similar scope which I cannot identify, but which include multiple chambers up to 50ft wide and 100ft high. Using the same excavation procedure mentioned for the NORAD facility." 
+
+End quote. 
+After all, according to a 1985 [[U.S. Army Corps of Engineers]] report titled Literature Survey of Underground Construction Methods for Application to Hardened Facilities, STFs can be built anywhere with the right amount of money and in myriad types of structures, utilizing deep shaft structures and facilities.
 
 00;07;04;18 - 00;07;42;00
-Unknown
-Tunneled into mountainsides. The report even states. Quote, since adequate technology is available to construct hardened underground facilities under virtually any ground conditions, the main constraint in construction projects remains economic viability rather than technical feasibility. End quote. As we know from David Grush and multiple other sources and testimonies, UFO legacy programs operate on the U.S. black budget, untraceable, deep sixed money and contracts buried within special access control access and unacknowledged special access programs from the excellent work of Catherine Austin Fitz I mention often.
+Gerb
+Tunneled into mountainsides. The report even states. Quote:
+> "Since adequate technology is available to construct hardened underground facilities under virtually any ground conditions, the main constraint in construction projects remains economic viability rather than technical feasibility."
+End quote. 
+As we know from [[David Grusch]] and multiple other sources and testimonies, UFO legacy programs operate on the U.S. [[black budget]], untraceable, deep sixed money and contracts buried within special access control access and unacknowledged [[Special Access Program (SAP)|special access programs]] from the excellent work of [[Catherine Austin Fitz]] I mention often.
 
 00;07;42;00 - 00;08;12;26
-Unknown
-We also know that as much as $21 trillion in unauthorized spending has occurred between 1998 and 2015, and this is just within the DoD and Department of Housing and Urban Development, much of which Fits believed was designated for clandestine military R&D, publicly denied UFO research, development, test and evaluation, underground locations would absolutely classify as such. Dumps for clandestine and unacknowledged use is also a practice very much currently in play.
+Gerb
+We also know that as much as $21 trillion in unauthorized spending has occurred between 1998 and 2015, and this is just within the [[Department of Defense|DoD]] and [[Department of Housing and Urban Development]], much of which Fits believed was designated for clandestine military R&D. 
+
+Publicly denied UFO research, development, test and evaluation, underground locations would absolutely classify as such. DUMBs for clandestine and unacknowledged use is also a practice very much currently in play.
 
 00;08;12;26 - 00;08;43;16
-Unknown
-One such example is Warrenton U.S. Army Training Center, located in the northern Virginia town of Warrenton. The book The Secret Team the CIA and Its Allies and Control of the World by Fletcher Prouty, identified a highly secretive underground installation that serves as a federal relocation center by an unknown agency. This was confirmed in an inquiry. A magazine article titled Going Underground by Robert Walters, which plainly states the U.S. Army Warrenton Training Center is a CIA covert facility.
+Gerb
+One such example is [[Warrenton U.S. Army Training Center]], located in the northern Virginia town of Warrenton. The book [[The Secret Team]] the CIA and Its Allies and Control of the World by [[Fletcher Prouty]], identified a highly secretive underground installation that serves as a federal relocation center by an unknown agency. This was confirmed in an inquiry. A magazine article titled [[Going Underground]] by [[Robert Walters]], which plainly states the U.S. Army Warrenton Training Center is a [[CIA]] covert facility.
 
 00;08;43;22 - 00;09;20;19
-Unknown
-Additional. There is the highly secretive U.S. Navy underground facility in the mountains of West Virginia near Sugar Grove. This location is an underground site run by the Navy for the National Security Agency, so the NSA and CIA already have a traceable interest in using U.S. military bases, underground facilities as a cover for unknown usage and operations. So before discussing much of the testimony of UFOs and domes, let's quickly touch on the reality and history of these impressive, often unacknowledged sites.
+Gerb
+Additional, there is the highly secretive U.S. Navy underground facility in the mountains of West Virginia near Sugar Grove. This location is an underground site run by the Navy for the [[National Security Agency]], so the NSA and CIA already have a traceable interest in using U.S. military bases, underground facilities as a cover for unknown usage and operations. So before discussing much of the testimony of UFOs and DUMBs, let's quickly touch on the reality and history of these impressive, often unacknowledged sites.
 
-00;09;20;22 - 00;09;50;27
-Unknown
-The inception of domes in the United States can actually be traced back to the Nazis and Operation Paperclip, the famous program to recruit Nazi scientists, engineers and technicians into U.S. government employment. Near the end of World War Two, the Nazis had begun utilization of what we might call dummies. In the book Lucky Foreword The History of Patents, Third Army Colonel Robert S Allen detailed the Allied discoveries of Nazi underground bases, quote the underground installations were amazing.
+00;09;20;22 - 00;10;19;21
+Gerb
+### The Nazi Connection
+The inception of DUMBs in the United States can actually be traced back to the Nazis and [[Operation Paperclip]], the famous program to recruit Nazi scientists, engineers and technicians into U.S. government employment. Near the end of World War Two, the Nazis had begun utilization of what we might call DUMBs. In the book [[Lucky Foreword The History of George Patton's Third US Army]] Colonel [[Robert S. Allen]] detailed the Allied discoveries of Nazi underground bases, quote: 
 
-00;09;50;27 - 00;10;19;21
-Unknown
-They were literally subterranean towns. There were four in and around order of none were natural caverns or mines. All were man made military installations. The horror camp had provided the labor. An interesting feature of the construction was the absence of any spoil. It had been carefully scattered into hills miles away and, quote. Some Nazi installations were over 50ft underground, comprised of several miles of 2 to 3 story facilities.
+> "The underground installations were amazing. They were literally subterranean towns. There were four in and around order of none were natural caverns or mines. All were man made military installations. The horror camp had provided the labor. An interesting feature of the construction was the absence of any spoil. It had been carefully scattered into hills miles away."
+End, quote. 
+
+Some Nazi installations were over 50ft underground, comprised of several miles of 2 to 3 story facilities.
 
 00;10;19;21 - 00;10;44;21
-Unknown
-The sites were arranged like wheels with spokes designed with reinforced concrete. The Nazis designed such locations as order of to house Nazi high command. After the bombing of Berlin, but never got the chance to populate the facility. We additionally have the Regan Worm Lager or Earthworm camp in Poland. This Nazi sprawling underground complex beneath West Poland's full extent is still unknown today.
+Gerb
+The sites were arranged like wheels with spokes designed with reinforced concrete. The Nazis designed such locations as order of to house Nazi high command after the bombing of Berlin, but never got the chance to populate the facility. We additionally have the [[Regenwurmlager]] or [[Regenwurmlager|Earthworm Camp]] in Poland. This Nazi sprawling underground complex beneath West Poland's full extent is still unknown today.
 
 00;10;44;26 - 00;11;13;17
-Unknown
-The site featured miles of underground tunnels and electrical train lines connecting bunkers, fortifications and other critical military facilities. This sounds familiar. No two declassified documents can be discovered dating back to 1947. Regarding the aforementioned Operation Paperclip. Featured in the documents are requests by Air Materiel Command for a quote unquote requirement of four German technicians to consult on a planned underground plant program.
+Gerb
+The site featured miles of underground tunnels and electrical train lines connecting bunkers, fortifications and other critical military facilities. This sounds familiar. No? 
+
+Two declassified documents can be discovered dating back to 1947. Regarding the aforementioned [[Operation Paperclip]]. Featured in the documents are requests by Air Materiel Command for a quote unquote requirement of four German technicians to consult on a planned underground plant program.
 
 00;11;13;23 - 00;11;44;15
-Unknown
-One man named was Xavier Dorsch, director of the tought organization. In the closing of World War two. This was the Nazis equivalent of the U.S. Navy Seabees or U.S. Army Corps of Engineers, but not part of formal German military structure. The founder of this organization, Fritz, taught design the famous German Autobahn highway system. Towards the tail end of World War Two, Dorsch had helped with developing a series of massive underground industrial manufacturing facilities to hide from Allied bombing raids.
+Gerb
+One man named was[[ Xavier Dorsch]], director of the [[Todt Organization]]. In the closing of World War two. This was the Nazis equivalent of the U.S. Navy Seabees or U.S. Army Corps of Engineers, but not part of formal German military structure. 
+
+The founder of this organization, [[Fritz Todt]] design the famous German Autobahn highway system. Towards the tail end of World War Two, [[Xavier Dorsch|Dorsch]] had helped with developing a series of massive underground industrial manufacturing facilities to hide from Allied bombing raids.
 
 00;11;44;22 - 00;12;10;00
-Unknown
-It is indeed quite possible. He also aided on the Regan worm lager, an order of documents and research show. Dorsch once briefed the Americans after he was captured in 1945 and again in 1949. We do not know the full extent to which he aided in these programs. These massive Nazi underground industrial manufacturing facilities possibly give us our first look into UFO legacy programs and dumps.
+Gerb
+It is indeed quite possible. He also aided on the [[Regenwurmlager]], an order of documents and research show. [[Xavier Dorsch|Dorsch]] once briefed the Americans after he was captured in 1945 and again in 1949. We do not know the full extent to which he aided in these programs. 
+
+These massive Nazi underground industrial manufacturing facilities possibly give us our first look into UFO [[legacy programs]] and DUMBs.
 
 00;12;10;00 - 00;12;41;28
-Unknown
-I have covered on this channel the 1933 magenta, Italy UFO Crash Retrieval, a case whose validity is strongly supported by David Grush. You say it's a 90 year cover up? Just about. Yeah, 90 years. 1933 was the first recovery in Europe. In the magenta, Italy. They recovered, partially intact vehicle. In this case, the Nazis purportedly took control of a crashed lenticular disc from the Italians in 1943 before being recovered by the Americans.
+Gerb
+I have covered on this channel the [[1933 Magenta Italy]] [[19 The 1933 Magenta, Italy UFO Crash|UFO Crash]], a case whose validity is strongly supported by [[David Grusch]]. 
+
+{Video Clip of the Ross Coulthart David Grusch News Nation Interview}
+[[Ross Coulthart]]: "You say it's a 90 year cover up? 
+[[David Grusch]]: "Just about. Yeah," 
+[[Ross Coulthart]]: "90 years?"
+[[David Grusch]]: "1933 was the first recovery in Europe. In the magenta, Italy. They recovered, partially intact vehicle..." 
+
+In this case, the Nazis purportedly took control of a crashed [[lenticular disc]] from the Italians in 1943 before being recovered by the Americans post war.
 
 00;12;41;28 - 00;13;06;01
-Unknown
-Postwar Hans Carmilla was a Nazi engineer behind construction of numerous concentration camps, including Auschwitz, and led myriad Nazi secret weapons projects. Carmilla would have indeed been one of chief scientists and engineers to study a recovered lenticular craft. Due to his unrivaled command over Nazi secret weapons programs, Kamala went missing and near the tail end of World War Two.
+Gerb
+[[Hans Kammler]] was a Nazi engineer behind construction of numerous concentration camps, including Auschwitz, and led myriad Nazi secret weapons projects. 
+
+[[Hans Kammler|Kammler]] would have indeed been one of chief scientists and engineers to study a recovered lenticular craft due to his unrivaled command over Nazi secret weapons programs. [[Hans Kammler|Kammler]] went missing and near the tail end of World War Two.
 
 00;13;06;02 - 00;13;38;20
-Unknown
-However, documents prove rather convincingly this evil engineer was taken alive into U.S. custody. Albert Speer, Nazi and Reich Minister of Armaments and War Production, claimed in April 1945. Ccamlr informed him he had business to offer the Americans. OSS agent Donald W Richardson seemingly confirmed this by stating, 70 years after he still couldn't fully speak on interrogating Ccamlr, but the Nazis had brought treasure to the U.S. that, quote, served the development of armament platforms for the Cold War and for the future, end quote.
+Gerb
+However, documents prove rather convincingly this evil engineer was taken alive into U.S. custody. [[Albert Speer]], Nazi and Reich Minister of Armaments and War Production, claimed in April 1945. Kammler informed him he had business to offer the Americans. 
+
+OSS agent [[Donald W Richardson]] seemingly confirmed this by stating, 70 years after he still couldn't fully speak on interrogating Kammler, but the Nazis had brought treasure to the U.S. that, quote, 'served the development of armament platforms for the Cold War and for the future', end quote.
 
 00;13;38;26 - 00;14;17;19
-Unknown
-Under Camila's command, numerous underground tunnels and bases existed, employing German companies to develop and build parts for advanced aircraft and secret weapons programs. Ccamlr is even said to have stashed treasures and documents regarding his think tanks top secret documents in a facility underground in the woods of Czechoslovakia, according to Hidden Nazi by Dan Ruder, 44 years after Operation Hidden Documents to retrieve the stash, Top Secret documents an American team from Lawrence Livermore Labs and Los Alamos Labs, two FFR ADCs went to a new underground cavern that had not been emptied at the end of World War Two, called Mednick Hill.
+Gerb
+Under Kammler's command, numerous underground tunnels and bases existed, employing German companies to develop and build parts for advanced aircraft and secret weapons programs. Kammler is even said to have stashed treasures and documents regarding his think tanks top secret documents in a facility underground in the woods of Czechoslovakia. 
+
+According to [[The Hidden Nazi|Hidden Nazi]] by [[Dean Reuter]], 44 years after Operation Hidden Documents to retrieve the stash, Top Secret documents an American team from [[Lawrence Livermore Labs]] and Los Alamos Labs, two [[FFRDC]]s went to a new underground cavern that had not been emptied at the end of World War Two, called [[Mednick Hill]].
 
 00;14;17;19 - 00;14;51;28
-Unknown
-What was found here was, quote, the key to what was hidden at the previous site and quote. It goes without saying. It stands to reason Ccamlr conducted early iterations of UFO legacy programs underneath men Nick Hill, as well as his numerous underground locations and tunnels, and that Xavier Dorsch was a key engineer in constructing these facilities, with Dorsch being requested by Air Materiel Command and Ccamlr being more than likely secretly smuggled by the Americans, these two men could very well be the key architects of modern day U.S. UFO and Dom legacy programs.
+Gerb
+What was found here was, quote, 'the key to what was hidden at the previous site' end quote. 
+
+It goes without saying. It stands to reason Kammler conducted early iterations of UFO legacy programs underneath [[Mednick Hill]], as well as his numerous underground locations and tunnels, and that [[Xavier Dorsch]] was a key engineer in constructing these facilities. 
+
+With [[Xavier Dorsch|Dorsch]] being requested by [[Air Materiel Command]] and Kammler being more than likely secretly smuggled by the Americans, these two men could very well be the key architects of modern day U.S. UFO and [[Deep Underground Military Bases|DUMB]] legacy programs.
 
 00;14;52;00 - 00;15;14;11
-Unknown
-I am no expert in history, so to learn more about Ccamlr, I strongly recommend watching the documentary The Two Lives of Hans Ccamlr. Later in this project, we will see even more ties between Nazi Germany, Dums and Paperclip. Then, in the form of maglev train systems.
+Gerb
+I am no expert in history, so to learn more about [[Hans Kammler|Kammler]], I strongly recommend watching the documentary [[The Two Lives of Hans Kammler]]. 
+
+Later in this project, we will see even more ties between Nazi Germany, DUMBs and Paperclip. Then, in the form of maglev train systems.
 
 00;15;14;14 - 00;15;44;27
-Unknown
-On numerous occasions in the 1950s, the United States proposed massive underground facilities that seemingly disappeared from public light. It is unknown if many of these facilities were built or not. One example can be traced in 1957 to Green Mountain outside Huntsville, Alabama. Huntsville is deeply enshrouded in U.S. anti-gravity research, but we are looking elsewhere. Two articles in 1957 reported the US Army was planning to build a rocket factory inside of Green Mountain.
+Gerb
+### US Military & DUMBs
+On numerous occasions in the 1950s, the United States proposed massive underground facilities that seemingly disappeared from public light. It is unknown if many of these facilities were built or not. 
+
+One example can be traced in 1957 to Green Mountain outside Huntsville, Alabama. Huntsville is deeply enshrouded in U.S. anti-gravity research, but we are looking elsewhere. 
+
+Two articles in 1957 reported the US Army was planning to build a rocket factory inside of [[Green Mountain]].
 
 00;15;44;29 - 00;16;20;02
-Unknown
-The plan was proposed by the American Machine and Foundry Company, Redstone Arsenal and the Army Ballistic Missile Agency. This location was slated to have a sort of subterranean junior pentagon, where elaborate headquarters would be installed to direct the defense of the southern U.S. from enemy attack. Again, it is unknown if this location was ever built. However, such discussion of a junior Pentagon illustrated early private military cooperation, a theme we will touch on much more much later analysis of US military and underground studies additionally allows us valuable insights into domes.
+Gerb
+The plan was proposed by the American Machine and Foundry Company, [[Redstone Arsenal]] and the [[Army Ballistic Missile Agency]]. This location was slated to have a sort of subterranean junior pentagon, where elaborate headquarters would be installed to direct the defense of the southern U.S. from enemy attack. 
+
+Again, it is unknown if this location was ever built. However, such discussion of a junior Pentagon illustrated early private military cooperation, a theme we will touch on much more much later. 
+
+Analysis of US military and underground studies additionally allows us valuable insights into DUMBs.
 
 00;16;20;02 - 00;16;43;26
 Unknown
-Take the Rand Corporation, for example, an FDC I have spoken about ad nauseum is a primary semi government institution up to its eyeballs in UFO legacy programs. Rand Corporation was established in 1948 and grew out of Army Air Force Project Rand. In 1946, project Rand sought to carry out long range research projects of interest to the Air Force.
+Take the [[RAND Corporation]], for example, an [[FFRDC]] I have spoken about ad nauseum is a primary semi government institution up to its eyeballs in UFO legacy programs. 
+
+RAND Corporation was established in 1948 and grew out of Army Air Force [[Project RAND]]. In 1946, Project RAND sought to carry out long range research projects of interest to the Air Force.
 
 00;16;43;29 - 00;17;09;08
-Unknown
-In the 1950s, USAF and Rand began working on the question of underground base construction and organized various symposiums. Let's analyze the resulting 1959 publication, Deep Underground Construction. The purpose of such a symposium, according to the chairman, was to discuss, quote, the problems of protecting military installations located deep underground or under mountains and quote, in the event of nuclear war.
+Gerb
+In the 1950s, USAF and RAND began working on the question of underground base construction and organized various symposiums. Let's analyze the resulting 1959 publication, [[Deep Underground Construction]]. The purpose of such a symposium, according to the chairman, was to discuss, quote, 'the problems of protecting military installations located deep underground or under mountains' end quote, in the event of nuclear war.
 
 00;17;09;11 - 00;17;36;26
-Unknown
-The chairman also stated. Since 1957, the Rand Corp. had been, quote, actively investigating the need for a small number of super hard, deep underground centers. End quote. Additionally, in 1960, Rand published a study under USAF contract dealing 12 locations for underground sites. All sites were assumed to be more than 1000ft deep. Of specific interest here is site three, in Santa Barbara, California.
+Gerb
+The chairman also stated. Since 1957, the Rand Corp. had been, quote, 'actively investigating the need for a small number of super hard, deep underground centers.' End quote. Additionally, in 1960, Rand published a study under USAF contract dealing 12 locations for underground sites. All sites were assumed to be more than 1000ft deep. Of specific interest here is [[site three]], in Santa Barbara, California.
 
 00;17;37;03 - 00;18;16;14
-Unknown
-Santa Barbara is located just over 100 miles from the Antelope Valley, California. We will discuss later. Research suggests a major network of UFO focused facilities exists interconnected under the Antelope. Site three is also located less than 100 miles away from Los Angeles, where a tremendous amount of DoD research, development, test and evaluation laboratories lie. We have already mentioned the U.S. Army Corps of Engineers giving in 1989 a quite frank admission of classified underground facilities and outside of the 1987 U.S. Army Corps of Engineers report detailing construction of domes boils down to cost.
+Gerb
+Santa Barbara is located just over 100 miles from the Antelope Valley, California. We will discuss later. 
+
+Research suggests a major network of UFO focused STF facilities exists interconnected under the Antelope. Site three is also located less than 100 miles away from Los Angeles, where a tremendous amount of DoD research, development, test and evaluation laboratories lie. 
+
+We have already mentioned the [[U.S. Army Corps of Engineers]] giving in 1989 a quite frank admission of classified underground facilities, and outside of the 1987 U.S. Army Corps of Engineers report detailing construction of DUMBs boils down to cost.
 
 00;18;16;14 - 00;18;44;16
-Unknown
-In 1959 to 1961, the Army Corps of Engineers published a five part training manual titled Design of Underground Installations in Rock. This startling series assumes the preexistence of underground facilities. The report states. Quote, vital government installations have been placed underground, as exemplified by the Ritchey Project, and, quote, many of these facilities were designed as command and control centers and survival bunkers for nuclear attacks.
+Gerb
+In 1959 to 1961, the Army Corps of Engineers published a five part training manual titled [[Design of Underground Installations in Rock]]. This startling series assumes the preexistence of underground facilities. The report states. Quote, 'vital government installations have been placed underground, as exemplified by the [[Ritchie Project]], end, quote. 
+
+![[Ritchie Project Excerpt.png]]
+
+Many of these facilities were designed as command and control centers and survival bunkers for nuclear attacks.
 
 00;18;44;16 - 00;19;15;13
-Unknown
-These are known as continuity of government sites. Raven Rock qualifies as one such continuity of government, or C og dumb design of underground installations in rock additionally make some statements of extreme relevance to the testimonies of domes and UFOs. Some installations listed by the army were to be shallow, while, quote more important, equipment and facilities essential to defense may be installed in deeper workings that are likely to be long in tunnel like occupying one or several stories.
+Gerb
+These are known as [[Continuity of Government]] sites. [[Raven Rock]] qualifies as one such continuity of government, or CoG DUMB. Design of underground installations in rock additionally make some statements of extreme relevance to the testimonies of DUMBs and UFOs. Some installations listed by the army were to be shallow, while, quote 'more important, equipment and facilities essential to defense may be installed in deeper workings that are likely to be long in tunnel like occupying one or several stories.' End quote. 
 
 00;19;15;13 - 00;19;46;19
-Unknown
-End quote. The report detailed enormous underground facilities featuring 50 by 50ft tunnels and chambers as much as 100ft high. Even stating, quote, truck or rail traffic might be important and quote the Army even cautioned, quote, landscapes, cars, roads and portal structures aka entrances should be as inconspicuous as possible. Camouflage should be considered and quote. This is of extreme consequence when discussing testimony such as EMS, who detailed the entrance to the Dugway.
+Gerb
+The report detailed enormous underground facilities featuring 50 by 50ft tunnels and chambers as much as 100ft high. Even stating, quote, 'truck or rail traffic might be important' end quote. The Army even cautioned, quote, 'landscapes, cars, roads and portal structures aka entrances should be as inconspicuous as possible. Camouflage should be considered' end quote. This is of extreme consequence when discussing testimony such as M.S., who detailed the entrance to the [[Dugway DUMB|Dugway STF]] as a small building in the middle of nowhere.
 
 00;19;46;19 - 00;20;16;11
-Unknown
-Stiff as a small building in the middle of nowhere. In 1963, the U.S. Army Corps of Engineers published a manual titled Utilization of Nuclear Power Plants in Underground Installations. This manual discusses self-contained nuclear powered underground facilities with button up diesel secondary systems. Critically, in 1964, the Army Corps of Engineers or Co proposed 12 massive structures to be built up to 4000ft underground.
+Gerb
+In 1963, the U.S. Army Corps of Engineers published a manual titled [[Utilization of Nuclear Power Plants in Underground Installations]]. This manual discusses self-contained nuclear powered underground facilities with button up diesel secondary systems. Critically, in 1964, the [[Army Corps of Engineers]] or COE proposed 12 massive structures to be built up to 4000ft underground.
 
 00;20;16;19 - 00;20;46;20
-Unknown
-There are two sites here of massive importance to our investigation. One facility below Yuma County, Arizona, to be accessed via a vertical or incline shaft search entry points are common amongst claims of UFO dumb, such as the Dugway Dam, whose entrance is purported to be a vertical elevator shaft. In Stephen Greer's Deeper Archive, who fans of this channel will know, I've extracted a tremendous amount of information and worthwhile investigation from witness 1077 three, statement reads.
+Gerb
+There are two sites here of massive importance to our investigation. One facility below Yuma County, Arizona, to be accessed via a vertical or incline shaft. 
+
+Such entry points are common amongst claims of UFO DUMBs, such as the [[Dugway DUMB]], whose entrance is purported to be a vertical elevator shaft. In [[Stephen Greer]]'s DPIR Archive, who fans of this channel will know, I've extracted a tremendous amount of information and worthwhile investigation from, witness 1077 three, statement reads.
 
 00;20;46;20 - 00;21;11;23
-Unknown
-Quote, nos. Of massive research and storage facility material of unknown origin at Yuma proving ground, unquote fascinating connection here. Yuma Test Center is also home to Yuma Proving Ground, a US Army major range and test facility base similar to Dugway Proving Grounds. Army B, the West Desert Test Center Yuma Proving Ground is also run by Army Test and Evaluation Command.
+Gerb
+Quote: 
+Nos. Of massive research and storage facility material of unknown origin at Yuma proving ground, unquote fascinating connection here.
+
+[[Yuma Test Center]] is also home to [[Yuma Proving Ground]], a US Army major range and test facility base similar to [[Dugway Proving Grounds]] Army MRTFB the [[West Desert Test Center]], Yuma Proving Ground is also run by [[Army Test and Evaluation Command]].
 
 00;21;11;23 - 00;21;42;14
-Unknown
-Indeed, it is no stretch to assume if a stiff exists under one of these Army FBS, an equally impressive facility likely exists below the other second here is site three in Inyo County, California, to be accessed via incline shaft. Inyo County resides on the inside boundary of China Lake Naval Weapons Testing Facility. China Lake is one of the Navy's premier major range and test facilities base, and a location spoken of on myriad occasions as an underground legacy program.
+Gerb
+Indeed, it is no stretch to assume if a STF exists under one of these [[Army MRTFB]], an equally impressive facility likely exists below the other. Second here is [[Site-3]] in Inyo County, California, to be accessed via incline shaft. 
+
+Inyo County resides on the inside boundary of [[China Lake Naval Weapons Testing Facility]]. China Lake is one of the Navy's premier major range and test facilities base, and a location spoken of on myriad occasions as an underground legacy program location. 
 
 00;21;42;14 - 00;22;08;26
-Unknown
-Location. China Lake really needs no introduction, but stay tuned as we will discuss trying to lake in much more detail along with Antelope Valley, but quickly to mention Doctor Richard Sadr received testimony from a Navy contact who served at China Lake. The witness confirmed an impressively large and deep installation, claiming the facility extends one mile deep and contains, quote, weapons more powerful than nuclear weapons, end quote.
+Gerb
+[[China Lake Naval Weapons Testing Facility|China Lake]] really needs no introduction, but stay tuned as we will discuss trying to lake in much more detail along with Antelope Valley, but quickly to mention Doctor [[Richard Sauder]] received testimony from a Navy contact who served at China Lake. The witness confirmed an impressively large and deep installation, claiming the facility extends one mile deep and contains, quote, 'weapons more powerful than nuclear weapons', end quote.
 
 00;22;08;29 - 00;22;47;21
-Unknown
-Alongside the US Army Corps, the US Navy is also deeply entwined with underground and possibly undersea bases. But that's another story for another day. In 1972, Naval Facilities Engineering Command issued a report titled Subsurface Deployment of Naval Facilities, discussing several Navy installations to be placed underground. These include administration, medical, aircraft maintenance, ammo storage, and miscellaneous storage facilities. The US Navy Seabees additionally maintain underground installations between the presidential Camp David and CIA facility Camp Peary, which we will discuss later on.
+Gerb
+Alongside the US Army [[Army Corps of Engineers|COE]], the US Navy is also deeply entwined with underground and possibly undersea bases. But that's another story for another day. 
+
+In 1972, Naval Facilities Engineering Command issued a report titled [[Subsurface Deployment of Naval Facilities]], discussing several Navy installations to be placed underground. These include administration, medical, aircraft maintenance, ammo storage, and miscellaneous storage facilities. 
+
+The US Navy Seabees additionally maintain underground installations between the presidential [[Camp David]] and CIA facility [[Camp Peary]], which we will discuss later on.
 
 00;22;47;28 - 00;23;16;15
-Unknown
-In 1947, U.S. Air Materiel Command requested Nazi technicians for construction of underground facilities. In 1989, Lloyd Duka admitted numerous underground installations existed and were classified. This means stiffs of interest were built from 1947 to 1949, a 42 year period. We can also assume some facilities were built before 1961, where the five part Army Code document assumes the existence of such facilities.
+Gerb
+In 1947, U.S. Air Materiel Command requested Nazi technicians for construction of underground facilities. 
+
+In 1989, [[Lloyd A. Duscha]] admitted numerous underground installations existed and were classified. 
+
+This means STFs of interest were built from 1947 to 1989, a 42 year period. We can also assume some facilities were built before 1961, where the five part Army COE document assumes the existence of such facilities.
 
 00;23;16;21 - 00;23;51;12
-Unknown
-One such example here may be Groom Lake Area 51, that was built in the 50s on the site of a former boron mine. After all, a 1991 DARPA report details secret cavities may be found in conjunction with underground mines. However, due to the existence of literature on described future plans for massive bases post 1961 that really hold our interest, we can assume from 1961 to 1989, the majority of our stiffs of interest were constructed.
+Gerb
+One such example here may be Groom Lake [[Area 51]], that was built in the 50s on the site of a former boron mine. After all, a 1991 DARPA report details secret cavities may be found in conjunction with underground mines. However, due to the existence of literature on described future plans for massive bases post 1961 that really hold our interest, we can assume from 1961 to 1989, the majority of our STFs of interest were constructed.
 
 00;23;51;15 - 00;24;28;14
-Unknown
-Domes are not a new subject to the study of UFOs or my channel. I myself have talked a tremendous amount of the alleged past. Defense Advanced Research Center, a ten story underground location built under area 51, relayed by USAF Master Sergeant Edgar Fu Shea, that dealt with alien reproduction vehicles, including the TR3. B I have also spoken on the enigmatic Northrop taken Lockheed Hillandale and McDonnell Douglas RCS facilities that have, since at least 1987, been accused by excellent researchers such as Bill Hamilton as housing UFO legacy programs.
+Gerb
+### DUMBs & UFOs
+DUMBs are not a new subject to the study of UFOs or my channel. I myself have talked a tremendous amount of the alleged past. Defense Advanced Research Center, a ten story underground location built under area 51, relayed by USAF Master Sergeant Edgar Fu Shea, that dealt with alien reproduction vehicles, including the TR3. B I have also spoken on the enigmatic Northrop taken Lockheed Hillandale and McDonnell Douglas RCS facilities that have, since at least 1987, been accused by excellent researchers such as Bill Hamilton as housing UFO legacy programs.
 
 00;24;28;14 - 00;25;03;20
 Unknown

@@ -11,13 +11,28 @@
             "id": "137d600241a1ec9f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Gerbs UAP Videos/38 Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "38 Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"
+            }
+          },
+          {
+            "id": "c0eea22f04c088fa",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,35 +178,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "137d600241a1ec9f",
+  "active": "c0eea22f04c088fa",
   "lastOpenFiles": [
     "07 Gerbs UAP Videos/38 Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md",
-    "Subterranean Facility.md",
-    "11 Terms & Definitions/Legacy Programs.md",
-    "Publishings/Books/Underground and Underwater Bases.md",
-    "Publishings/Books/Hidden in Plain Sight Beyond the X-Files.md",
-    "04 Important Figures/Authors/Richard Sauder.md",
-    "Publishings/Books/Under Ground Bases and Tunnels.md",
-    "11 Terms & Definitions/Deep Underground Military Bases.md",
-    "07 Gerbs UAP Videos/Thumbnails/38-Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs-thumbnail.jpg",
+    "04 Important Figures/Lloyd A. Duscha.md",
+    "Publishings/Subsurface Deployment of Naval Facilities.md",
+    "09 Organizations & Facilites/China Lake Naval Weapons Testing Facility.md",
+    "09 Organizations & Facilites/Dugway DUMB.md",
+    "09 Organizations & Facilites/Army Corps of Engineers.md",
+    "Publishings/Utilization of Nuclear Power Plants in Underground Installations.md",
+    "Publishings/Books/The Hidden Nazi.md",
+    "Publishings/Books/The Secret Team.md",
+    "11 Terms & Definitions/Continuity of Government.md",
+    "38 images/Ritchie Project Excerpt.png",
+    "38 images",
+    "Publishings/Design of Underground Installations in Rock.md",
+    "Deep Underground Construction.md",
+    "09 Organizations & Facilites/Project RAND.md",
+    "09 Organizations & Facilites/RAND Corporation.md",
+    "09 Organizations & Facilites/Army Ballistic Missile Agency.md",
+    "Publishings/Books/The Two Lives of Hans Kammler.md",
+    "04 Important Figures/Dean Reuter.md",
+    "04 Important Figures/Hans Kammler.md",
     "07 Gerbs UAP Videos/19 The 1933 Magenta, Italy UFO Crash.md",
-    "Guglielmo Marconi Magician of the Invisible Ruler of Spaces.md",
-    "04 Important Figures/La Stella Mario.md",
-    "04 Important Figures/Guglielmo Marconi.md",
-    "04 Important Figures/Arrigo Petacco.md",
-    "04 Important Figures/Tommaso David.md",
-    "04 Important Figures/Roberto Pinotti.md",
-    "09 Organizations & Facilites/RS-33.md",
-    "11 Terms & Definitions/Die Glocke.md",
-    "Publishings/Papers/Orbit Determined Nation of Sunlit Illuminated Objects Detected by Overhead Platforms.md",
-    "04 Important Figures/Benito Mussolini.md",
-    "07 Gerbs UAP Videos/17 The 1953 Kingman UFO Crash.md",
-    "07 Gerbs UAP Videos/16 FASTWALKERS – UFOs Outside Earth.md",
-    "07 Gerbs UAP Videos/15 UFOs in the Private Sector - Lockheed Martin.md",
-    "07 Gerbs UAP Videos/14 UFOs in the Private Sector - Battelle Memorial Institute.md",
-    "07 Gerbs UAP Videos/13 Karl Nell & the SOL Foundation — A Key Figure in UAP Disclosure.md",
-    "11 Terms & Definitions/Technology of Unknown Origins.md",
-    "04 Important Figures/Michael Shellenberger.md",
+    "[[19 The 1933 Magenta, Italy UFO Crash.md",
+    "09 Organizations & Facilites/Regenwurmlager.md",
+    "04 Important Figures/Xavier Dorsch.md",
+    "04 Important Figures/Fritz Todt.md",
+    "09 Organizations & Facilites/Todt Organization.md",
+    "04 Important Figures/Robert S. Allen.md",
+    "Publishings/Books/Lucky Foreword The History of George Patton's Third US Army.md",
+    "07 Gerbs UAP Videos/Thumbnails/38-Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs-thumbnail.jpg",
     "04 Important Figures/Controversial",
     "07 Gerbs UAP Videos/18 images/HMNZS Southland Encounter Slide.png",
     "07 Gerbs UAP Videos/18 images/Minot Report Screengrab.png",
@@ -204,13 +220,11 @@
     "07 Gerbs UAP Videos/16 images/Grainy Fastwalker image.png",
     "07 Gerbs UAP Videos/16 images/238 SCANS - POSSIBLE SR.png",
     "07 Gerbs UAP Videos/16 images/The DSP Connection WBM Snapshot.png",
-    "07 Gerbs UAP Videos/16 images/Now You See It Now You Dont Harry Shields.png",
     "Publishings/Websites",
     "07 Gerbs UAP Videos/16 images",
     "Publishings/Papers",
     "Publishings/Books",
     "Publishings/Films",
-    "Publishings/Videos",
-    "Publishings/Articles"
+    "Publishings/Videos"
   ]
 }
