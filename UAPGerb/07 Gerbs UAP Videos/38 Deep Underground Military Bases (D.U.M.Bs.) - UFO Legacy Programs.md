@@ -156,40 +156,58 @@ https://www.youtube.com/watch?v=7Ats0lIy3Lo
 
 ## Transcript
 00;00;00;00 - 00;00;37;21
-Unknown
-When discussing UFO legacy programs, I aim to expose any clandestine black budget U.S. government military intelligence operation, partnering with defense contractors, federally funded research and development centers, and university affiliated research centers engaging with non-human technology. These programs seem to take many forms, including crash recovery of non-human vehicles, material exploitation of technologies of unknown origin, reverse engineering of anomalous craft, and construction of copycat vehicles, famously known as alien reproduction vehicles, are RVs.
+Gerb
+When discussing UFO [[Legacy Programs]], I aim to expose any clandestine black budget U.S. government military intelligence operation, partnering with [[Defense Contractor]]s, federally funded research and development centers, and university affiliated research centers engaging with non-human technology. 
+
+These programs seem to take many forms, including crash recovery of non-human vehicles, material exploitation of technologies of unknown origin, reverse engineering of anomalous craft, and construction of copycat vehicles, famously known as [[Alien Reproduction Vehicle]]s, or ARVs.
 
 00;00;37;28 - 00;01;11;25
-Unknown
-On this channel, we have discussed myriad major range and test facility bases and defense laboratories and centers where such programs are likely located. We have also discussed at length contractors, FFR, ADCs, and other sees that are alleged to operate alongside the CIA and NSA across Army, Navy and Air Force. UFO programs. When such clandestine and secretive operations to master non-human technology have led to, in David Grotius words, a multi-decade secret Cold War, where might these programs be located?
+Gerb
+On this channel, we have discussed myriad major range and test facility bases and defense laboratories and centers where such programs are likely located. 
+
+We have also discussed at length contractors, [[FFRDC]]s, and other sees that are alleged to operate alongside the CIA and NSA across Army, Navy and Air Force UFO programs. 
+
+When such clandestine and secretive operations to master non-human technology have led to, in [[David Grusch]]'s words, a multi-decade secret Cold War, where might these programs be located?
 
 00;01;11;26 - 00;01;40;10
-Unknown
-The logistics of maintaining secrecy and strict need to know access for unacknowledged special access programs focused on anomalous research, development, test and evaluation of non-human technologies, and storage of non-human craft and possibly biologics are likely tremendous. For this reason, we must look underground and evaluate the decades of rumors and testimonies of UFOs and deep underground military bases or domes.
+Gerb
+The logistics of maintaining secrecy and strict need to know access for unacknowledged special access programs focused on anomalous research, development, test and evaluation of non-human technologies, and storage of non-human craft and possibly biologics are likely tremendous. 
+
+For this reason, we must look underground and evaluate the decades of rumors and testimonies of UFOs and deep underground military bases or [[Deep Underground Military Bases|DUMB]]s.
 
 00;01;40;16 - 00;02;07;24
-Unknown
-Domes have served as a continuous focus of this channel, with recent discussion and direct investigation into Dugway Proving Ground. The United States premiere chemical and biological testing range, and its alleged 1300 square mile subterranean facility and remote entrance in the desert. For this investigation, we will be continuously referencing the work of Doctor Richard Sadr and his three masterpieces titled Underground Bases and Tunnels.
+Gerb
+[[Deep Underground Military Bases|D.U.M.B.]]s have served as a continuous focus of this channel, with recent discussion and direct investigation into Dugway Proving Ground. The United States premiere chemical and biological testing range, and its alleged 1,300 square mile subterranean facility and remote entrance in the desert. 
+For this investigation, we will be continuously referencing the work of Doctor [[Richard Sauder]] and his three masterpieces titled [[Under Ground Bases and Tunnels]].
 
 00;02;07;25 - 00;02;35;15
-Unknown
-What is the government trying to hide? Hidden in plain sight beyond the X-Files and underground and underwater bases? These three dense pieces give us keen context into subterranean bases in the form of stringent, fact based analysis through publicly available records, foyer documents, declassified documents and the occasional witness testimony. Deep underground military bases do indeed exist. This is fact, and we will explore this fact today.
+Gerb
+What is the government trying to hide? [[Hidden in Plain Sight Beyond the X-Files]] and [[Underground and Underwater Bases]]? These three dense pieces give us keen context into subterranean bases in the form of stringent, fact based analysis through publicly available records, FOIA documents, declassified documents and the occasional witness testimony. Deep underground military bases do indeed exist. This is fact, and we will explore this fact today.
 
 00;02;35;18 - 00;03;10;12
-Unknown
-But do these sites engage with UFO legacy programs, and if so, which DoD sites and what do they do? And could the decades of rumors regarding underground tunnels connecting these clan destined sites through an internal rail system possibly be true? Hey, guys, it's UAP. Gerben, thank you so very much for joining me today. As we embark into the world of the subterranean to investigate dumbs and UFOs, the subject of UFO legacy sites embedded into mountains with hidden hangars sequestered a mile beneath the Earth's surface or hidden anywhere out of the public.
+Gerb
+But do these sites engage with UFO [[Legacy Programs]], and if so, which DoD sites and what do they do? And could the decades of rumors regarding underground tunnels connecting these clandestine sites through an internal rail system possibly be true? 
+
+Hey, guys, it's UAP Gerb, thank you so very much for joining me today as we embark into the world of the subterranean to investigate [[Deep Underground Military Bases|DUMB]]s and UFOs, the subject of UFO legacy sites embedded into mountains with hidden hangars sequestered a mile beneath the Earth's surface or hidden anywhere out of the public and satellite view has long been a talking point of this channel and my investigations. 
 
 00;03;10;12 - 00;03;31;01
-Unknown
-And satellite view has long been a talking point of this channel and my investigations. Today we finally look below the Earth's surface to evaluate the existence, feasibility, and operations of UFO legacy programs and deep underground military bases.
+Gerb
+Today we finally look below the Earth's surface to evaluate the existence, feasibility, and operations of UFO legacy programs and deep underground military bases.
 
 00;03;31;03 - 00;04;00;23
-Unknown
-To borrow from the title of the first chapter of Doctor Richard Sadr's underground bases and tunnels, deep underground military bases are indeed real. Throughout this project, I will be interchangeably using the terms dumb and subterranean facility or stiff. The name said to me by multiple veterans who have traveled to such underground locations. And speaking of I should mention, I have spoken to nearly half a dozen former military personnel who have traveled to stiffs across the country.
+Gerb
+### Oh Yes, They're Real
+To borrow from the title of the first chapter of Doctor [[Richard Sauder]]'s underground bases and tunnels, deep underground military bases are indeed real. Throughout this project, I will be interchangeably using the terms [[Deep Underground Military Bases|DUMB]] and [[Subterranean Facility]] or[[Subterranean Facility|STF]]s. 
+
+The name said to me by multiple veterans who have traveled to such underground locations. And speaking of, I should mention, I have spoken to nearly half a dozen former military personnel who have traveled to STFs across the country.
 
 00;04;00;23 - 00;04;34;16
-Unknown
-I try to shy away from inserting firsthand source testimony and anecdotes into my videos, and let evidence and research speak for itself, so I will interject with these firsthand testimonies when and if necessary. In a 1989 speech titled Underground Facilities for Defense Experience and Lessons, Deputy Director of Engineering and Construction for the U.S. Army Corps of Engineers, Lloyd A Duca said, quote, After World War Two, political and economic factors changed the underground construction picture and caused a renewed interest to think underground.
+Gerb
+I try to shy away from inserting firsthand source testimony and anecdotes into my videos, and let evidence and research speak for itself, so I will interject with these firsthand testimonies when and if necessary. 
+
+In a 1989 speech titled Underground Facilities for Defense Experience and Lessons, Deputy Director of Engineering and Construction for the U.S. Army Corps of Engineers, [[Lloyd A Duca]] said, quote, 
+
+"After World War Two, political and economic factors changed the underground construction picture and caused a renewed interest to think underground.
 
 00;04;34;21 - 00;05;04;11
 Unknown
