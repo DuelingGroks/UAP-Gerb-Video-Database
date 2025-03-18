@@ -104,32 +104,39 @@ def download_subtitles(url, title, index):
     else:
         print(f"Subtitles downloaded as {output_template.split('.')[0]}.vtt")
 
+def process_url(url, index):
+    """Helper function to process a single URL."""
+    title = get_video_title(url)
+    if title:
+        download_audio(url, title, index)
+        download_metadata(url, title, index)
+        download_thumbnail(url, title, index)
+        download_subtitles(url, title, index)
+    else:
+        print(f"Skipping {url} due to title extraction error.")
+
 def main():
-    # Ensure a text file with URLs is provided
     if len(sys.argv) < 2:
-        print("Usage: python video_data_scrape.py <url_list.txt>")
+        print("Usage: python video_data_scrape.py <url_list.txt> or python video_data_scrape.py <single_url>")
         sys.exit(1)
 
-    url_list_file = sys.argv[1]
+    arg = sys.argv[1]
 
-    # Read URLs from the provided text file
-    try:
-        with open(url_list_file, 'r', encoding='utf-8') as f:
-            urls = [line.strip() for line in f if line.strip()]
-    except FileNotFoundError:
-        print(f"File not found: {url_list_file}")
-        sys.exit(1)
-
-    # Download audio, metadata, thumbnails, and subtitles for each URL
-    for index, url in enumerate(urls, start=1):
-        title = get_video_title(url)
-        if title:
-            download_audio(url, title, index)
-            download_metadata(url, title, index)
-            download_thumbnail(url, title, index)
-            download_subtitles(url, title, index)
-        else:
-            print(f"Skipping {url} due to title extraction error.")
+    # Simple check to see if the argument looks like a URL
+    url_pattern = re.compile(r'^(https?://|www\.)')
+    if url_pattern.match(arg):
+        # Treat it as a single URL
+        process_url(arg, 1)
+    else:
+        # Treat it as a file path
+        try:
+            with open(arg, 'r', encoding='utf-8') as f:
+                urls = [line.strip() for line in f if line.strip()]
+            for index, url in enumerate(urls, start=1):
+                process_url(url, index)
+        except FileNotFoundError:
+            print(f"File not found: {arg}")
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()
