@@ -439,19 +439,29 @@ One such example here may be Groom Lake [[Area 51]], that was built in the 50s o
 00;23;51;15 - 00;24;28;14
 Gerb
 ### DUMBs & UFOs
-DUMBs are not a new subject to the study of UFOs or my channel. I myself have talked a tremendous amount of the alleged past. Defense Advanced Research Center, a ten story underground location built under area 51, relayed by USAF Master Sergeant Edgar Fu Shea, that dealt with alien reproduction vehicles, including the TR3. B I have also spoken on the enigmatic Northrop taken Lockheed Hillandale and McDonnell Douglas RCS facilities that have, since at least 1987, been accused by excellent researchers such as Bill Hamilton as housing UFO legacy programs.
+DUMBs are not a new subject to the study of UFOs or my channel. I myself have talked a tremendous amount of the alleged DARC [[Defense Advanced Research Center]], a ten story underground location built under Area 51, relayed by USAF Master Sergeant [[Edgar Fu Shea]], that dealt with alien reproduction vehicles, including the TR3-B. 
+
+I have also spoken on the enigmatic [[Northrop Tahon,]][[ Lockheed Hillandale]] and [[McDonnell Douglas RCS]] facilities that have, since at least 1987, been accused by excellent researchers such as [[Bill Hamilton]] as housing UFO legacy programs.
 
 00;24;28;14 - 00;25;03;20
-Unknown
-And don't worry, we will touch on these facilities in much more detail later. Quite recently, I've discussed the Dugway dumb as relayed by witness MPs and even provided images and details of the exact alleged entrance to the facility, which exists as an elevator shaft concealed by a tiny building in the middle of nowhere Dugway, near German village. As strange as that might seem, a 1991 paper issued by DARPA, the Defense Advanced Research Project Agency, and U.S. Army Missile Command, titled Development of Inspection and Detection Techniques for Hidden Cavities.
+Gerb
+And don't worry, we will touch on these facilities in much more detail later. 
+
+Quite recently, I've discussed the Dugway DUMB as relayed by witness M.S. and even provided images and details of the exact alleged entrance to the facility, which exists as an elevator shaft concealed by a tiny building in the middle of nowhere Dugway, near German village. 
+
+As strange as that might seem, a 1991 paper issued by DARPA, the Defense Advanced Research Project Agency, and U.S. Army Missile Command, titled [[Development of Inspection and Detection Techniques for Hidden Cavities]].
 
 00;25;03;22 - 00;25;53;12
-Unknown
-This document served to train field nuclear weapons inspectors to identify underground clandestine test complexes in developing nuclear nations. The report plainly states buildings of various size can provide cover for shafts or other openings to a secret underground cavity sound similar to Ms.. No. And lastly, I have relayed the testimony of Randy Anderson and the underground facility under the Naval Surface Warfare Center crane housing the alleged Offworld Technologies Division, the subject of underground UFO legacy programs, rose to prominence in 1989 with the claims of Bob Lazar and reverse engineering under site four, as well as the Dorsey Base fiasco, where, starting in 1979, Paul Benefits was fed disinformation of a joint human extraterrestrial base under Dorsey,
+Gerb
+This document served to train field nuclear weapons inspectors to identify underground clandestine test complexes in developing nuclear nations. The report plainly states buildings of various size can provide cover for shafts or other openings to a secret underground cavity sound similar to Ms.. No? 
+
+And lastly, I have relayed the testimony of [[Randy Anderson]] and the underground facility under the Naval Surface Warfare Center crane housing the alleged [[Offworld Technologies Division]], the subject of underground UFO legacy programs, rose to prominence in 1989 with the claims of [[Bob Lazar]] and reverse engineering under Site-4, as well as the Dorsey Base fiasco, where, starting in 1979, [[Paul Benefits]] was fed disinformation of a joint human extraterrestrial base under Dorsey, New Mexico.
 
 00;25;53;12 - 00;26;18;24
-Unknown
-New Mexico. Both S4 and Dorsey are worthy of further investigation. In fact, I believe S4 to be a very real location. But due to the controversy around these accounts, discussions of these sites will be largely omitted from today's discussions. The first true mention of Dumbs and UFOs I can find is from look magazine in an article titled is this the real Flying saucer dated 1955.
+Gerb
+Both S4 and Dorsey are worthy of further investigation. In fact, I believe S4 to be a very real location. But due to the controversy around these accounts, discussions of these sites will be largely omitted from today's discussions. 
+
+The first true mention of Dumbs and UFOs I can find is from look magazine in an article titled is this the real Flying saucer dated 1955.
 
 00;26;18;26 - 00;26;45;08
 Unknown
