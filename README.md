@@ -7,10 +7,6 @@
 - [About](#about)
 - [Script Usage](#script-usage)
 - [Roadmap](#roadmap)
-- [Key Topics](#key-topics)
-- [Notable Cases](#notable-cases)
-- [Whistleblowers](#whistleblowers)
-- [Government Secrecy & Reverse Engineering](#government-secrecy--reverse-engineering)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -97,38 +93,6 @@ Upload the AIGerbCorpus files into an AI of your choice's memory and ask it ques
 - [x] **Video 1-19:** Correct Transcript (Mostly Proper Nouns)
 - [x] **Video 38:** Partial Corrections
 - [ ] **Video 14–37:** Pending
-
----
-
-## 🔍 Key Topics
-- **UFO & UAP Incidents**: Detailed reports on sightings and encounters across the globe.
-- **Whistleblowers**: Testimonies from credible sources with first-hand knowledge.
-- **Government Secrecy**: Analysis of leaked documents and covert programs.
-- **Reverse Engineering**: Investigations into alleged back-engineering of non-human technology.
-- **USOs (Unidentified Submerged Objects)**: Incidents involving transmedium vehicles.
-
----
-
-## 📚 Notable Cases
-- **1933 Magenta, Italy UFO Crash**  
-  An early and controversial incident involving a crashed craft during the Fascist regime.  
-- **1947 Roswell Crash**  
-  The infamous case that ignited worldwide UFO interest.  
-- **1967 Malmstrom AFB Incident**  
-  A reported UFO disabling nuclear missiles at a U.S. Air Force base.
-
----
-
-## 🗣️ Whistleblowers
-- **David Grusch**: Allegations of black budget reverse-engineering programs.  
-- **Bob Lazar**: Claims of working on alien technology at S-4.  
-- **Robert Salas**: Testimony on UFOs deactivating nuclear ICBMs.  
-
----
-
-## 🏛 Government Secrecy & Reverse Engineering
-- **Wilson Davis Memo**: Analysis of alleged black budget programs.  
-- **MJ12 Documents**: Controversial documents suggesting a secret UFO oversight group.  
 
 ---
 
