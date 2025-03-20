@@ -264,125 +264,163 @@ Now onto the mentioned memorandum describing craft recovery to [[Tommaso David|D
 9. Charge all expenses related to this provision to cap 32. Title IX II, heading 30 2-2 of the order to the R Accademia de Italia. Written authorization from Chief of Staff Rs 33.
 
 Gerb
-And a couple thoughts here, guys. Points eight and nine sound like protocol. Almost identical to use of regulation 202 from 1953, which I talk about all the time, in which UFO sightings were delegated strictly to the Air Force or higher authorities while restricting cases to be shared with scientific bodies and Project Bluebook.
+And a couple thoughts here, guys. Points eight and nine sound like protocol almost identical to use of [[Regulation 200-2]] from 1953, which I talk about all the time, in which UFO sightings were delegated strictly to the Air Force or higher authorities while restricting cases to be shared with scientific bodies and [[Project Blue Book|Project Bluebook]].
 
 00;12;53;03 - 00;13;24;15
-Unknown
-And all of this operating protocol sounds extremely similar to the alleged MMX 12 or majestic 12. If you don't know what that is, it is basically the alleged crash, retrieval and reverse engineering group that operates with complete autonomy to investigate Nye within the US. SG. This is a really rough summary, as maybe I need to cover the MJ 12 docs, but the Rs 33 sounds like an Italian precursor to the US body that would arise in the late 40s early 50s.
+Gerb
+And all of this operating protocol sounds extremely similar to the alleged [[MJ-12 Documents|MJ-12]] or [[MJ12 Documents|Majestic 12]]. If you don't know what that is, it is basically the alleged crash, retrieval and reverse engineering group that operates with complete autonomy to investigate NHI within the USG. This is a really rough summary, as maybe I need to cover the MJ 12 docs, but the [[RS-33]] sounds like an Italian precursor to the US body that would arise in the late 40s early 50s.
 
 00;13;24;17 - 00;13;50;25
-Unknown
-So unlike the Stephanie telegrams and memorandums, I have no verifiable evidence here for craft storage. But according to the anonymous sender, Mr. X, the remains of the craft were stored in the shed of the Sia Marchetti Aeronautical Manufacturing Company. The trail here is incredibly confusing, as sometime during the 1943 year it is proposed the Nazis took control of the UFO and dissolved the Rs 33.
+Gerb
+### Craft Storage
+So unlike the [[Stephanie telegrams]] and memorandums, I have no verifiable evidence here for craft storage. But according to the anonymous sender, Mr. X, the remains of the craft were stored in the shed of the [[SIAI-Marchetti Aeronautical Manufacturing Company]]. The trail here is incredibly confusing, as sometime during the 1943 year it is proposed the Nazis took control of the UFO and dissolved the [[RS-33]].
 
 00;13;50;28 - 00;14;21;11
-Unknown
-A possible link here is a fire occurred in the CIA warehouse in his yacht on the 17th of March, 1943. The craft likely was then moved to Mussolini's enormous bunker under Mount Serrat, 27 miles north of Rome. At the time of its construction in 1937, the bunker was the largest in Europe, three miles long and 300ft underground. Rumor circulated the bunker was used to house military equipment, possibly a recovered energy craft.
+Gerb
+A possible link here is a fire occurred in the [[SIAI-Marchetti Aeronautical Manufacturing Company|SIAI]] warehouse in his yacht on the 17th of March, 1943. The craft likely was then moved to [[Benito Mussolini|Mussolini]]'s enormous bunker under Mount Serrate, 27 miles north of Rome. 
+
+At the time of its construction in 1937, the bunker was the largest in Europe, three miles long and 300ft underground. Rumor circulated the bunker was used to house military equipment, possibly a recovered NHI craft.
 
 00;14;21;13 - 00;14;41;21
-Unknown
-On the 8th of September 1943. The Germans executed Operation Oxi, disarming all Italian units and commandeering the bunker for the very act command for Southern Europe. More research needs to be done here to try to find a hard paper trail for the craft, but this is what we're working with for now.
+Gerb
+On the 8th of September 1943. The Germans executed[[ Operation Oxi?]], disarming all Italian units and commandeering the bunker for the Vermacht command for Southern Europe. More research needs to be done here to try to find a hard paper trail for the craft, but this is what we're working with for now.
 
 00;14;41;24 - 00;15;09;08
-Unknown
-An additional piece to this already complex puzzle was included by Mr. X two penalty. These included a series of handwritten notes. Additionally bearing the seal of the Kingdom Senate, describing a UFO encounter titled mystery. With these is a 1936 Tiffany telegram about Westray, stating quote, absolute secrecy is required about unidentified aircraft mentioned in the 2347 confidential report. A letter will follow.
+Gerb
+### Italian UFO Reporters
+An additional piece to this already complex puzzle was included by [[Mr. X]] to [[Roberto Pinotti|Pinotti]]. These included a series of handwritten notes. Additionally bearing the seal of the Kingdom Senate, describing a UFO encounter titled [[Mestre?]]. 
 
+With these is a 1936 Tiffany telegram about [[Mestre?]], stating quote, absolute secrecy is required about unidentified aircraft mentioned in the 23-47 confidential report. A letter will follow.
+![[Mr X to Pinotti Notes.png]]
 00;15;09;10 - 00;15;32;25
-Unknown
-Okay, and on to our letter. We see a curious drawing of a cigar shaped UFO with what appears to be an exhaust tail, not too dissimilar to a rocket engine, followed by two saucers with domes like ping pong balls on top. I'm immediately reminded of the flying saucer, as described by Lieutenant Jacobs and the 1948 Chili's witted encounter.
+Gerb
+Okay, and on to our letter. We see a curious drawing of a cigar shaped UFO with what appears to be an exhaust tail, not too dissimilar to a rocket engine, followed by two saucers with domes like ping pong balls on top. I'm immediately reminded of the flying saucer, as described by Lieutenant [[Robert Jacobs|Jacobs]] and the [[1948 Chili's witted encounter]].
 
 00;15;32;28 - 00;16;02;03
-Unknown
-In this UFO encounter, two American commercial pilots reported their aircraft nearly collided with a UFO over Montgomery, Alabama. The UFO, quote, looked like a wingless aircraft. It seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare. Comically, Guys Bluebook described this case as a meteor. Any who the text on this scribbled, handwritten note was thankfully transcribed by the Black Vault.
+Gerb
+In this UFO encounter, two American commercial pilots reported their aircraft nearly collided with a UFO over Montgomery, Alabama. 
 
-00;16;02;05 - 00;16;29;09
-Unknown
-This reads quote. It was observed in the morning. It was a metallic disk, polished and reflecting light, with a length of 10 or 12m. Two fighter aircraft from a nearby air force base took off, but were not able to reach it, even traveling at 130km/h. It did not admit any sound, which would lead one to consider an aerostat a balloon, but nobody knows of balloons that can fly faster than the wind.
+The UFO, quote, 'looked like a wingless aircraft. It seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare.' Comically, Guys Bluebook described this case as a meteor. Anywho, the text on this scribbled, handwritten note was thankfully transcribed by the Black Vault.
 
-00;16;29;11 - 00;17;01;12
-Unknown
+00;16;02;05 - 00;17;01;12
+Gerb
+This reads quote. 
+It was observed in the morning. It was a metallic disk, polished and reflecting light, with a length of 10 or 12 meters. Two fighter aircraft from a nearby air force base took off, but were not able to reach it, even traveling at 130km/h. It did not admit any sound, which would lead one to consider an aerostat, a balloon, but nobody knows of balloons that can fly faster than the wind.
+
 I know for sure that it was seen by other pilots. The report arrived in the hands of illegible. Then, after approximately an hour and a half of flying over yesterday, it was seen as a sort of metallic tube, gray or slate in color. A drawing by a confidential informant was redrawn by Andre, who, as far as the two A and B drawings are concerned, explained that A was described as being like a kind of aerial torpedo with very clear windows and with alternating white and red lights.
 
 00;17;01;14 - 00;17;31;22
-Unknown
-B were two hats, two hats like those used by priests. They were wide round, with a dome in the center metallic, and followed the torpedo without changing their relative positions. The prefecture has opened an inquiry, but you can imagine that it will make little inroads and have a similar outcome to that of the 1931 case. The Dutch has expressed his worries because he says that if it were an English or French aircraft, his foreign policy would have to start all over again.
+Gerb
+B were two hats, two hats like those used by priests. They were wide round, with a dome in the center metallic, and followed the torpedo without changing their relative positions. The prefecture has opened an inquiry, but you can imagine that it will make little inroads and have a similar outcome to that of the 1931 case. The Dutche has expressed his worries because he says that if it were an English or French aircraft, his foreign policy would have to start all over again.
 
 00;17;31;25 - 00;18;08;02
-Unknown
-And Italy wasn't just monitoring its own skies at this time. Here we can see from the archives of the prefecture in Milan, copies of telegrams from the prefects of the Kingdom of Italy to the government between 1933 and 1938, mentioning reports of, quote, unconventional flying vehicles and show the official attention of the Italian authorities to the problem. This telegram, signed by Prefect Martinelli, mentions the presence of unknown flying vehicles over the Luna in Albania, a country under Italian control.
+Gerb
+And Italy wasn't just monitoring its own skies at this time. Here we can see from the archives of the prefecture in Milan, copies of telegrams from the prefects of the Kingdom of Italy to the government between 1933 and 1938, mentioning reports of, quote, unconventional flying vehicles and show the official attention of the Italian authorities to the problem. 
 
+This telegram, signed by [[Prefect Martinelli]], mentions the presence of unknown flying vehicles over the Luna in Albania, a country under Italian control.
+![[Telegram Kingdom of Italy.png]]
 00;18;08;05 - 00;18;32;09
-Unknown
-Of course, every single thing I talked about would be void if the documents were fake, right? Well, fortunately, Pannone took a skeptical approach when he was first contacted by Mr. X. He had the documents tested by a forensic expert, who said the paper and ink was from the period of the 1930s. Additionally, scientific consultant Antonio Garcia Vogler shared with Daily Mail, quote.
+Gerb
+### Document Authenticity
+Of course, every single thing I talked about would be void if the documents were fake, right? 
+
+Well, fortunately, [[Roberto Pinotti|Pinotti]] took a skeptical approach when he was first contacted by [[Mr. X]]. He had the documents tested by a forensic expert, who said the paper and ink was from the period of the 1930s. 
+
+Additionally, scientific consultant [[Antonio Garcia Vogler]] shared with Daily Mail, quote.
 
 00;18;32;10 - 00;19;01;15
-Unknown
-It can be stated with reasonable certainty that this sample examined and the subject of the appraisal can be considered original and therefore authentic. Additionally, Italian Reddit user lo lab 5185 was able to lend his hand to the legitimacy of these documents by not only commenting on the writing style matching the Futurism era of fascist communication style, but also provided two examples of official telegram templates used by Italian authorities in the 1930s.
+Gerb
+> "It can be stated with reasonable certainty that this sample examined and the subject of the appraisal can be considered original and therefore authentic." 
+
+Additionally, Italian Reddit user [[lolab5185]] was able to lend his hand to the legitimacy of these documents by not only commenting on the writing style matching the Futurism era of fascist communication style, but also provided two examples of official telegram templates used by Italian authorities in the 1930s.
 
 00;19;01;16 - 00;19;06;22
-Unknown
+Gerb
 See the resemblance here.
 
 00;19;06;25 - 00;19;30;12
-Unknown
-Remember how in both the telegrams and the Rs 33 protocol, mention was made of labeling the craft's landing a meteor or other meteorological phenomena as directed by the agency's Stephanie. We'll check this out. We can actually find direct reporting of this disinformation from our telegram and testimony. We can conclude the crash or landing occurred on the 13th of June, 1933.
+Gerb
+### Stefani Disinformation
+Remember how in both the telegrams and the [[RS-33]] protocol, mention was made of labeling the craft's landing a meteor or other meteorological phenomena as directed by the [[Agenzia Stefani]]. 
+
+We'll check this out. We can actually find direct reporting of this disinformation. From our telegram and testimony. We can conclude the crash or landing occurred on the 13th of June, 1933.
 
 00;19;30;15 - 00;19;51;11
-Unknown
-From later that same month. We can find newspapers and magazines that report on inclement weather occurring in the magenta area, severe lightning storms and hail storms that illuminated the night sky, such as this paper from the 22nd of June, which reported the week prior a lightning strike that illuminated the night sky and struck five brick layers on the TriStar Magenta Road.
+Gerb
+From later that same month. We can find newspapers and magazines that report on inclement weather occurring in the Magenta area, severe lightning storms and hail storms that illuminated the night sky, such as this paper from the 22nd of June, which reported the week prior a lightning strike that illuminated the night sky and struck five brick layers on the TriSette Magenta Road.
 
 00;19;51;13 - 00;19;58;09
 Unknown
 Now on screen is a magazine illustration depicting the event.
 
 00;19;58;12 - 00;20;28;23
-Unknown
-I unfortunately don't have much to go on for the magenta case connection to the Vatican and Pope Pius the 12th. We will have to go off the word of David Grush and reporting done by Christopher Sharp, predating Grush in his 2021 article. All UFO disclosure roads lead to Rome. Sharp writes about how initial relationships between Mussolini and the Catholic priesthood were quite good, and how the duchy confided with Pope Pius the 12th about the retrieved unknown craft.
+Gerb
+### Vatican Connection
+I unfortunately don't have much to go on for the Magenta case connection to the [[Vatican]] and [[Pope Pius the 12th]]. We will have to go off the word of [[David Grusch]] and reporting done by [[Christopher Sharp]], predating Grush in his 2021 article. 
+
+[[All UFO disclosure roads lead to Rome]]. [[Christopher Sharp|Sharp]] writes about how initial relationships between [[Benito Mussolini|Mussolini]] and the Catholic priesthood were quite good, and how the Duche confided with Pope Pius the 12th about the retrieved unknown craft.
 
 00;20;28;25 - 00;20;51;26
-Unknown
-The Pope allegedly became uneasy about the craft being in Italian possession as Italy allied with the Nazis, thus leaking information to the U.S. about the craft. Due to the Pope's information, the facility which housed the craft was spared from Allied bombing. This curiously does in fact line up with the bunker charade we spoke about earlier. After the war or the end of 1944.
+Gerb
+The Pope allegedly became uneasy about the craft being in Italian possession as Italy allied with the Nazis, thus leaking information to the U.S. about the craft. 
+
+Due to the Pope's information, the facility which housed the craft was spared from Allied bombing. This curiously does in fact line up with the bunker charade we spoke about earlier. After the war or the end of 1944.
 
 00;20;51;29 - 00;21;11;28
-Unknown
-The craft was brought to the U.S. of course, this is all based on reporting, and I do not have a paper trail. But Christopher Sharp is a well-respected journalist within the UAP realm. As we stand, we can prove the authenticity of the documents. But not yet. These anecdotal accounts.
+Gerb
+The craft was brought to the U.S. of course, this is all based on reporting, and I do not have a paper trail. But Christopher Sharp is a well-respected journalist within the UAP realm. As we stand, we can prove the authenticity of the documents, but not yet, these anecdotal accounts.
 
-00;21;12;00 - 00;21;45;24
-Unknown
-And lastly, my friends, as we opened with a powerful statement by David Grush, I would like to leave you with an additionally powerful statement by Lou Elizondo. And it gave a few hints before, but Roswell may not have been the first event. And well known. I mean, there's been some, some, some reporting internationally as well that there have been some, some crashed vehicles and they were, they were obtained by local authorities and, there was some, some scientific study done on them.
+00;21;12;00 - 00;22;14;24
+Gerb
+### Lou Elizondo
+And lastly, my friends, as we opened with a powerful statement by [[David Grusch]], I would like to leave you with an additionally powerful statement by Lou Elizondo. 
 
-00;21;45;26 - 00;22;14;24
-Unknown
-I want to be very careful not to go too far down the rabbit hole, but I've seen personally some documentation that's very compelling from, from a particular foreign country, where they had a recovery of, of a vehicle and, they had some, some countries conducting scientific analysis on it. And, after World War II to, allegedly, parts of that that vehicle were brought to the United States.
+> [[Luis Elizondo|Lou Elizondo]]: "And it gave a few hints before, but Roswell may not have been the first event. And well known. I mean, there's been some, some, some reporting internationally as well that there have been some, some crashed vehicles and they were, they were obtained by local authorities and, there was some, some scientific study done on 'em.
+> 
+> I want to be very careful not to go too far down the rabbit hole, but I've seen personally some documentation that's very compelling from, from a particular foreign country, where they had a recovery of, of a vehicle and, they had some, some countries conducting scientific analysis on it. And, after World War II to, allegedly, parts of that that vehicle were brought to the United States."
 
-00;22;14;27 - 00;22;47;23
+00;22;14;27 - 00;23;12;10
 Unknown
-Yeah. I think I know both country that was enlisted in the South American country. I think, maybe Brazil, you know, had them I want to I Argentina, I'm not sure I well, I think it's Little Italy. Yeah, it was Italy. Yeah. That, as it was, explained to me, I saw some documentation. Look, you know, I, I don't want to get too much into the, you know, conspiracy side of the house.
+[[Max Moszkowicz]]: Yeah. I think I know both country that was enlisted in the South American country. I think, maybe Brazil, you know, had them I want to I Argentina, I'm not sure I well, I think it's Little Italy. Yeah, 
+[[Luis Elizondo|Lou Elizondo]]: "it was Italy."
+[[Luis Elizondo|Lou Elizondo]]: "Yeah. That, as it was, explained to me, I saw some documentation. Look, you know, I, I don't want to get too much into the, you know, conspiracy side of the house. There is some documentation that has been validated. That was, that was from Mussolini himself. And, it's, it's, you know, it's it's authentic. It's been proven to be authentic. The documentation, so certainly interesting."
 
-00;22;47;25 - 00;23;12;10
-Unknown
-There is some documentation that has been validated. That was, that was from Mussolini himself. And, it's, it's, you know, it's it's authentic. It's been proven to be authentic. The documentation, so certainly interesting. Hey, guys, thank you so much for joining me today as we took this dive into the 1933 magenta, Italy case.
+Gerb
+Hey, guys, thank you so much for joining me today as we took this dive into the 1933 magenta, Italy case.
 
 00;23;12;12 - 00;23;30;09
-Unknown
-Sorry for a little bit of time away. Had some family in town for their spring break, but now that that's done, we're back in action. Personally, I find this case scintillating. It's the Roswell before Roswell. There's a rich paper trail here, as shown by Pinot. So this is the kind of case I love, where we have documents we can dive into.
+Gerb
+Sorry for a little bit of time away. Had some family in town for their spring break, but now that that's done, we're back in action. 
+
+Personally, I find this case scintillating. It's the Roswell before Roswell. There's a rich paper trail here, as shown by [[Roberto Pinotti|Pinotti]]. So this is the kind of case I love, where we have documents we can dive into.
 
 00;23;30;14 - 00;23;52;27
-Unknown
-We can cross-reference. We can see what's going on with legitimate documentation. So I remember when Grush first went public with his News Nation interview and he referenced this case. I was gobsmacked, shocked as Ross cold heart would like to say. And immediately I dove into learning more and as much as I could about the magenta case. I find this case particularly compelling.
+Gerb
+We can cross-reference. We can see what's going on with legitimate documentation. 
+
+So I remember when Grusch first went public with his News Nation interview and he referenced this case. I was gobsmacked, shocked as [[Ross Coulthart]] would like to say. And immediately I dove into learning more and as much as I could about the magenta case. 
+
+I find this case particularly compelling.
 
 00;23;53;00 - 00;24;23;02
-Unknown
-Especially the idea that Benito Mussolini, who wasn't the sharpest tool in the shed, thought this was a craft of of British or German or French origin. And I find the, description of de Klerk particularly interesting, this kind of bell shaped saucer type UFO. I know there were some details added later on by one, I think William Brophy or William Brophy, his grandson, who claimed that there were bodies uncovered, as we can see in the original documentation, we find no evidence of bodies.
+Gerb
+Especially the idea that [[Benito Mussolini]], who wasn't the sharpest tool in the shed, thought this was a craft of of British or German or French origin. And I find the, description of [[Die Glocke]] particularly interesting, this kind of bell shaped saucer type UFO. 
+
+I know there were some details added later on by one, I think William Brophy or William Brophy's grandson, who claimed that there were bodies uncovered, as we can see in the original documentation, we find no evidence of bodies.
 
 00;24;23;02 - 00;24;46;21
-Unknown
-So of course, I don't want to include those when I don't have any sort of hard evidence. Not sure about his claims. I think this man was involved in some other hoaxes, but, I purposefully did not include that in today's video. And if you guys are interested, I will talk to the gentleman who has done countless hours of work into finding the connection process as to how the U.S. retrieved the craft.
+Gerb
+So of course, I don't want to include those when I don't have any sort of hard evidence. Not sure about his claims. I think this man was involved in some other hoaxes, but, I purposefully did not include that in today's video. 
+
+And if you guys are interested, I will talk to the gentleman who has done countless hours of work into finding the connection process as to how the U.S. retrieved the craft.
 
 00;24;46;23 - 00;25;04;23
-Unknown
+Gerb
 I did not cover this because I could not talk about this without basically copying his work. That would undermine my credibility and undermine the dozens, if not hundreds of hours he has put into pouring through documents. So that's just not how I roll. I respect the man completely, but I would love to cover that if I can get him on the show.
 
 00;25;04;25 - 00;25;21;03
-Unknown
-As always guys, please remember to like and subscribe. This has been a particularly active week in UFOs with the Aero Report and the Dean Johnson FOIA request, so we have a lot to cover coming up guys. Hope you enjoyed this video and I will catch everybody next time. Thank you.
+Gerb
+As always guys, please remember to like and subscribe. 
+
+This has been a particularly active week in UFOs with the AARO Report and the Dean Johnson FOIA request, so we have a lot to cover coming up guys. Hope you enjoyed this video and I will catch everybody next time. Thank you.
 

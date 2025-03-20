@@ -4,23 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a354ad71abbe7e6d",
+        "id": "630ba67e24d91f11",
         "type": "tabs",
         "children": [
           {
-            "id": "42d9e04c247350e3",
+            "id": "47ce4fc0721c5cd3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dash/UAP Hypotheses Proposed Taxonomy.canvas",
-                "viewState": {
-                  "x": -1119.4690265486724,
-                  "y": 16.61027910142957,
-                  "zoom": -2.0381607484842106
-                }
+                "file": "UAP Hypotheses Proposed Taxonomy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "UAP Hypotheses Proposed Taxonomy"
             }
           }
@@ -172,12 +169,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42d9e04c247350e3",
+  "active": "47ce4fc0721c5cd3",
   "lastOpenFiles": [
+    "07 Gerbs UAP Videos/20 Michael Herrera UFO Whistleblower (ft Joeyisnotmyname).md",
+    "07 Gerbs UAP Videos/19 The 1933 Magenta, Italy UFO Crash.md",
+    "04 Important Figures/Christopher Sharp.md",
+    "07 Gerbs UAP Videos/19 images/Telegram Kingdom of Italy.png",
+    "04 Important Figures/Whistleblowers/Robert Jacobs.md",
+    "07 Gerbs UAP Videos/19 images",
+    "07 Gerbs UAP Videos/19 images/Mr X to Pinotti Notes.png",
+    "09 Organizations & Facilites/SIAI-Marchetti Aeronautical Manufacturing Company.md",
+    "10 Evidence/MJ12 Documents.md",
+    "MJ-12 Documents.md",
+    "MJ-12.md",
+    "Dash/UAP Hypotheses Proposed Taxonomy.canvas",
     "UAP Hypotheses Proposed Taxonomy.md",
     "AARO_Testimonies.md",
     "07 Gerbs UAP Videos/38 Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md",
-    "Dash/UAP Hypotheses Proposed Taxonomy.canvas",
     "UAP Gerb Research Project Overview.md",
     "Dash/UAP Taxonomy Hypotheses.jpeg",
     "Dash/KarlNellBackground.jpg",
@@ -200,14 +208,6 @@
     "09 Organizations & Facilites/Project RAND.md",
     "09 Organizations & Facilites/RAND Corporation.md",
     "09 Organizations & Facilites/Army Ballistic Missile Agency.md",
-    "Publishings/Books/The Two Lives of Hans Kammler.md",
-    "04 Important Figures/Dean Reuter.md",
-    "04 Important Figures/Hans Kammler.md",
-    "07 Gerbs UAP Videos/19 The 1933 Magenta, Italy UFO Crash.md",
-    "[[19 The 1933 Magenta, Italy UFO Crash.md",
-    "09 Organizations & Facilites/Regenwurmlager.md",
-    "04 Important Figures/Xavier Dorsch.md",
-    "04 Important Figures/Fritz Todt.md",
     "07 Gerbs UAP Videos/Thumbnails/38-Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs-thumbnail.jpg",
     "04 Important Figures/Controversial",
     "07 Gerbs UAP Videos/18 images/HMNZS Southland Encounter Slide.png",
@@ -215,11 +215,8 @@
     "07 Gerbs UAP Videos/18 images",
     "07 Gerbs UAP Videos/18 images/Kevin Knuth Sol Foundation UFO Images Slide.png",
     "07 Gerbs UAP Videos/17 images",
-    "07 Gerbs UAP Video Analyses/Report Summary.png",
-    "07 Gerbs UAP Videos/16 images/Report Summary.png",
     "Publishings/Websites",
     "07 Gerbs UAP Videos/16 images",
-    "Publishings/Papers",
-    "Publishings/Books"
+    "Publishings/Papers"
   ]
 }

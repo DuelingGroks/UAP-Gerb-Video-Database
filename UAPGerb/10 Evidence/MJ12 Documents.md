@@ -1,6 +1,8 @@
 ---
 aliases:
   - Majestic 12 Documents
+  - MJ-12
+  - Majestic 12
 ---
 
 

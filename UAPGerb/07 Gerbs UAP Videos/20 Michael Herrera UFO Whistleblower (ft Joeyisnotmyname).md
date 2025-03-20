@@ -1,17 +1,23 @@
-![[20-Michael Herrera UFO Whistleblower (ft. Joeyisnotmyname)-thumbnail.jpg]]
-## aliases: ["Video 20: [[Michael Herrera UFO Whistleblower]]"]
+---
+aliases:
+  - Michael Herrera Video
+---
 
-## tags: #UAPVideos #UFOWhistleblower #MichaelHerrera
+![[20-Michael Herrera UFO Whistleblower (ft. Joeyisnotmyname)-thumbnail.jpg]]
+
+
+tags: #UAPVideos #UFOWhistleblower #MichaelHerrera
 
 **Video Published:** 2024-03-28  
 **Video Link:** [YouTube – Michael Herrera UFO Whistleblower](https://www.youtube.com/watch?v=6DyTfIV87Ck)  
+
 **Approx. Length:** ~54 minutes
 
 ---
 
 ## 📌 Overview
 
-This video explores the **claims of [[Michael Herrera]]**, a former USMC member, who alleges encountering a **300-foot-long, octagonal UFO** in Indonesia. The discussion features **Joeyisnotmyname**, an independent researcher who has investigated Herrera’s case, corroborating aspects of his account. The video delves into Herrera’s **secret meeting with an alleged black project insider**, AARO’s validation of his testimony, and the broader implications of his story.
+This video explores the **claims of [[Michael Herrera]]**, a former USMC member, who alleges encountering a **300-foot-long, octagonal UFO** in Indonesia. The discussion features [[Joeyisnotmyname]], an independent researcher who has investigated Herrera’s case, corroborating aspects of his account. The video delves into Herrera’s **secret meeting with an alleged black project insider**, AARO’s validation of his testimony, and the broader implications of his story.
 
 Topics covered:
 
