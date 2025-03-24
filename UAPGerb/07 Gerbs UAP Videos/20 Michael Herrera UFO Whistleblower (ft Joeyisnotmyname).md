@@ -17,7 +17,7 @@ tags: #UAPVideos #UFOWhistleblower #MichaelHerrera
 
 ## 📌 Overview
 
-This video explores the **claims of [[Michael Herrera]]**, a former USMC member, who alleges encountering a **300-foot-long, octagonal UFO** in Indonesia. The discussion features [[Joeyisnotmyname]], an independent researcher who has investigated Herrera’s case, corroborating aspects of his account. The video delves into Herrera’s **secret meeting with an alleged black project insider**, AARO’s validation of his testimony, and the broader implications of his story.
+This video explores the **claims of [[Michael Herrera]]**, a former USMC member, who alleges encountering a **300-foot-long, octagonal UFO** in Indonesia. The discussion features [[joeyisnotmyname]], an independent researcher who has investigated Herrera’s case, corroborating aspects of his account. The video delves into Herrera’s **secret meeting with an alleged black project insider**, AARO’s validation of his testimony, and the broader implications of his story.
 
 Topics covered:
 
@@ -99,197 +99,235 @@ Topics covered:
 - **Insider’s Alleged Leaks to Herrera**: [Reddit](https://www.reddit.com/r/wecomeinpeace/comments/17hoaqv/leaks_provided_to_michael_herrera_by_black/)
 
 ## Transcript
-00;00;00;00 - 00;00;18;18
+00;00;00;00 - 00;01;03;29
 Unknown
-Was something that stuck out so well. It's always going to be basically in prison in my mind for the rest of my life. And it has been for 14 years. You look down into into the Valley. Yep. And there's a clearing. There's a clearing with a UAP. Yes. Just sitting there. Sitting there, rotating clockwise. Yeah. And that's in transition.
+[[Michael Herrera]]: "Was something that stuck out so well. It's always going to be basically in prison in my mind for the rest of my life. And it has been for 14 years. 
+[[Shawn Ryan]]:You look down into into the Valley. 
+[[Michael Herrera]]: "Yep."
+[[Shawn Ryan]]: And there's a clearing. 
+[[Michael Herrera]]: "There's a clearing"
+[[Shawn Ryan]]: with a UAP. 
+[[Michael Herrera]]: "Yes." 
+[[Shawn Ryan]]: "Just sitting there."
+[[Michael Herrera]]: "Sitting there, rotating clockwise. Yeah. And that's in transition. This color spectrum I was telling you to."
 
-00;00;18;18 - 00;00;38;17
-Unknown
-This color spectrum I was telling you to. So as far as from a distance, yes. That looks very accurate to what I saw. Rogue military force if you will. The most concerning thing about this is they all had American dialects. They had American gear, they had TVs black, they had black camouflage. They had very similar setups to what we have, but more high speed.
+[[Michael Herrera]]: "So as far as from a distance, yes. That looks very accurate to what I saw." 
 
-00;00;38;17 - 00;01;03;29
-Unknown
-Something what you would see special operation operation groups these days have they had no insignias on. And that's what I thought it was it, I thought they were going to smoke us, you know. And they kept saying that, you know, we can kill you right now, you know, as, as this is at the start of the year, I made a video titled The Marines Who Got Too Close to UFOs, where I talked about two whistleblower testimonies of men who encountered UAP throughout their military service in the USMC.
+[[Michael Herrera]]: "Rogue military force if you will. The most concerning thing about this is they all had American dialects. They had American gear, they had OTVs black, they had black camouflage. They had very similar setups to what we have, but more high speed."
+
+[[Michael Herrera]]: "Something what you would see special operation operation groups these days have they had no insignias on."
+
+[[Michael Herrera]]: "And that's what I thought it was it, I thought they were going to smoke us, you know. And they kept saying that, you know, we can kill you right now, you know, as, as this is..."
+
+Gerb
+At the start of the year, I made a video titled [[04 The Marines Who Got Too Close to UFOs|The Marines Who Got Too Close to UFOs]], where I talked about two whistleblower testimonies of men who encountered UAP throughout their military service in the USMC.
 
 00;01;04;01 - 00;01;33;22
-Unknown
-And this included Jonathan Wiegand and, of course, Michael Herrera. And guys, I'll admit my biases. While I was really supportive of Jonathan Wigand and found his story to be credible, I was really dismissive of Herrera. Now for Michael Herrera, I'm torn on his story. I just I'm not sure about that. This all changed when Redditor and now my good friend Joey is not My name, reached out to me and asked if I was the creator of this video.
+Gerb
+And this included [[Jonathan Waygandt]] and, of course, [[Michael Herrera]]. And guys, I'll admit my biases. While I was really supportive of Jonathan Waygandt and found his story to be credible, I was really dismissive of Herrera. 
+
+Now for Michael Herrera, I'm torn on his story. I just I'm not sure about that. 
+
+This all changed when Redditor and now my good friend [[joeyisnotmyname]], reached out to me and asked if I was the creator of this video.
 
 00;01;33;25 - 00;01;51;20
-Unknown
-Joey told me that he had been investigating Michael deeply, and that he and him had actually established a relationship and talked weekly. I even left a paper trail with certain people, including Joey is not My name, and there's been a person who has helped with that. Joey, that's not my name. You. If you're watching this, thank you for your help.
+Gerb
+Joey told me that he had been investigating Michael deeply, and that he and him had actually established a relationship and talked weekly. 
+
+[[Michael Herrera]]: "I even left a paper trail with certain people, including Joey is not My name, and there's been a person who has helped with that. Joey, that's not my name. You. If you're watching this, thank you for your help."
 
 00;01;51;20 - 00;02;16;17
-Unknown
-As more of a person, you know, who has a broad attention to detail on a lot of things, which is remarkable is Reddit handle is Joey is not my name. And finally, he told me that he had enough evidence to attest to the fact that Michael met a man, an insider, in the black reverse engineering program. This brief exchange messages led to a fast friendship between Joey and myself.
+
+[[Michael Herrera]]: As more of a person, you know, who has a broad attention to detail on a lot of things, which is remarkable is Reddit handle is [[joeyisnotmyname]]. And finally, he told me that he had enough evidence to attest to the fact that Michael met a man, an insider, in the black reverse engineering program. This brief exchange messages led to a fast friendship between Joey and myself.
 
 00;02;16;20 - 00;02;51;25
-Unknown
-And for months, actually, he and I have been talking every day, messaging, video calls and phone calls discussing Michael's case. And throughout this time, he has shown me some of the astonishing evidence to both support Michael's claims of his experience in Indonesia and his experience meeting an insider in the black reverse engineering programs. So today, guys, I am thrilled to tell you that I actually have my good friend Joey is not my name on the show to talk about his experience investigating Herrera's case and discuss some of the evidence he's actually found to corroborate Michael.
+Gerb
+And for months, actually, he and I have been talking every day, messaging, video calls and phone calls discussing Michael's case. And throughout this time, he has shown me some of the astonishing evidence to both support Michael's claims of his experience in Indonesia and his experience meeting an insider in the black reverse engineering programs. 
+
+So today, guys, I am thrilled to tell you that I actually have my good friend Joey is not my name on the show to talk about his experience investigating Herrera's case and discuss some of the evidence he's actually found to corroborate Michael.
 
 00;02;51;27 - 00;03;18;07
-Unknown
-If you've never heard of Michael Herrera, I'd be shocked, especially after so much renewed interest in his encounter after being all but named in the abominable Nation. That is the Arrow Historical Report, volume one. But for those of you who don't know or may need a quick refresher, let's briefly summarize Michael's UFO whistleblower encounter. And guys, please note as I talk about Michael's testimony, I will be recounting it as fact, as told by Michael.
+Gerb
+If you've never heard of Michael Herrera, I'd be shocked, especially after so much renewed interest in his encounter after being all but named in the abomination that is the [[AARO Historical Report]], volume one. But for those of you who don't know or may need a quick refresher, let's briefly summarize Michael's UFO whistleblower encounter. And guys, please note as I talk about Michael's testimony, I will be recounting it as fact, as told by Michael.
 
 00;03;18;09 - 00;03;46;22
-Unknown
-The reality is, there is still no way we can prove with evidence that Michael encountered this UFO in the jungles of Indonesia. But we can prove with facts some of the context around Michael's story, such as the military mission in Indonesia and the relief effort by the USAF and Marines in the summer of 2023. Stephen Greer's National Press Club event featured an array of whistleblower individuals ranging from credible to somewhat dubious.
+Gerb
+The reality is, there is still no way we can prove with evidence that Michael encountered this UFO in the jungles of Indonesia. But we can prove with facts some of the context around Michael's story, such as the military mission in Indonesia and the relief effort by the USAF and Marines. 
+
+In the summer of 2023. Stephen Greer's National Press Club event featured an array of whistleblower individuals ranging from credible to somewhat dubious.
 
 00;03;46;25 - 00;04;12;27
-Unknown
-One of these men was a USMC vet who seemed emboldened to break his 14 year silence, yet nervous to reveal himself to the public. It was here Michael Herrera first told his story to the world in 2009. Second Battalion, fifth Marine Michael Herrera, at this time a 20 year old Saul Gunner, was called into Indonesia for a human relief aid mission after the devastating Sumatra earthquake and tsunami.
+Gerb
+One of these men was a USMC vet who seemed emboldened to break his 14 year silence, yet nervous to reveal himself to the public. It was here Michael Herrera first told his story to the world in 2009, Second Battalion, fifth Marine [[Michael Herrera]], at this time a 20 year old Saul Gunner, was called into Indonesia for a human relief aid mission after the devastating Sumatra earthquake and tsunami.
 
 00;04;13;00 - 00;04;54;02
-Unknown
-Michael was stationed on the USS Denver, which is, oddly enough, the name of both of our hometowns. This was the only ship routed to the west coast of Indonesia from the US seventh fleet. In October of 2009, Pereira's unit was informed they would be providing security to aid in the delivery of food and medical supplies, and it's crucial to note, although humanitarian missions generally do not see soldiers equipped with weapons, the first Marines reportedly were, and in this case M-16, a force due to the heavy presence of terrorist training in the area, Herrera's team arrived near Pan from 53 helos at a hasty LZ, where the team pushed to a high ground for reconnaissance purposes.
+Gerb
+Michael was stationed on the USS Denver, which is, oddly enough, the name of both of our hometowns. This was the only ship routed to the west coast of Indonesia from the US seventh fleet. 
+
+In October of 2009, [[Michael Herrera|Herrera]]'s unit was informed they would be providing security to aid in the delivery of food and medical supplies, and it's crucial to note, although humanitarian missions generally do not see soldiers equipped with weapons, the first Marines reportedly were, and in this case M-16 A4s due to the heavy presence of terrorist training in the area, Herrera's team arrived near Pan from 53 helos at a hasty LZ, where the team pushed to a high ground for reconnaissance purposes.
 
 00;04;54;04 - 00;05;17;18
-Unknown
+Gerb
 And it's worth noting, and rightfully one of the biggest points of contention surrounding Michael's testimony. Herrera states his team was not equipped with radio comms, and Michael himself states this was highly abnormal. The team trekked up a ridge at an elevation of roughly 300m. Herrera had on him a Panasonic camera and was taking images of the surrounding area.
 
 00;05;17;20 - 00;05;45;11
-Unknown
-Once the Marines reached the high point of the ridge, something stuck out like a sore thumb and quote against the jungle terrain. There was a craft rotating just above the tree line, transitioning colors between a light Matt gray and a dark matte black. Perplexed, the team decided to approach and investigate, and it's key to note Michael did in fact take pictures of the craft with the camera he stored in his spent magazine pouch.
+Gerb
+Once the Marines reached the high point of the ridge, something stuck out like a sore thumb end quote against the jungle terrain. 
+
+There was a craft rotating just above the tree line, transitioning colors between a light matte gray and a dark matte black. Perplexed, the team decided to approach and investigate, and it's key to note Michael did in fact take pictures of the craft with the camera he stored in his spent magazine pouch.
 
 00;05;45;14 - 00;06;24;06
-Unknown
+Gerb
 Reaching down the slope. The USMC team was about 150m from the craft. It was from here Michael estimated the craft to be 300ft in diameter. It was octagonal in shape, rotating clockwise with Vantablack exterior panels and a pyramid type shape on top. The craft let off an audible hum, almost like a guitar amp.
 
 00;06;24;08 - 00;06;55;08
-Unknown
-The craft floated 15 to 20ft above the ground, surrounded by a, quote, rogue military force. What was astounding is these men featured a American dialect, American gear, and similar setups the Marines had, but with much better equipment. These men had no rank, no insignia. Eight of the men engaged the marines directing their weapons at the soldiers and flipping off the weapons safeties screaming at the Marines, asking what they were doing there and threatening their lives.
+Gerb
+The craft floated 15 to 20ft above the ground, surrounded by a, quote, rogue military force. What was astounding is these men featured American dialects, American gear, and similar setups the Marines had, but with much better equipment. These men had no rank, no insignia. 
+
+Eight of the men engaged the marines directing their weapons at the soldiers and flipping off the weapons safeties screaming at the Marines, asking what they were doing there and threatening their lives.
 
 00;06;55;10 - 00;07;25;19
-Unknown
-Terrified, the Marines complied. They were patted down and stripped of their weapons. The rogue operators even knew to take the Marines military IDs out of their left breast pocket, where they snapped pictures of Herrera and his fellow Marines. Identifications. During this time, Michael occasionally shifted his glance back to the large UFO, where four F-350 sat with weapon cases and containers with an oxygen or humidity control unit, which held what Michael would later come to learn.
+Gerb
+Terrified, the Marines complied. They were patted down and stripped of their weapons. The rogue operators even knew to take the Marines military IDs out of their left breast pocket, where they snapped pictures of Herrera and his fellow Marines. Identifications. 
+
+During this time, Michael occasionally shifted his glance back to the large UFO, where four F-350 sat with weapon cases and containers with an oxygen or humidity control unit, which held what Michael would later come to learn.
 
 00;07;25;21 - 00;07;51;08
-Unknown
+Gerb
 We're human beings. The F-350 is loaded the supplies onto a platform below the craft. When the platform itself rose from the ground connected with the craft and the two connected pieces shot off westward, instantaneous. No rotor wash, no exhaust, no sonic boom. None of the surrounding vegetation was disturbed in any way. The Marines were told to turn around.
 
 00;07;51;08 - 00;08;19;28
-Unknown
-Michael thought that this was it. They were dead until the operators began reloading the soldiers equipment and magazines back onto their persons, escorting the Marines back up to the slopes. The operators told Michael and his fellow soldiers they were not allowed to look back or talk about what they had seen breaking the hillside. The Marines ran back to the LZ, where a resident gunnery sergeant grew furious at the non-combat effect of Marines flying back to the USS Denver.
+Gerb
+Michael thought that this was it. They were dead until the operators began reloading the soldiers equipment and magazines back onto their persons, escorting the Marines back up to the slopes. The operators told Michael and his fellow soldiers they were not allowed to look back or talk about what they had seen. Breaking the hillside. The Marines ran back to the LZ, where a resident gunnery sergeant grew furious at the non-combat effect of Marines flying back to the USS Denver.
 
 00;08;20;01 - 00;08;44;04
-Unknown
-An admiral debriefed the team, and a few days later, while on leave the battery, an SD card to Michael's camera were taken along with the fellow Marines cell phones. And finally, when the USS Denver tracked back to Okinawa, a man in USAF Blues with no name tag pulled Michael into his office, where he told him to never tell anybody of his encounter, regardless of chain of command.
+Gerb
+An admiral debriefed the team, and a few days later, while on leave the battery, and SD card to Michael's camera were taken along with the fellow Marines cell phones. 
+
+And finally, when the USS Denver tracked back to Okinawa, a man in USAF Blues with no name tag pulled Michael into his office, where he told him to never tell anybody of his encounter, regardless of chain of command.
 
 00;08;44;06 - 00;09;23;08
-Unknown
-Discussing the event would lead to imprisonment or death. Michael was then forced to sign an NDA to never speak about the experience. And, what really triggered me into, being motivated to look into the case myself was hearing all of the negative reaction towards him, for reasons that I felt were really flimsy. You know, people were criticizing him because they didn't, you know, he said they didn't have radios and or like, because he he mislabeled the name of a rifle or something.
+Gerb
+Discussing the event would lead to imprisonment or death. Michael was then forced to sign an NDA to never speak about the experience. 
+
+[[joeyisnotmyname]]: "And, what really triggered me into, being motivated to look into the case myself was hearing all of the negative reaction towards him, for reasons that I felt were really flimsy. You know, people were criticizing him because they didn't, you know, he said they didn't have radios and or like, because he he mislabeled the name of a rifle or something."
 
 00;09;23;10 - 00;10;01;01
-Unknown
-And I just, I just thought that was pretty absurd to to completely dismiss a whistleblower when you're literally sitting here considering a story about a 300ft UFO, but because they didn't have a radio, that's too unbelievable for you, you know? So let's just dismiss the whole thing. If the UFO community did not have the, open mindedness and patience, and space to provide a whistleblower to, you know, give time to investigate and vet the story.
+[[joeyisnotmyname]]: "And I just, I just thought that was pretty absurd to to completely dismiss a whistleblower when you're literally sitting here considering a story about a 300ft UFO, but because they didn't have a radio, that's too unbelievable for you, you know? So let's just dismiss the whole thing. If the UFO community did not have the, open mindedness and patience, and space to provide a whistleblower to, you know, give time to investigate and vet the story."
 
 00;10;01;08 - 00;10;21;16
-Unknown
-And if we were just going to shut them down immediately for, like, really lame reasons, I like, how are we going to expect the general public to, to take this seriously if we can't even, you know, give it, give it a chance, you know? So, I mean, the other thing was like it dawned on me like, this is a military operation, and humanitarian operation.
+[[joeyisnotmyname]]: "And if we were just going to shut them down immediately for, like, really lame reasons, I like, how are we going to expect the general public to, to take this seriously if we can't even, you know, give it, give it a chance, you know? So, I mean, the other thing was like it dawned on me like, this is a military operation, and humanitarian operation."
 
 00;10;21;16 - 00;10;55;11
-Unknown
-So there's a ton of photojournalism, journalists, you know, military reports and assessments that were done all around this operation. So I saw that as a great opportunity to begin digging into the details, to see if I could find any conflicts with, Michael's testimony. And I ended up finding the opposite, that that I was corroborating everything that I could find corroborated what he was saying.
+[[joeyisnotmyname]]: "So there's a ton of photojournalism, journalists, you know, military reports and assessments that were done all around this operation. So I saw that as a great opportunity to begin digging into the details, to see if I could find any conflicts with, Michael's testimony. And I ended up finding the opposite, that that I was corroborating everything that I could find corroborated what he was saying."
 
 00;10;55;11 - 00;11;24;14
-Unknown
-Now, obviously, that doesn't prove he saw a UFO, but it it does corroborate all of the details around that operation that he was on. And so, I, I made a post on Reddit, kind of, you know, detailing those things that I found Joey's first Reddit post titled verifying the events around Michael Herrera's UFO encounter, Part one, sought to confirm all the little bits and pieces of the military operation in 2009.
+[[joeyisnotmyname]]: "Now, obviously, that doesn't prove he saw a UFO, but it it does corroborate all of the details around that operation that he was on. And so, I, I made a post on Reddit, kind of, you know, detailing those things that I found."
+
+Gerb
+Joey's first Reddit post titled verifying the events around Michael Herrera's UFO encounter, Part one, sought to confirm all the little bits and pieces of the military operation in 2009.
 
 00;11;24;16 - 00;11;55;14
-Unknown
-Logically, if Michael could be found to be lying about any detail regarding the humanitarian mission, his whole testimony could be thrown out the window as another UFO wannabe, Joey provided documents, all evidence to support all of the context Michael provided, including the USS Denver was the sole ship assigned to support Indonesian military efforts. Regardless of Michael finding the strange, the 31st Marine Expeditionary Unit was present at this operation.
+Gerb
+Logically, if Michael could be found to be lying about any detail regarding the humanitarian mission, his whole testimony could be thrown out the window as another UFO wannabe. 
+
+Joey provided documents, all evidence to support all of the context Michael provided, including the USS Denver was the sole ship assigned to support Indonesian military efforts. Regardless of Michael finding the strange, the 31st Marine Expeditionary Unit was present at this operation.
 
 00;11;55;17 - 00;12;22;15
-Unknown
-53 Super Stallion Choppers were used to deliver aid and finally the confirmation of hasty leaves through a blog post which detailed efforts done by the US forces to deliver supplies to critical and remote areas. Of course, none of this actually proves that Michael saw a UFO Austin service, but this post does confirm key smaller elements of his story, including accurately depicting the military op in Indonesia.
+CH-53 Super Stallion Choppers were used to deliver aid and finally the confirmation of hasty leaves through a blog post which detailed efforts done by the US forces to deliver supplies to critical and remote areas. Of course, none of this actually proves that Michael saw a UFO whilst in service, but this post does confirm key smaller elements of his story, including accurately depicting the military op in Indonesia.
 
 00;12;22;17 - 00;13;03;14
-Unknown
-Joey includes a call to action asking Michael to reach out for further investigation. So my plan was to do a part two where I would I wanted to figure out where the landing zone was, and so I thought if I could reach out to Michael and we could work together to figure out where the landing zone was, I have the 3D modeling background, so what I wanted to do was import that terrain, into, you know, some 3D modeling software and be able to perform like additional analysis to cross-check his estimates of distances and heights and scales of things.
+Gerb
+Joey includes a call to action asking Michael to reach out for further investigation. 
+
+[[joeyisnotmyname]]: "So my plan was to do a part two where I would I wanted to figure out where the landing zone was, and so I thought if I could reach out to Michael and we could work together to figure out where the landing zone was, I have the 3D modeling background, so what I wanted to do was import that terrain, into, you know, some 3D modeling software and be able to perform like additional analysis to cross-check his estimates of distances and heights and scales of things."
 
 00;13;03;16 - 00;13;27;17
-Unknown
-And I also thought it was important to illustrate the distances that are involved in this, encounter, because the landing zone was almost 7 or 800m away from where the craft was, was sighted with a, with a hill in between, in the middle of, of jungle. And so that was, that was really my, my only thought, for for reaching out to Michael.
+[[joeyisnotmyname]]: "And I also thought it was important to illustrate the distances that are involved in this, encounter, because the landing zone was almost 7 or 800m away from where the craft was, was sighted with a, with a hill in between, in the middle of, of jungle. And so that was, that was really my, my only thought, for for reaching out to Michael."
 
 00;13;27;17 - 00;13;50;15
-Unknown
-I had no idea it was gonna, you know, kind of spiral spiral much deeper into to what it has. I mean, how how rare is it that we get any sort of testimony that isn't that's literally just, you know, most times it's literally just testimony. It's just someone's verbal account of what happened. There's no evidence, there's no nothing.
+[[joeyisnotmyname]]: "I had no idea it was gonna, you know, kind of spiral spiral much deeper into to what it has. I mean, how how rare is it that we get any sort of testimony that isn't that's literally just, you know, most times it's literally just testimony. It's just someone's verbal account of what happened. There's no evidence, there's no nothing."
 
 00;13;50;17 - 00;14;16;06
-Unknown
-And here we have a military operation that has, you know, aerial surveys being conducted. I'm sure there's plenty of satellite imagery, you know, that exists. And just all of the different records that kind of track, the movements of, of things, you know, it just that reason alone seems like a very exciting case to dig into where you have a lot of opportunity to uncover data.
+[[joeyisnotmyname]]: "And here we have a military operation that has, you know, aerial surveys being conducted. I'm sure there's plenty of satellite imagery, you know, that exists. And just all of the different records that kind of track, the movements of, of things, you know, it just that reason alone seems like a very exciting case to dig into where you have a lot of opportunity to uncover data."
 
 00;14;16;09 - 00;14;35;27
-Unknown
-Literally that same day that I emailed him, he called me that night, we spoke for about a half hour and, you know, I got the sense that he respected the amount of effort I put into that post and just the, you know, just putting in the work. I have a feeling it was part of why he started to trust me and respect me.
+[[joeyisnotmyname]]: "Literally that same day that I emailed him, he called me that night, we spoke for about a half hour and, you know, I got the sense that he respected the amount of effort I put into that post and just the, you know, just putting in the work. I have a feeling it was part of why he started to trust me and respect me moving forward."
 
 00;14;35;29 - 00;15;05;05
-Unknown
-Moving forward, you know, he started trusting me with, with certain sensitive information that that did help, you know, back up some of his, some of his claims, circumstantially, I'll say. Then he started telling me more about this insider, the discussion around this program. Insider who met with and disclosed leaks to Michael is where some followers of this case, including myself, justifiably raise red flags and heighten their skepticism.
+[[joeyisnotmyname]]:  "You know, he started trusting me with, with certain sensitive information that that did help, you know, back up some of his, some of his claims, circumstantially, I'll say. Then he started telling me more about this insider."
+
+Gerb
+The discussion around this program. Insider who met with and disclosed leaks to Michael is where some followers of this case, including myself, justifiably raise red flags and heighten their skepticism.
 
 00;15;05;07 - 00;15;25;12
-Unknown
+Gerb
 But who is this insider, and for what reason did he meet with Michael? What can Joey tell us about this meeting, and how can he prove Michael was flown out to a secure facility to meet with this shadowy figure? And also, do not worry, when we get to the actual contents of the meeting, we will of course, discuss all of the leaks that were told to Michael by this insider.
 
 00;15;25;15 - 00;15;54;00
-Unknown
-Michael's first encounter with this insider was actually mentioned on his first public appearance on Stephen Greer's National Press Club panel, which, come to find out through recent reservations from yesterday from, somebody who came forward to Doctor Greer. I don't know who they are, but what they had told him and what he has told me is that this gentleman knows exactly what these were used for because they had, like a cylinder on the front, which is either for oxygen or what I hypothesized was for vacuum sealing.
+Gerb
+Michael's first encounter with this insider was actually mentioned on his first public appearance on Stephen Greer's National Press Club panel. 
+
+[[Michael Herrera]]: "which, come to find out through recent reservations from yesterday from, somebody who came forward to Doctor Greer. I don't know who they are, but what they had told him and what he has told me is that this gentleman knows exactly what these were used for because they had, like a cylinder on the front, which is either for oxygen or what I hypothesized was for vacuum sealing."
 
 00;15;54;03 - 00;16;22;05
-Unknown
-Which lead me to suspect that they were smuggling narcotics or drugs. Come to find out, it's more disturbing than that. This gentleman has firsthand account with this and says that it was for people. This insider, wanted to meet Michael in person, and so he, asked Doctor Greer to make the connection. And so, you know, he introduced the two or passed along phone numbers or whatever.
+[[Michael Herrera]]: "Which lead me to suspect that they were smuggling narcotics or drugs. Come to find out, it's more disturbing than that. This gentleman has firsthand account with this and says that it was for people." 
+
+[[joeyisnotmyname]]: "This insider, wanted to meet Michael in person, and so he, asked Doctor Greer to make the connection. And so, you know, he introduced the two or passed along phone numbers or whatever."
 
 00;16;22;08 - 00;16;48;15
-Unknown
-And so Michael's telling me all this, you know, that this this insider wants to meet him and all this stuff, and and I found it very suspicious. You know, I found it very, strange that that not only would he have this, really incredible story about seeing a UFO in Indonesia. Yeah, a huge 300ft UFO, which is is pretty unique.
+[[joeyisnotmyname]]: "And so Michael's telling me all this, you know, that this this insider wants to meet him and all this stuff, and and I found it very suspicious. You know, I found it very, strange that that not only would he have this, really incredible story about seeing a UFO in Indonesia. Yeah, a huge 300ft UFO, which is is pretty unique."
 
 00;16;48;15 - 00;17;07;18
-Unknown
-I don't know, I personally don't know of too many stories like that that big. And now you're telling me that that literally an insider wants to meet you, like, come on, this is, you know, this is pretty outrageous, you know, how did, how did Michael react when he was approached by the insider? Was he excited? Was he skeptical?
+[[joeyisnotmyname]]: "I don't know, I personally don't know of too many stories like that that big. And now you're telling me that that literally an insider wants to meet you, like, come on, this is, you know, this is pretty outrageous, you know, 
+
+Gerb: how did, how did Michael react when he was approached by the insider? 
+[[joeyisnotmyname]]: "Was he excited?" 
+Gerb: Was he skeptical?
 
 00;17;07;18 - 00;17;28;27
-Unknown
-Was he possibly worried for his safety scare? He was. He was very he he I mean, the last time, if you think about it like the last time he's interacted with any of these people, they had guns pointed at him and, you know, were threatening to kill him and stuff. And and so now here's someone is, you know, allegedly associated with that.
+Gerb: Was he possibly worried for his safety scare? 
+[[joeyisnotmyname]]: "He was. He was very he he I mean, the last time, if you think about it like the last time he's interacted with any of these people, they had guns pointed at him and, you know, were threatening to kill him and stuff. And and so now here's someone is, you know, allegedly associated with that."
 
 00;17;28;27 - 00;17;57;13
-Unknown
-And, but he just felt like if he wants to move this forward, he's got to he's got to take the chance and do it. And for me, you know, at the time, this was pretty early on in my, interactions with Michael, and I didn't feel like I had the sort of relationship with him where I could, you know, ask questions or provide advice or anything like that.
+[[joeyisnotmyname]]: "And, but he just felt like if he wants to move this forward, he's got to he's got to take the chance and do it. And for me, you know, at the time, this was pretty early on in my, interactions with Michael, and I didn't feel like I had the sort of relationship with him where I could, you know, ask questions or provide advice or anything like that."
 
 00;17;57;13 - 00;18;26;25
-Unknown
-You know, I was basically just kind of respectfully, you know, taking information from him that he felt comfortable sharing with me. But I wanted to scream at him and say, dude, like, are you crazy? And mind you, I went back and forth, constantly through this period where I would allow myself to pretend it's all real and like, you know, let myself just kind of sit there for a minute and be like, all right, let's say this is all real.
+[[joeyisnotmyname]]: "You know, I was basically just kind of respectfully, you know, taking information from him that he felt comfortable sharing with me. But I wanted to scream at him and say, dude, like, are you crazy? And mind you, I went back and forth, constantly through this period where I would allow myself to pretend it's all real and like, you know, let myself just kind of sit there for a minute and be like, all right, let's say this is all real."
 
 00;18;26;28 - 00;18;50;28
-Unknown
-Holy crap. This is. He's crazy. Like he can't go and meet this guy. He's going to kill him, you know? And then there were times where I would be feeling the opposite and being like, okay, this is this is clearly like a set up. And he's telling me stuff, that he's telling me is sensitive, but in reality, it's, he wants me to leak it, but he's telling me not to.
+[[joeyisnotmyname]]: "Holy crap. This is. He's crazy. Like he can't go and meet this guy. He's going to kill him, you know? And then there were times where I would be feeling the opposite and being like, okay, this is this is clearly like a set up. And he's telling me stuff, that he's telling me is sensitive, but in reality, it's, he wants me to leak it, but he's telling me not to."
 
 00;18;50;29 - 00;19;09;16
-Unknown
-It's like reverse psychology or something. And, you know, I need to be really cautious here. And so that was, that was what was going through my mind at the time. And it was very much back and forth. But I also felt like I was in a pretty good position because this wasn't anything I had to take action on.
+[[joeyisnotmyname]]: "It's like reverse psychology or something. And, you know, I need to be really cautious here. And so that was, that was what was going through my mind at the time. And it was very much back and forth. But I also felt like I was in a pretty good position because this wasn't anything I had to take action on."
 
 00;19;09;18 - 00;19;40;00
-Unknown
-I had reached out to him to kind of like try to figure out what the law was, and then it kind of just snowballed into this other thing. But I felt like I was in a great position because there was really no risk or harm in me, just letting things play out and see what happens. You know, Joey was rightfully, extremely confused and skeptical as to why Michael confided so much information to him about the insider and the meeting time, date, and location.
+[[joeyisnotmyname]]: "I had reached out to him to kind of like try to figure out what the law was, and then it kind of just snowballed into this other thing. But I felt like I was in a great position because there was really no risk or harm in me, just letting things play out and see what happens. You know."
+
+Joey was rightfully, extremely confused and skeptical as to why Michael confided so much information to him about the insider and the meeting time, date, and location.
 
 00;19;40;03 - 00;20;06;12
-Unknown
-It was then Joey actually realized Michael was using him as a dead man switch. Michael feared what might happen to him being taken out to an unfamiliar location by unfamiliar people, and in case he was in fact killed, Joey should release any and all information he had. That was what made me the most suspicious, because it was like he was trusting me with information without any real justification.
+Gerb
+It was then Joey actually realized Michael was using him as a dead man switch. Michael feared what might happen to him being taken out to an unfamiliar location by unfamiliar people, and in case he was in fact killed, Joey should release any and all information he had. 
+
+[[joeyisnotmyname]]: "That was what made me the most suspicious, because it was like he was trusting me with information without any real justification."
 
 00;20;06;12 - 00;20;28;02
-Unknown
-And then I realized, you know, that he was going out to meet this guy. And I got the feeling that he was, you know, telling me this information in case something happened to him. And I called him out on it. And told. And, you know, he basically said like, yeah, I, you know, something happens to me while I'm out there, you know, I want you to release all this information.
+[[joeyisnotmyname]]: "And then I realized, you know, that he was going out to meet this guy. And I got the feeling that he was, you know, telling me this information in case something happened to him. And I called him out on it. And told. And, you know, he basically said like, yeah, I, you know, something happens to me while I'm out there, you know, I want you to release all this information."
 
 00;20;28;05 - 00;20;55;10
-Unknown
-I'm very happy that Joey brought this next point up, as he has never actually talked about this publicly. The day before the meeting, Joey and Michael had a conversation about the meeting, and Joey recorded this conversation without Michael's knowledge. I called Michael and had a conversation with him about the meeting, and I recorded it without his knowledge. And I did that.
+Gerb
+I'm very happy that Joey brought this next point up, as he has never actually talked about this publicly. The day before the meeting, Joey and Michael had a conversation about the meeting, and Joey recorded this conversation without Michael's knowledge. 
+
+[[joeyisnotmyname]]: "I called Michael and had a conversation with him about the meeting, and I recorded it without his knowledge. And I did that."
 
 00;20;55;13 - 00;21;14;00
-Unknown
-Because I felt like I needed proof, in case I did need to, in case something did happen to him. And, and I couldn't get in touch with him, and I needed to reach out to someone to prove that, yes, I'm in touch with Michael, and these are the things he's told me. And now I can't get Ahold of him.
+[[joeyisnotmyname]]: "Because I felt like I needed proof, in case I did need to, in case something did happen to him. And, and I couldn't get in touch with him, and I needed to reach out to someone to prove that, yes, I'm in touch with Michael, and these are the things he's told me. And now I can't get Ahold of him."
 
 00;21;14;07 - 00;21;39;02
-Unknown
-I didn't think anyone would believe me unless I had some sort of proof that I was talking to him. So I recorded that. I think I actually shared that with you. Hey, Michael, it was a little time before I have to kick off this meeting here at 930. Oh. Okay. Yeah. Well, I just, you know, first of all, I wanted to check in with you, see how you're how you're doing, how you're feeling.
+[[joeyisnotmyname]]: I didn't think anyone would believe me unless I had some sort of proof that I was talking to him. So I recorded that. I think I actually shared that with you."
+
+Hey, Michael, it was a little time before I have to kick off this meeting here at 930. Oh. Okay. Yeah. Well, I just, you know, first of all, I wanted to check in with you, see how you're how you're doing, how you're feeling.
 
 00;21;39;05 - 00;21;58;17
 Unknown

@@ -1,3 +1,9 @@
+---
+aliases:
+  - The Marines Who Got Too Close to UFOs
+---
+
+
 ![[04-The Marines Who Got too Close to UFOs-thumbnail.jpg]]
 ## 🎥 Video Details
 
