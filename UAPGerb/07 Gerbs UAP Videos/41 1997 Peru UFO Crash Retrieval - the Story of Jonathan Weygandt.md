@@ -93,6 +93,7 @@ Topics covered:
 **Join the UAPGerb Discord**: [discord.gg/XXXXXX](https://chatgpt.com/g/g-67baa97585e08191bb015cca779fd47a-uap-gerb-research-assistant/c/INSERT_LINK)
 
 # Transcript:
+## Intro
 
 00:00:00:00 - 00:00:26:06
 [[Jonathan Waygandt]]: It was. It was weird. It was bluish green color. And you could tell it was like. It was just weird. Anyway, it's hard to explain. It kind of like like like it was like. It seemed just like, be along. I mean, it was almost like if you were looking like something organic, then, I don't know, I couldn't tell, didn't look like anything.
@@ -147,7 +148,7 @@ Unknown
 It was like looking into a closet. Where were you standing alongside the 2000 tape? I have found, and will be often referencing Jonathan's outreach to Greer's team from August 2000, just two months before his taped testimony. And of course, it goes without saying. I will often be pulling my own clips from my time spent with Jonathan. And with all that being said, let's start our investigation and first travel back all the way to 1997 to relive the experience of Lance Corporal Wigand.
 
 00:06:24:13 - 00:06:51:14
-Unknown
+## Operation Laser Strike
 And basically, I was there, and then I was transferred over to the section for the laser strike in February of 97, as a young man, Jonathan Gant joined the Marine Corps in 1995 and served until 1998. After a back injury suffered in training, Jonathan Service led him to the second Low Altitude Air Defense Battalion within the Marine Corps Air Control Group 28, stationed at Marine Corps Air Station Cherry Point.
 
 00:06:51:20 - 00:07:20:20
